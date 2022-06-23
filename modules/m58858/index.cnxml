@@ -10,14 +10,14 @@
 
 <content>
 <section id="fs-id1167663990851" class="learning-objectives">
-<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<title>Learning Objectives</title>
 <list id="fs-id1167663991742">
 <item>Compare and contrast natural, semisynthetic, and synthetic antimicrobial drugs</item>
 <item>Describe the chemotherapeutic approaches of ancient societies</item>
 <item>Describe the historically important individuals and events that led to the development of antimicrobial drugs</item>
 </list>
 </section>
-<note id="fs-id1167661303645" class="microbiology clinical-focus">
+<note id="fs-id1167661303645" class="microbiology clinical-focus-opener">
 <title>Part 1</title>
 <para id="fs-id1167661323318">Marisa, a 52-year-old woman, was suffering from severe abdominal pain, swollen lymph nodes, fatigue, and a fever. She had just returned home from visiting extended family in her native country of Cambodia. While abroad, she received medical care in neighboring Vietnam for a compressed spinal cord. She still had discomfort when leaving Cambodia, but the pain increased as her trip home continued and her husband drove her straight from the airport to the emergency room.</para>
 <para id="fs-id1167663729644">Her doctor considers whether Marisa could be suffering from appendicitis, a urinary tract infection (UTI), or pelvic inflammatory disease (PID). However, each of those conditions is typically preceded or accompanied by additional symptoms. He considers the treatment she received in Vietnam for her compressed spinal cord, but abdominal pain is not usually associated with spinal cord compression. He examines her health history further.</para>
@@ -27,7 +27,7 @@
 </list>
 <para id="fs-id1167661322938"><emphasis effect="italics">Jump to the <link document="m58860" target-id="fs-id1167661499148">next</link> Clinical Focus box.</emphasis></para>
 </note>
-<para id="fs-id1167661325378">Most people associate the term <term class="no-emphasis">chemotherapy</term> with treatments for cancer. However, chemotherapy is actually a broader term that refers to any use of chemicals or drugs to treat disease. Chemotherapy may involve drugs that target cancerous cells or tissues, or it may involve <term>antimicrobial drugs</term> that target infectious microorganisms. Antimicrobial drugs typically work by destroying or interfering with microbial structures and enzymes, either killing microbial cells or inhibiting their growth. But before we examine how these drugs work, we will briefly explore the history of humans’ use of antimicrobials for the purpose of chemotherapy.</para>
+<para id="fs-id1167661325378">Most people associate the term <term class="no-emphasis">chemotherapy</term> with treatments for cancer. However, chemotherapy is actually a broader term that refers to any use of chemicals or drugs to treat disease. Chemotherapy may involve drugs that target cancerous cells or tissues, or it may involve <term>antimicrobial drugs</term> that target infectious microorganisms. Antimicrobial drugs typically work by destroying or interfering with microbial structures and enzymes, either killing microbial cells or inhibiting of their growth. But before we examine how these drugs work, we will briefly explore the history of humans’ use of antimicrobials for the purpose of chemotherapy.</para>
 <section id="fs-id1167663592843">
 <title>Use of Antimicrobials in Ancient Societies</title>
 <para id="fs-id1167663963808">Although the discovery of antimicrobials and their subsequent widespread use is commonly associated with modern medicine, there is evidence that humans have been exposed to antimicrobial compounds for millennia. Chemical analyses of the skeletal remains of people from Nubia<footnote id="fs-id1167663965018">M.L. Nelson et al. “Brief Communication: Mass Spectroscopic Characterization of Tetracycline in the Skeletal Remains of an Ancient Population from Sudanese Nubia 350–550 CE.” <emphasis effect="italics">American Journal of Physical Anthropology</emphasis> 143 no. 1 (2010):151–154. </footnote> (now found in present-day Sudan) dating from between 350 and 550 AD have shown residue of the antimicrobial agent <term class="no-emphasis">tetracycline</term> in high enough quantities to suggest the purposeful fermentation of tetracycline-producing <emphasis effect="italics">Streptomyces</emphasis> during the beer-making process. The resulting <term class="no-emphasis">beer</term>, which was thick and gruel-like, was used to treat a variety of ailments in both adults and children, including gum disease and wounds. The antimicrobial properties of certain plants may also have been recognized by various cultures around the world, including Indian and Chinese <term class="no-emphasis">herbalists</term> (<link target-id="OSC_Microbio_14_01_Woodcut"/>) who have long used plants for a wide variety of medical purposes. Healers of many cultures understood the antimicrobial properties of fungi and their use of moldy bread or other mold-containing products to treat wounds has been well documented for centuries.<footnote id="fs-id1167661280613">M. Wainwright. “Moulds in Ancient and More Recent Medicine.” <emphasis effect="italics">Mycologist</emphasis> 3 no. 1 (1989):21–23.</footnote> Today, while about 80% of the world’s population still relies on plant-derived medicines,<footnote id="fs-id1167663991539">S. Verma, S.P. Singh. “Current and Future Status of Herbal Medicines.” <emphasis effect="italics">Veterinary World</emphasis> 1 no. 11 (2008):347–350.</footnote> scientists are now discovering the active compounds conferring the medicinal benefits contained in many of these traditionally used plants.</para>
@@ -142,5 +142,5 @@
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 </document>

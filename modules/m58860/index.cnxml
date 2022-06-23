@@ -464,10 +464,10 @@
 <section id="fs-id1167663870749">
 <title>Inhibitor of ATP Synthase</title>
 <para id="fs-id1167663638433">Bedaquiline, representing the synthetic antibacterial class of compounds called the <term class="no-emphasis">diarylquinolines</term>, uses a novel mode of action that specifically inhibits mycobacterial growth. Although the specific mechanism has yet to be elucidated, this compound appears to interfere with the function of <term class="no-emphasis">ATP</term> synthases, perhaps by interfering with the use of the hydrogen ion gradient for ATP synthesis by <term class="no-emphasis">oxidative phosphorylation</term>, leading to reduced ATP production. Due to its <term class="no-emphasis">side effects</term>, including <term class="no-emphasis">hepatotoxicity</term> and potentially lethal heart arrhythmia, its use is reserved for serious, otherwise untreatable cases of <term class="no-emphasis">tuberculosis</term>.</para><note id="fs-id1167661327038" class="microbiology link-to-learning">
-
-<para id="fs-id1167661427818">
-To learn more about the general principles of antimicrobial therapy and bacterial modes of action, read this <link url="https://openstax.org/I/22AntiMicrob">article</link> for a general overview of antimicrobial therapy strategies and read this <link url="https://openstax.org/I/22AntiMicRes">article</link> on the mechanism of action of antimicrobial classes.
-</para>
+<media id="fs-id1167663627891" alt="Link to learning graphic">
+<image mime-type="image/jpeg" src="../../media/CNX_Interactive_200DPI.png"/>
+</media>
+<para id="fs-id1167661427818">To learn more about the general principles of antimicrobial therapy and bacterial modes of action, visit <link url="https://openstax.org/l/22MSUantireslea">Michigan State University’s Antimicrobial Resistance Learning Site</link>, particularly pages 6 through 9.</para>
 </note>
 <note id="fs-id1167661499148" class="microbiology clinical-focus">
 <title>Part 2</title>
@@ -593,5 +593,5 @@ To learn more about the general principles of antimicrobial therapy and bacteria
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 </document>

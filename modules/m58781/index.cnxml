@@ -9,14 +9,14 @@
 
 <content>
 <section id="fs-id1171360203262" class="learning-objectives">
-<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<title>Learning Objectives</title>
 <list id="fs-id1171360573696">
 <item>Describe how our ancestors improved food with the use of invisible microbes</item>
 <item>Describe how the causes of sickness and disease were explained in ancient times, prior to the invention of the microscope</item>
 <item>Describe key historical events associated with the birth of microbiology</item>
 </list>
 </section>
-<note id="fs-id1171360313936" class="microbiology clinical-focus">
+<note id="fs-id1171360313936" type="microbiology clinical-focus-opener">
 <title>Part 1</title>
 <para id="fs-id1171360608266">Cora, a 41-year-old lawyer and mother of two, has recently been experiencing severe headaches, a high fever, and a stiff neck. Her husband, who has accompanied Cora to see a doctor, reports that Cora also seems confused at times and unusually drowsy. Based on these symptoms, the doctor suspects that Cora may have meningitis, a potentially life-threatening infection of the tissue that surrounds the brain and spinal cord.</para>
 <para id="fs-id1171360138018">Meningitis has several potential causes. It can be brought on by bacteria, fungi, viruses, or even a reaction to medication or exposure to heavy metals. Although people with viral meningitis usually heal on their own, bacterial and fungal meningitis are quite serious and require treatment.</para>
@@ -48,7 +48,7 @@
 </section>
 <section id="fs-id1171360202567">
 <title>The Iceman Treateth</title>
-<para id="fs-id1171360292428">Prehistoric humans had a very limited understanding of the causes of disease, and various cultures developed different beliefs and explanations. While many believed that illness was punishment for angering the gods or was simply the result of fate, archaeological evidence suggests that prehistoric people attempted to treat illnesses and infections. One example of this is <term class="no-emphasis">Ötzi the Iceman</term>, a 5300-year-old mummy found frozen in the ice of the Ötzal Alps on the Austrian-Italian border in 1991. Because Ötzi was so well preserved by the ice, researchers discovered that he was infected with the eggs of the parasite <emphasis effect="italics">Trichuris trichiura</emphasis>, which may have caused him to have abdominal pain and anemia. Researchers also found evidence of <emphasis effect="italics">Borrelia burgdorferi</emphasis>, a bacterium that causes Lyme disease.<footnote id="fs-id1171358996816">A. Keller et al. “New Insights into the Tyrolean Iceman's Origin and Phenotype as Inferred by Whole-Genome Sequencing.” <emphasis effect="italics">Nature Communications</emphasis>, 3 (2012): 698. doi:10.1038/ncomms1701.</footnote> Some researchers think Ötzi may have been trying to treat his infections with the woody fruit of the <emphasis effect="italics">Fomitopsis betulinus</emphasis> fungus, which was discovered tied to his belongings.<footnote id="fs-id1171360087038">L. Capasso. “5300 Years Ago, the Ice Man Used Natural Laxatives and Antibiotics.” <emphasis effect="italics">The Lancet</emphasis>, 352 (1998) 9143: 1864. doi: 10.1016/s0140-6736(05)79939-6.</footnote> This fungus has both laxative and antibiotic properties. Ötzi was also covered in tattoos that were made by cutting incisions into his skin, filling them with herbs, and then burning the herbs.<footnote id="fs-id1171360187181">L. Capasso, L. “5300 Years Ago, the Ice Man Used Natural Laxatives and Antibiotics.” <emphasis effect="italics">The Lancet</emphasis>, 352 no. 9143 (1998): 1864. doi: 10.1016/s0140-6736(05)79939-6.</footnote> There is speculation that this may have been another attempt to treat his health ailments.</para>
+<para id="fs-id1171360292428">Prehistoric humans had a very limited understanding of the causes of disease, and various cultures developed different beliefs and explanations. While many believed that illness was punishment for angering the gods or was simply the result of fate, archaeological evidence suggests that prehistoric people attempted to treat illnesses and infections. One example of this is <term class="no-emphasis">Ötzi the Iceman</term>, a 5300-year-old mummy found frozen in the ice of the Ötzal Alps on the Austrian-Italian border in 1991. Because Ötzi was so well preserved by the ice, researchers discovered that he was infected with the eggs of the parasite <emphasis effect="italics">Trichuris trichiura</emphasis>, which may have caused him to have abdominal pain and anemia. Researchers also found evidence of <emphasis effect="italics">Borrelia burgdorferi</emphasis>, a bacterium that causes Lyme disease.<footnote id="fs-id1171358996816">A. Keller et al. “New Insights into the Tyrolean Iceman's Origin and Phenotype as Inferred by Whole-Genome Sequencing.” <emphasis effect="italics">Nature Communications</emphasis>, 3 (2012): 698. doi:10.1038/ncomms1701.</footnote> Some researchers think Ötzi may have been trying to treat his infections with the woody fruit of the <emphasis effect="italics">Piptoporus betulinus</emphasis> fungus, which was discovered tied to his belongings.<footnote id="fs-id1171360087038">L. Capasso. “5300 Years Ago, the Ice Man Used Natural Laxatives and Antibiotics.” <emphasis effect="italics">The Lancet</emphasis>, 352 (1998) 9143: 1864. doi: 10.1016/s0140-6736(05)79939-6.</footnote> This fungus has both laxative and antibiotic properties. Ötzi was also covered in tattoos that were made by cutting incisions into his skin, filling them with herbs, and then burning the herbs.<footnote id="fs-id1171360187181">L. Capasso, L. “5300 Years Ago, the Ice Man Used Natural Laxatives and Antibiotics.” <emphasis effect="italics">The Lancet</emphasis>, 352 no. 9143 (1998): 1864. doi: 10.1016/s0140-6736(05)79939-6.</footnote> There is speculation that this may have been another attempt to treat his health ailments.</para>
 </section>
 <section id="fs-id1171359011758">
 <title>Early Notions of Disease, Contagion, and Containment</title>
@@ -79,7 +79,7 @@
 </section>
 <section id="fs-id1171360199260">
 <title>The Birth of Microbiology</title>
-<para id="fs-id1171360183425">While the ancients may have suspected the existence of invisible “minute creatures,” it wasn’t until the invention of the microscope that their existence was definitively confirmed. While it is unclear who exactly invented the microscope, a Dutch cloth merchant named Antonie van <term class="no-emphasis">Leeuwenhoek</term> (1632–1723) was the first to develop a lens powerful enough to view microbes. In 1675, using a simple but powerful microscope, Leeuwenhoek was able to observe single-celled organisms, which he described as “animalcules” or “wee little beasties,” swimming in a drop of rain water. From his drawings of these little organisms, we now know he was looking at bacteria and protists. (We will explore Leeuwenhoek’s contributions to microscopy further in <link document="m58784">How We See the Invisible World</link>.)</para>
+<para id="fs-id1171360183425">While the ancients may have suspected the existence of invisible “minute creatures,” it wasn’t until the invention of the microscope that their existence was definitively confirmed. While it is unclear who exactly invented the microscope, a Dutch cloth merchant named Antonie van <term class="no-emphasis">Leeuwenhoek</term> (1632–1723) was the first to develop a lens powerful enough to view microbes. In 1675, using a simple but powerful microscope, Leeuwenhoek was able to observe single-celled organisms, which he described as “animalcules” or “wee little beasties,” swimming in a drop of rain water. From his drawings of these little organisms, we now know he was looking at bacteria and protists. (We will explore Leeuwenhoek’s contributions to microscopy further in <link class="target-chapter" document="m58784">How We See the Invisible World</link>.)</para>
 <para id="fs-id1171360229272">Nearly 200 years after van Leeuwenhoek got his first glimpse of microbes, the “<term class="no-emphasis">Golden Age of Microbiology</term>” spawned a host of new discoveries between 1857 and 1914. Two famous microbiologists, Louis <term class="no-emphasis">Pasteur</term> and Robert <term class="no-emphasis">Koch</term>, were especially active in advancing our understanding of the unseen world of microbes (<link target-id="OSC_Microbio_01_01_PastKoch"/>). Pasteur, a French chemist, showed that individual microbial strains had unique properties and demonstrated that fermentation is caused by microorganisms. He also invented pasteurization, a process used to kill microorganisms responsible for spoilage, and developed vaccines for the treatment of diseases, including rabies, in animals and humans. Koch, a German physician, was the first to demonstrate the connection between a single, isolated microbe and a known human disease. For example, he discovered the bacteria that cause anthrax (<emphasis effect="italics">Bacillus anthracis</emphasis>), cholera (<emphasis effect="italics">Vibrio cholera</emphasis>), and tuberculosis (<emphasis effect="italics">Mycobacterium tuberculosis</emphasis>).<footnote id="fs-id1171360586897">S.M. Blevins and M.S. Bronze. “Robert Koch and the ‘Golden Age’ of Bacteriology.” <emphasis effect="italics">International Journal of Infectious Diseases</emphasis>. 14 no. 9 (2010): e744-e751. doi:10.1016/j.ijid.2009.12.003.</footnote> We will discuss these famous microbiologists, and others, in later chapters.</para>
 <figure id="OSC_Microbio_01_01_PastKoch">
 <media id="fs-id1171359181940" alt="Figure a is a drawing of Louis Pasteur in his lab. Figure b is a photograph of Robert Koch.">
@@ -211,17 +211,17 @@
 </section>
 <section id="fs-id1171360204099" class="short-answer">
 <title>Short Answer</title>
-<exercise id="fs-id1171360483684">
+<exercise id="fs-id1171360483684"> 
 <problem id="fs-id1171360291220">
 <para id="fs-id1171360255805">What did Thucydides learn by observing the Athenian plague?</para>
 </problem>
 </exercise>
-<exercise id="fs-id1171359056517">
+<exercise id="fs-id1171359056517"> 
 <problem id="fs-id1171358978135">
 <para id="fs-id1171360598992">Why was the invention of the microscope important for microbiology?</para>
 </problem>
 </exercise>
-<exercise id="fs-id1171359003691">
+<exercise id="fs-id1171359003691"> 
 <problem id="fs-id1171360270763">
 <para id="fs-id1171360213918">What are some ways people use microbes?</para>
 </problem>
@@ -240,5 +240,5 @@
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 </document>

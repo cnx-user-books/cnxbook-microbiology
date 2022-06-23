@@ -10,7 +10,7 @@
 
 <content>
 <section id="fs-id1167661745668" class="learning-objectives">
-<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<title>Learning Objectives</title>
 <list id="fs-id1167663737098">
 <item>Identify common viral pathogens that cause infections of the circulatory and lymphatic systems</item>
 <item>Compare the major characteristics of specific viral diseases affecting the circulatory and lymphatic systems</item>
@@ -77,7 +77,9 @@
 <para id="fs-id1167661268917">The arboviral disease <term>chikungunya fever</term> is caused by chikungunya virus (CHIKV), which is transmitted to humans by <emphasis effect="italics">A. aegypti</emphasis> and <emphasis effect="italics">A. albopictus</emphasis> mosquitoes. Until 2013, the disease had not been reported outside of Africa, Asia, and a few European countries; however, CHIKV has now spread to mosquito populations in North and South America. Chikungunya fever is characterized by high fever, joint pain, rash, and blisters, with joint pain persisting for several months. These infections are typically self-limiting and rarely fatal.</para>
 <para id="fs-id1167663736577">The diagnostic approach for chikungunya fever is similar to that for dengue fever. Viruses can be cultured directly from patient serum during early infections. IFA, EIA, ELISA, PCR, and RT-PCR are available to detect CHIKV antigens and patient antibody response to the infection. There are no specific treatments for this disease except to manage symptoms with fluids, analgesics, and bed rest. As with most arboviruses, the best strategy for combating the disease is vector control.</para>
 <note id="fs-id1167663628561" class="microbiology link-to-learning">
-
+<media id="fs-id1167661322750" alt="Link to learning graphic">
+<image mime-type="image/jpeg" src="../../media/OSC_Interactive_200DPI.png"/>
+</media>
 <para id="fs-id1167663621571">Use this <link url="https://openstax.org/l/22denguemap">interactive map</link> to explore the global distribution of dengue.</para>
 </note>
 <note id="fs-id1167663968571" class="microbiology check-your-understanding">
@@ -273,6 +275,6 @@
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 
 </document>

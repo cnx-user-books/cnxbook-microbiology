@@ -10,14 +10,14 @@
 
 <content>
 <section id="fs-id1167660227501" class="learning-objectives">
-<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<title>Learning Objectives</title>
 <list id="fs-id1167662559773">
 <item>Explain the two functions of the genome</item>
 <item>Explain the meaning of the central dogma of molecular biology</item>
 <item>Differentiate between genotype and phenotype and explain how environmental factors influence phenotype</item>
 </list>
 </section>
-<note id="fs-id1167662419529" class="microbiology clinical-focus">
+<note id="fs-id1167662419529" class="microbiology clinical-focus-opener">
 <title>Part 1</title>
 <para id="fs-id1167660146352">Mark is 60-year-old software engineer who suffers from type II diabetes, which he monitors and keeps under control largely through diet and exercise. One spring morning, while doing some gardening, he scraped his lower leg while walking through blackberry brambles. He continued working all day in the yard and did not bother to clean the wound and treat it with antibiotic ointment until later that evening. For the next 2 days, his leg became increasingly red, swollen, and warm to the touch. It was sore not only on the surface, but deep in the muscle. After 24 hours, Mark developed a fever and stiffness in the affected leg. Feeling increasingly weak, he called a neighbor, who drove him to the emergency department.</para>
 <list id="fs-id1167662405550" list-type="bulleted" bullet-style="bullet">
@@ -27,7 +27,7 @@
 <para id="fs-id1167660318141"><emphasis effect="italics">Jump to the <link document="m58842" target-id="fs-id1167663965745">next</link> Clinical Focus box.</emphasis></para>
 </note>
 <para id="fs-id1167662757970">DNA serves two essential functions that deal with cellular information. First, <term class="no-emphasis">DNA</term> is the genetic material responsible for <term class="no-emphasis">inheritance</term> and is passed from parent to offspring for all life on earth. To preserve the integrity of this genetic information, DNA must be replicated with great accuracy, with minimal errors that introduce changes to the DNA sequence. A genome contains the full complement of DNA within a cell and is organized into smaller, discrete units called <term class="no-emphasis">gene</term>s that are arranged on <term class="no-emphasis">chromosome</term>s and <term class="no-emphasis">plasmid</term>s. The second function of DNA is to direct and regulate the construction of the proteins necessary to a cell for growth and reproduction in a particular cellular environment.</para>
-<para id="fs-id1167662915196">A gene is composed of DNA that is “read” or transcribed to produce an RNA molecule during the process of <term class="no-emphasis">transcription</term>. One major type of RNA molecule, called <term class="no-emphasis">messenger RNA</term> (mRNA), provides the information for the <term class="no-emphasis">ribosome</term> to catalyze <term class="no-emphasis">protein synthesis</term> in a process called <term class="no-emphasis">translation</term>. The processes of transcription and translation are collectively referred to as <term>gene expression</term>. Gene expression is the synthesis of a specific protein with a sequence of amino acids that is encoded in the gene. The flow of genetic information from DNA to RNA to protein is described by the <term>central dogma</term> (<link target-id="OSC_Microbio_11_01_CentDogma"/>). This central dogma of molecular biology further elucidates the mechanism behind <term class="no-emphasis">Beadle and Tatum</term>’s “one gene-one enzyme” hypothesis (see <link document="m58835">Using Microorganisms to Discover the Secrets of Life</link>). Each of the processes of replication, transcription, and translation includes the stages of 1) initiation, 2) elongation (polymerization), and 3) termination. These stages will be described in more detail in this chapter.</para>
+<para id="fs-id1167662915196">A gene is composed of DNA that is “read” or transcribed to produce an RNA molecule during the process of <term class="no-emphasis">transcription</term>. One major type of RNA molecule, called <term class="no-emphasis">messenger RNA</term> (mRNA), provides the information for the <term class="no-emphasis">ribosome</term> to catalyze <term class="no-emphasis">protein synthesis</term> in a process called <term class="no-emphasis">translation</term>. The processes of transcription and translation are collectively referred to as <term>gene expression</term>. Gene expression is the synthesis of a specific protein with a sequence of amino acids that is encoded in the gene. The flow of genetic information from DNA to RNA to protein is described by the <term>central dogma</term> (<link target-id="OSC_Microbio_11_01_CentDogma"/>). This central dogma of molecular biology further elucidates the mechanism behind <term class="no-emphasis">Beadle and Tatum</term>’s “one gene-one enzyme” hypothesis (see <link class="target-chapter" document="m58835">Using Microorganisms to Discover the Secrets of Life</link>). Each of the processes of replication, transcription, and translation includes the stages of 1) initiation, 2) elongation (polymerization), and 3) termination. These stages will be described in more detail in this chapter.</para>
 <figure id="OSC_Microbio_11_01_CentDogma">
 <media id="fs-id1167662471448" alt="Diagram showing DNA with an arrow (labeled transcription) pointing to RNA. An arrow from RNA to proteins is labeled translation.">
 <image mime-type="image/jpeg" src="../../media/OSC_Microbio_11_01_CentDogma.jpg"/>
@@ -140,5 +140,5 @@
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 </document>

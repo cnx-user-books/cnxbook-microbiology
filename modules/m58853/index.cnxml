@@ -9,15 +9,7 @@
 </metadata>
 
 <content>
-<section id="fs-id1167586056144" class="learning-objectives">
-<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
-<list id="fs-id1167585852240">
-<item>Compare disinfectants, antiseptics, and sterilants</item>
-<item>Describe the principles of controlling the presence of microorganisms through sterilization and disinfection</item>
-<item>Differentiate between microorganisms of various biological safety levels and explain methods used for handling microbes at each level</item>
-</list>
-</section>
-<note id="fs-id1167585980070" class="microbiology clinical-focus">
+<note id="fs-id1167585980070" class="microbiology clinical-focus-opener">
 <title>Part 1</title>
 <para id="fs-id1167582699704">Roberta is a 46-year-old real estate agent who recently underwent a cholecystectomy (surgery to remove painful gallstones). The surgery was performed laparoscopically with the aid of a duodenoscope, a specialized endoscope that allows surgeons to see inside the body with the aid of a tiny camera. On returning home from the hospital, Roberta developed abdominal pain and a high fever. She also experienced a burning sensation during urination and noticed blood in her urine. She notified her surgeon of these symptoms, per her postoperative instructions.</para>
 <list id="fs-id1167582738869" list-type="bulleted" bullet-style="bullet">
@@ -25,6 +17,14 @@
 </list>
 <para id="fs-id1167582741104"><emphasis effect="italics">Jump to the <link target-id="fs-id1167582393890">next</link> Clinical Focus box.</emphasis></para>
 </note>
+<section id="fs-id1167586056144" class="learning-objectives">
+<title>Learning Objectives</title>
+<list id="fs-id1167585852240">
+<item>Compare disinfectants, antiseptics, and sterilants</item>
+<item>Describe the principles of controlling the presence of microorganisms through sterilization and disinfection</item>
+<item>Differentiate between microorganisms of various biological safety levels and explain methods used for handling microbes at each level</item>
+</list>
+</section>
 <para id="fs-id1167586279393">To prevent the spread of human disease, it is necessary to control the growth and abundance of microbes in or on various items frequently used by humans. Inanimate items, such as doorknobs, toys, or towels, which may harbor microbes and aid in disease transmission, are called <term>fomite</term><emphasis effect="bold">s</emphasis>. Two factors heavily influence the level of cleanliness required for a particular fomite and, hence, the protocol chosen to achieve this level. The first factor is the application for which the item will be used. For example, invasive applications that require insertion into the human body require a much higher level of cleanliness than applications that do not. The second factor is the level of resistance to antimicrobial treatment by potential pathogens. For example, foods preserved by canning often become contaminated with the bacterium <term class="no-emphasis"><emphasis effect="italics">Clostridium botulinum</emphasis></term>, which produces the neurotoxin that causes <term class="no-emphasis">botulism</term>. Because <emphasis effect="italics">C. botulinum</emphasis> can produce <term class="no-emphasis">endospore</term>s that can survive harsh conditions, extreme temperatures and pressures must be used to eliminate the endospores. Other organisms may not require such extreme measures and can be controlled by a procedure such as washing clothes in a laundry machine.</para>
 <section id="fs-id1167582739043">
 <title>Laboratory Biological Safety Levels</title>
@@ -35,10 +35,10 @@
 <para id="fs-id1167586234287">BSL-3 agents have the potential to cause lethal infections by inhalation. These may be either indigenous or “exotic,” meaning that they are derived from a foreign location, and include pathogens such as <term class="no-emphasis"><emphasis effect="italics">Mycobacterium tuberculosis</emphasis></term>, <term class="no-emphasis"><emphasis effect="italics">Bacillus anthracis</emphasis></term>, <term class="no-emphasis">West Nile virus</term>, and human immunodeficiency virus (<term class="no-emphasis">HIV</term>). Because of the serious nature of the infections caused by <term class="no-emphasis">BSL-3</term> agents, laboratories working with them require restricted access. Laboratory workers are under medical surveillance, possibly receiving vaccinations for the microbes with which they work. In addition to the standard PPE already mentioned, laboratory personnel in BSL-3 laboratories must also wear a respirator and work with microbes and infectious agents in a biological safety cabinet at all times. BSL-3 laboratories require a hands-free sink, an eyewash station near the exit, and two sets of self-closing and locking doors at the entrance. These laboratories are equipped with directional airflow, meaning that clean air is pulled through the laboratory from clean areas to potentially contaminated areas. This air cannot be recirculated, so a constant supply of clean air is required.</para>
 <para id="fs-id1167582821014">BSL-4 agents are the most dangerous and often fatal. These microbes are typically exotic, are easily transmitted by inhalation, and cause infections for which there are no treatments or vaccinations. Examples include Ebola virus and Marburg virus, both of which cause hemorrhagic fevers, and smallpox virus. There are only a small number of laboratories in the United States and around the world appropriately equipped to work with these agents. In addition to BSL-3 precautions, laboratory workers in <term class="no-emphasis">BSL-4</term> facilities must also change their clothing on entering the laboratory, shower on exiting, and decontaminate all material on exiting. While working in the laboratory, they must either wear a full-body protective suit with a designated air supply or conduct all work within a <term class="no-emphasis">biological safety cabinet</term> with a high-efficiency particulate air (HEPA)-filtered air supply and a doubly HEPA-filtered exhaust. If wearing a suit, the air pressure within the suit must be higher than that outside the suit, so that if a leak in the suit occurs, laboratory air that may be contaminated cannot be drawn into the suit (<link target-id="OSC_Microbio_13_01_BSL4Suit"/>). The laboratory itself must be located either in a separate building or in an isolated portion of a building and have its own air supply and exhaust system, as well as its own decontamination system. The BSLs are summarized in <link target-id="OSC_Microbio_13_01_BSLs"/>.</para>
 <figure id="OSC_Microbio_13_01_BSL4Suit">
-<media id="fs-id1167582748308" alt="A photo of two lab workers in suits that completely covers them (including their faces and hands).">
+<media id="fs-id1167582748308" alt="A photo of a lab worker in a suit that completely covers them (including their face and hands).">
 <image mime-type="image/jpeg" src="../../media/OSC_Microbio_13_01_BSL4Suit.jpg"/>
 </media>
-<caption>A protective suit like this one is an additional precaution for those who work in BSL-4 laboratories. This suit has its own air supply and maintains a positive pressure relative to the outside, so that if a leak occurs, air will flow out of the suit, not into it from the laboratory. (Credit: James Gathany, CDC, public domain)</caption>
+<caption>A protective suit like this one is an additional precaution for those who work in BSL-4 laboratories. This suit has its own air supply and maintains a positive pressure relative to the outside, so that if a leak occurs, air will flow out of the suit, not into it from the laboratory. (credit: modification of work by Centers for Disease Control and Prevention)</caption>
 </figure>
 <figure id="OSC_Microbio_13_01_BSLs">
 <media id="fs-id1167585814457" alt="Table labeled biosafety levels. The CDC classifies low risk microbes as BSL-1 and high risk microbes as BSL-4. Biosafety level-4 is used when microbes are dangerous and exotic, posing a high risk of aerosol-transmitted infections, which are frequently fatal without treatment or vaccines. Few labs at this level. Examples include ebola and Marburg viruses.  BSL-3 is used when microbes are indigenous or exotic and cause serious or potentially lethal diseases through respiratory transmission. Examples include Mycobacterium tuberculosis. BSL-2 is used when microbes are typically indigenous and are associated with diseases of varying severity. They pose moderate risk to workers and the environment. Examples include Staphylococcus aureus. BSL-1 is used when microbes are not knows to cause disease in healthy hosts and pose minimal risk to workers and environment.  Examples include nonpathogenic strains of Escherichia coli.  ">
@@ -47,7 +47,9 @@
 <caption>The CDC classifies infectious agents into four biosafety levels based on potential risk to laboratory personnel and the community. Each level requires a progressively greater level of precaution. (credit “pyramid”: modification of work by Centers for Disease Control and Prevention)</caption>
 </figure>
 <note id="fs-id1167582755163" class="microbiology link-to-learning">
-
+<media id="fs-id1167585966753" alt="Link to learning graphic">
+<image mime-type="image/jpeg" src="../../media/OSC_Interactive_200.png"/>
+</media>
 <para id="fs-id1167582702501">To <link url="https://openstax.org/l/22cdcfourbsls">learn more</link> about the four BSLs, visit the CDC’s website.</para>
 </note>
 <note id="fs-id1167586052294" class="microbiology check-your-understanding">
@@ -67,7 +69,9 @@
 </list>
 </note>
 <note id="fs-id1167586252513" class="microbiology link-to-learning">
-
+<media id="fs-id1167582747668" alt="Link to learning graphic">
+<image mime-type="image/jpeg" src="../../media/OSC_Interactive_200.png"/>
+</media>
 <para id="fs-id1167586004143">The Association of Surgical Technologists publishes <link url="https://openstax.org/l/22ASTstanasepte">standards</link> for aseptic technique, including creating and maintaining a sterile field.</para>
 </note>
 </section>
@@ -266,5 +270,5 @@
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 </document>

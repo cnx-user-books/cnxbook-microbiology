@@ -10,7 +10,7 @@
 
 <content>
 <section id="fs-id1167663629946" class="learning-objectives">
-<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<title>Learning Objectives</title>
 <list id="fs-id1167661463051">
 <item>Explain how RNA is synthesized using DNA as a template</item>
 <item>Distinguish between transcription in prokaryotes and eukaryotes</item>
@@ -97,7 +97,9 @@
 </tgroup>
 </table>
 <note id="fs-id1167663556347" class="microbiology link-to-learning">
-
+<media id="fs-id1167663558468" alt="Link to learning graphic">
+<image mime-type="image/jpeg" src="../../media/OSC_Interactive_200.png"/>
+</media>
 <para id="fs-id1167661519193">Visualize how <link url="https://openstax.org/l/22mrnasplice">mRNA splicing</link> happens by watching the process in action in this video. See how introns are removed during <link url="https://openstax.org/l/22rnasplice">RNA splicing</link> here.</para>
 </note>
 <note id="fs-id1167663920844" class="microbiology check-your-understanding">
@@ -230,5 +232,5 @@
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 </document>

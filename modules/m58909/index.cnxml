@@ -10,7 +10,7 @@
 
 <content>
 <section id="fs-id1167663478325" class="learning-objectives">
-<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<title>Learning Objectives</title>
 <list id="fs-id1167663735385">
 <item>Identify the most common fungal pathogens associated with cutaneous and subcutaneous mycoses</item>
 <item>Compare the major characteristics of specific fungal diseases affecting the skin</item>
@@ -82,7 +82,7 @@
 </section>
 <section id="fs-id1167663533751">
 <title>Cutaneous Aspergillosis</title>
-<para id="fs-id1167663992557">Another cause of cutaneous mycoses is <term class="no-emphasis"><emphasis effect="italics">Aspergillus</emphasis></term>, a genus consisting of molds of many different species, some of which cause a condition called <term class="no-emphasis">aspergillosis</term>. Primary cutaneous aspergillosis, in which the infection begins in the skin, is rare but does occur. More common is secondary cutaneous aspergillosis, in which the infection begins in the respiratory system and disseminates systemically. Both primary and secondary cutaneous aspergillosis result in distinctive eschars that form at the site or sites of infection (<link target-id="OSC_Microbio_21_04_aspergillo"/>). Pulmonary aspergillosis will be discussed more thoroughly in <link document="m58915">Respiratory Mycoses</link>).</para>
+<para id="fs-id1167663992557">Another cause of cutaneous mycoses is <term class="no-emphasis"><emphasis effect="italics">Aspergillus</emphasis></term>, a genus consisting of molds of many different species, some of which cause a condition called <term class="no-emphasis">aspergillosis</term>. Primary cutaneous aspergillosis, in which the infection begins in the skin, is rare but does occur. More common is secondary cutaneous aspergillosis, in which the infection begins in the respiratory system and disseminates systemically. Both primary and secondary cutaneous aspergillosis result in distinctive eschars that form at the site or sites of infection (<link target-id="OSC_Microbio_21_04_aspergillo"/>). Pulmonary aspergillosis will be discussed more thoroughly in <link class="target-chapter" document="m58915">Respiratory Mycoses</link>).</para>
 <figure id="OSC_Microbio_21_04_aspergillo">
 <media id="fs-id1167663586899" alt="a) photo of a large, round, dark area on their leg. B) many think strands and small dots. One of the strands ends in a sphere with long chains of dots around the top part of the structure.">
 <image mime-type="image/jpeg" src="../../media/OSC_Microbio_21_04_aspergillo.jpg"/>
@@ -107,7 +107,7 @@
 <caption>(a) This red, itchy rash is the result of cutaneous candidiasis, an opportunistic infection of the skin caused by the yeast <emphasis effect="italics">Candida albicans.</emphasis> (b) Fungal infections of the nail (tinea unguium) can be caused by dermatophytes or <emphasis effect="italics">Candida</emphasis> spp. The nail becomes yellow, brittle, and prone to breaking. This condition is relatively common among adults. (c) <emphasis effect="italics">C. albicans</emphasis> growing on Sabouraud dextrose agar. (credit a: modification of work by U.S. Department of Veterans Affairs; credit c: modification of work by Centers for Disease Control and Prevention)</caption>
 </figure>
 <para id="fs-id1167663929443">Candidiasis of the skin and nails is diagnosed through clinical observation and through culture, Gram stain, and KOH wet mounts. Susceptibility testing for anti-fungal agents can also be done. Cutaneous candidiasis can be treated with topical or systemic azole antifungal medications. Because candidiasis can become invasive, patients suffering from HIV/AIDS, cancer, or other conditions that compromise the immune system may benefit from preventive treatment. Azoles, such as <term class="no-emphasis">clotrimazole</term>, <term class="no-emphasis">econazole</term>, <term class="no-emphasis">fluconazole</term>, <term class="no-emphasis">ketoconazole</term>, and <term class="no-emphasis">miconazole</term>; <term class="no-emphasis">nystatin</term>; <term class="no-emphasis">terbinafine</term>; and <term class="no-emphasis">naftifine</term> may be used for treatment. Long-term treatment with medications such as <term class="no-emphasis">itraconazole</term> or <term class="no-emphasis">ketoconazole</term> may be used for chronic infections. Repeat infections often occur, but this risk can be reduced by carefully following treatment recommendations, avoiding excessive moisture, maintaining good health, practicing good hygiene, and having appropriate clothing (including footwear).</para>
-<para id="fs-id1167663570532"><emphasis effect="italics">Candida</emphasis> also causes infections in other parts of the body besides the skin. These include vaginal yeast infections (see <link document="m58921">Fungal Infections of the Reproductive System</link>) and oral thrush (see <link document="m58925">Microbial Diseases of the Mouth and Oral Cavity</link>).</para>
+<para id="fs-id1167663570532"><emphasis effect="italics">Candida</emphasis> also causes infections in other parts of the body besides the skin. These include vaginal yeast infections (see <link class="target-chapter" document="m58921">Fungal Infections of the Reproductive System</link>) and oral thrush (see <link class="target-chapter" document="m58925">Microbial Diseases of the Mouth and Oral Cavity</link>).</para>
 <note id="fs-id1167663618932" class="microbiology check-your-understanding">
 <list id="fs-id1167663668984" list-type="bulleted" bullet-style="bullet">
 <item>What are the signs and symptoms of candidiasis of the skin and nails?</item>
@@ -230,7 +230,7 @@
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 
 
 </document>

@@ -10,7 +10,7 @@
 
 <content>
 <section id="fs-id1167660338247" class="learning-objectives">
-<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<title>Learning Objectives</title>
 <list id="fs-id1167660371776">
 <item>Explain how the adaptive specific immune response responds to tumors</item>
 <item>Discuss the risks and benefits of tumor vaccines</item>
@@ -21,7 +21,7 @@
 <section id="fs-id1167660256580">
 <title>Cell-Mediated Response to Tumors</title>
 <para id="fs-id1167660274552">Cell-mediated immune responses can be directed against cancer cells, many of which do not have the normal complement of self-proteins, making them a target for elimination. Abnormal cancer cells may also present <term class="no-emphasis">tumor antigen</term>s. These tumor antigens are not a part of the screening process used to eliminate lymphocytes during development; thus, even though they are self-antigens, they can stimulate and drive adaptive immune responses against abnormal cells.</para>
-<para id="fs-id1167660249593">Presentation of tumor antigens can stimulate <term class="no-emphasis">naïve helper T cells</term> to become activated by cytokines such as <term class="no-emphasis">IL-12</term> and differentiate into T<sub>H</sub>1<term class="no-emphasis">cell</term>s. T<sub>H</sub>1 cells release cytokines that can activate natural killer (NK) cells and enhance the killing of activated <term class="no-emphasis">cytotoxic T cell</term>s. Both <term class="no-emphasis">NK cell</term>s and cytotoxic T cells can recognize and target cancer cells, and induce <term class="no-emphasis">apoptosis</term> through the action of <term class="no-emphasis">perforin</term>s and <term class="no-emphasis">granzyme</term>s. In addition, activated cytotoxic T cells can bind to cell-surface proteins on abnormal cells and induce apoptosis by a second killing mechanism called the <term class="no-emphasis">CD95 (Fas) cytotoxic pathway</term>.</para>
+<para id="fs-id1167660249593">Presentation of tumor antigens can stimulate <term class="no-emphasis">naïve helper T cells</term> to become activated by cytokines such as <term class="no-emphasis">IL-12</term> and differentiate into T<sub>H</sub>1<term class="no-emphasis"> cell</term>s. T<sub>H</sub>1 cells release cytokines that can activate natural killer (NK) cells and enhance the killing of activated <term class="no-emphasis">cytotoxic T cell</term>s. Both <term class="no-emphasis">NK cell</term>s and cytotoxic T cells can recognize and target cancer cells, and induce <term class="no-emphasis">apoptosis</term> through the action of <term class="no-emphasis">perforin</term>s and <term class="no-emphasis">granzyme</term>s. In addition, activated cytotoxic T cells can bind to cell-surface proteins on abnormal cells and induce apoptosis by a second killing mechanism called the <term class="no-emphasis">CD95 (Fas) cytotoxic pathway</term>.</para>
 <para id="fs-id1167660358596">Despite these mechanisms for removing cancerous cells from the body, cancer remains a common cause of death. Unfortunately, malignant tumors tend to actively suppress the immune response in various ways. In some cancers, the immune cells themselves are cancerous. In <term class="no-emphasis">leukemia</term>, lymphocytes that would normally facilitate the immune response become abnormal. In other cancers, the cancerous cells can become resistant to induction of <term class="no-emphasis">apoptosis</term>. This may occur through the expression of membrane proteins that shut off cytotoxic T cells or that induce regulatory T cells that can shut down immune responses.</para>
 <para id="fs-id1167662797216">The mechanisms by which cancer cells alter immune responses are still not yet fully understood, and this is a very active area of research. As scientists’ understanding of adaptive immunity improves, cancer therapies that harness the body’s immune defenses may someday be more successful in treating and eliminating cancer.</para>
 <note id="fs-id1167662480574" class="microbiology check-your-understanding">
@@ -113,5 +113,5 @@
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 </document>

@@ -10,7 +10,7 @@
 
 <content>
 <section id="fs-id1167661315566" class="learning-objectives">
-<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<title>Learning Objectives</title>
 <list id="fs-id1167663732216">
 <item>Identify the most common viruses that can cause infections of the GI tract</item>
 <item>Compare the major characteristics of specific viral diseases affecting the GI tract and liver</item>
@@ -57,7 +57,7 @@
 </section>
 <section id="fs-id1167661552461">
 <title>Hepatitis</title>
-<para id="fs-id1167661442293">Hepatitis is a general term meaning inflammation of the liver, which can have a variety of causes. In some cases, the cause is viral infection. There are five main hepatitis viruses that are clinically significant: <term class="no-emphasis">hepatitisviruses </term>A (<term class="no-emphasis">HAV</term>), B (<term class="no-emphasis">HBV</term>), C (<term class="no-emphasis">HCV</term>), D, (<term class="no-emphasis">HDV</term>) and E (<term class="no-emphasis">HEV</term>) (<link target-id="OSC_Microbio_24_04_Hepatitis"/>). Note that other viruses, such as <term class="no-emphasis">Epstein-Barr virus</term> (EBV), <term class="no-emphasis">yellow fever</term>, and <term class="no-emphasis">cytomegalovirus</term> (CMV) can also cause <term class="no-emphasis">hepatitis</term> and are discussed in <link document="m58937">Viral Infections of the Circulatory and Lymphatic Systems</link>.</para>
+<para id="fs-id1167661442293">Hepatitis is a general term meaning inflammation of the liver, which can have a variety of causes. In some cases, the cause is viral infection. There are five main hepatitis viruses that are clinically significant: <term class="no-emphasis">hepatitisviruses </term>A (<term class="no-emphasis">HAV</term>), B (<term class="no-emphasis">HBV</term>), C (<term class="no-emphasis">HCV</term>), D, (<term class="no-emphasis">HDV</term>) and E (<term class="no-emphasis">HEV</term>) (<link target-id="OSC_Microbio_24_04_Hepatitis"/>). Note that other viruses, such as <term class="no-emphasis">Epstein-Barr virus</term> (EBV), <term class="no-emphasis">yellow fever</term>, and <term class="no-emphasis">cytomegalovirus</term> (CMV) can also cause <term class="no-emphasis">hepatitis</term> and are discussed in <link class="target-chapter" document="m58937">Viral Infections of the Circulatory and Lymphatic Systems</link>.</para>
 <figure id="OSC_Microbio_24_04_Hepatitis">
 <media id="fs-id1167663567733" alt="Hepatitis A is a polyhedron with a single strand inside. Hepatitis B is a polyhedron with 2 strands inside and a layer outside with bulb-shaped studs in it. Hepatitis C is a polyhedron with a single strand inside and a layer outside that has studs rectangular studs. Hepatitis D is a sphere with a wavy circle in the center and an outer layer with oval studs. Hepatitis E is a more complex polyhedron with a single strand inside.">
 <image mime-type="image/jpeg" src="../../media/OSC_Microbio_24_04_Hepatitis.jpg"/>
@@ -79,7 +79,9 @@
 <para id="fs-id1167661293547"><term class="no-emphasis">HEV</term> infections are also rare in the United States but many individuals have a positive antibody titer for HEV. The virus is most commonly spread by the fecal-oral route through food and/or water contamination, or person-to-person contact, depending on the genotype of the virus, which varies by location. There are four genotypes that differ somewhat in their mode of transmission, distribution, and other factors (for example, two are zoonotic and two are not, and only one causes chronic infection). Genotypes three and four are only transmitted through food, while genotypes one and two are also transmitted through water and fecal-oral routes. Genotype one is the only type transmitted person-to-person and is the most common cause of HEV outbreaks. Consumption of undercooked meat, especially deer or pork, and shellfish can lead to infection. Genotypes three and four are zoonoses, so they can be transmitted from infected animals that are consumed. Pregnant women are at particular risk. This disease is usually self-limiting within two weeks and does not appear to cause chronic infection.</para>
 <para id="fs-id1167663809835">General laboratory testing for hepatitis begins with blood testing to examine liver function (<link target-id="OSC_Microbio_24_04_HepTBL"/>). When the liver is not functioning normally, the blood will contain elevated levels of <term class="no-emphasis">alkaline phosphatase</term>, <term class="no-emphasis">alanine aminotransferase</term> (ALT), <term class="no-emphasis">aspartate aminotransferase</term> (AST), direct <term class="no-emphasis">bilirubin</term>, total bilirubin, serum albumin, serum total protein, and calculated globulin, albumin/globulin (A/G) ratio. Some of these are included in a complete metabolic panel (CMP), which may first suggest a possible liver problem and indicate the need for more comprehensive testing. A hepatitis virus serological test panel can be used to detect antibodies for hepatitis viruses A, B, C, and sometimes D. Additionally, other immunological and genomic tests are available.</para>
 <para id="fs-id1167661735229">Specific treatments other than supportive therapy, rest, and fluids are often not available for hepatitis virus infection, except for HCV, which is often self-limited. Immunoglobulins can be used prophylactically following possible exposure. Medications are also used, including <term class="no-emphasis">interferon alpha 2b</term> and antivirals (e.g., <term class="no-emphasis">lamivudine</term>, <term class="no-emphasis">entecavir</term>, <term class="no-emphasis">adefovir</term>, and <term class="no-emphasis">telbivudine</term>) for chronic infections. Hepatitis C can be treated with interferon (as monotherapy or combined with other treatments), protease inhibitors, and other antivirals (e.g., the polymerase inhibitor <term class="no-emphasis">sofosbuvir</term>). Combination treatments are commonly used. Antiviral and immunosuppressive medications may be used for chronic cases of HEV. In severe cases, liver transplants may be necessary. Additionally, vaccines are available to prevent infection with HAV and HBV. The HAV vaccine is also protective against HEV. The HBV vaccine is also protective against HDV. There is no vaccine against HCV.</para>
-<note id="fs-id1167661567366" class="microbiology link-to-learning">
+<note id="fs-id1167661567366" class="microbiology link-to-learning"><media id="fs-id1167663966136" alt="Link to learning graphic">
+<image mime-type="image/jpeg" src="../../media/OSC_Interactive_200DPI.png"/>
+</media>
 <para id="fs-id1167663970002">Learn more information about <link url="https://www.cdc.gov/hepatitis/resources/professionals/pdfs/abctable.pdf">hepatitis virus</link> infections.</para>
 </note><note id="fs-id1167663967587" class="microbiology check-your-understanding">
 <list id="fs-id1167663629774" list-type="bulleted" bullet-style="bullet">
@@ -168,7 +170,7 @@
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 
 
 </document>

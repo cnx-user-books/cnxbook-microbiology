@@ -1,4 +1,4 @@
-<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" class="appendix">
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
 
 <title>Mathematical Basics</title>
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
@@ -8,7 +8,7 @@
   <md:uuid>b793420f-f95f-4093-b293-4682763280af</md:uuid>
 </metadata>
 
-<content class="appendix">
+<content>
 <section id="fs-id1167661304526">
 <title>Squares and Other Powers</title>
 <para id="fs-id1167661268917">An exponent, or a power, is mathematical shorthand for repeated multiplications. For example, the exponent “2” means to multiply the base for that exponent by itself (in the example here, the base is “5”):</para>
@@ -233,5 +233,5 @@
 </media>
 </figure>
 </section>
- </content>
+</content>
 </document>
