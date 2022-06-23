@@ -10,7 +10,7 @@
 
 <content>
 <section id="fs-id1172099701835" class="learning-objectives">
-<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<title>Learning Objectives</title>
 <list id="fs-id1172102059352">
 <item>Illustrate and briefly describe minimum, optimum, and maximum temperature requirements for growth</item>
 <item>Identify and describe different categories of microbes with temperature requirements for growth: psychrophile, psychrotrophs, mesophile, thermophile, hyperthermophile</item>
@@ -43,7 +43,7 @@
 <caption>The graph shows growth rate of bacteria as a function of temperature. Notice that the curves are skewed toward the optimum temperature. The skewing of the growth curve is thought to reflect the rapid denaturation of proteins as the temperature rises past the optimum for growth of the microorganism.</caption>
 </figure>
 <para id="fs-id1172101672040">Life in extreme environments raises fascinating questions about the adaptation of macromolecules and metabolic processes. Very low temperatures affect cells in many ways. Membranes lose their fluidity and are damaged by ice crystal formation. Chemical reactions and diffusion slow considerably. Proteins become too rigid to catalyze reactions and may undergo denaturation. At the opposite end of the temperature spectrum, heat denatures proteins and nucleic acids. Increased fluidity impairs metabolic processes in membranes. Some of the practical applications of the destructive effects of heat on microbes are sterilization by steam, pasteurization, and incineration of inoculating loops. Proteins in psychrophiles are, in general, rich in hydrophobic residues, display an increase in flexibility, and have a lower number of secondary stabilizing bonds when compared with homologous proteins from mesophiles. Antifreeze proteins and solutes that decrease the freezing temperature of the cytoplasm are common. The lipids in the membranes tend to be unsaturated to increase fluidity. Growth rates are much slower than those encountered at moderate temperatures. Under appropriate conditions, mesophiles and even thermophiles can survive freezing. Liquid cultures of bacteria are mixed with sterile glycerol solutions and frozen to −80 °C for long-term storage as stocks. Cultures can withstand freeze drying (lyophilization) and then be stored as powders in sealed ampules to be reconstituted with broth when needed.</para>
-<para id="fs-id1172099646642">Macromolecules in thermophiles and hyperthermophiles show some notable structural differences from what is observed in the mesophiles. The ratio of saturated to polyunsaturated lipids increases to limit the fluidity of the cell membranes. Their DNA sequences show a higher proportion of guanine–cytosine nitrogenous bases, which are held together by three hydrogen bonds in contrast to adenine and thymine, which are connected in the double helix by two hydrogen bonds. Additional secondary structures, ionic and covalent bonds, as well as the replacement of key amino acids to stabilize folding, contribute to the resistance of proteins to denaturation. The so-called thermoenzymes purified from thermophiles have important practical applications. For example, amplification of nucleic acids in the <term class="no-emphasis">polymerase chain reaction (PCR)</term> depends on the thermal stability of <term class="no-emphasis"><emphasis effect="italics">Taq</emphasis> polymerase</term>, an enzyme isolated from <emphasis effect="italics">T. aquaticus</emphasis>. Degradation enzymes from thermophiles are added as ingredients in hot-water detergents, increasing their effectiveness.</para>
+<para id="fs-id1172099646642">Macromolecules in thermophiles and hyperthermophiles show some notable structural differences from what is observed in the mesophiles. The ratio of saturated to polyunsaturated lipids increases to limit the fluidity of the cell membranes. Their DNA sequences show a higher proportion of guanine–cytosine nitrogenous bases, which are held together by three hydrogen bonds in contrast to adenine and thymine, which are connected in the double helix by two hydrogen bonds. Additional secondary ionic and covalent bonds, as well as the replacement of key amino acids to stabilize folding, contribute to the resistance of proteins to denaturation. The so-called thermoenzymes purified from thermophiles have important practical applications. For example, amplification of nucleic acids in the <term class="no-emphasis">polymerase chain reaction (PCR)</term> depends on the thermal stability of <term class="no-emphasis"><emphasis effect="italics">Taq</emphasis> polymerase</term>, an enzyme isolated from <emphasis effect="italics">T. aquaticus</emphasis>. Degradation enzymes from thermophiles are added as ingredients in hot-water detergents, increasing their effectiveness.</para>
 <note id="fs-id1172102063283" class="microbiology check-your-understanding">
 <list id="fs-id1167661581416" list-type="bulleted" bullet-style="bullet">
 <item>What temperature requirements do most bacterial human pathogens have?</item>
@@ -65,7 +65,9 @@
 </figure>
 </note>
 <note id="fs-id1172101921137" class="microbiology link-to-learning">
-
+<media id="fs-id1172101673578" alt="Link to learning graphic">
+<image mime-type="image/jpeg" src="../../media/CNX_Interactive_200DPI.png"/>
+</media>
 <para id="fs-id1172099872523">This <link url="https://openstax.org/l/22algaebloomvid">video</link> discusses algal blooms and dead zones in more depth.</para>
 </note>
 <section id="fs-id1172102031701" class="summary">
@@ -201,5 +203,5 @@
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 </document>

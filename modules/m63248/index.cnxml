@@ -10,7 +10,7 @@
 
 <content>
 <section id="fs-id1167661271495" class="learning-objectives">
-<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<title>Learning Objectives</title>
 <list id="fs-id1167663889905">
 <item>Describe the methods and strategies used for discovery of new antimicrobial agents.</item>
 </list>
@@ -36,7 +36,9 @@
 </figure>
 </note>
 <note id="fs-id1167661353610" class="microbiology link-to-learning">
-
+<media id="fs-id1167661560101" alt="Link to learning graphic">
+<image mime-type="image/jpeg" src="../../media/CNX_Interactive_200DPI.png"/>
+</media>
 <para id="fs-id1167663963378">To further examine the scope of the problem, view <link url="https://openstax.org/l/22PBSDecAntimic">this</link> video.</para>
 <para id="fs-id1167661440368">To <link url="https://openstax.org/l/22MSUAntResLeaH">learn more</link> about the history of antimicrobial drug discovery, visit Michigan State University’s Antimicrobial Resistance Learning Site.</para>
 </note>
@@ -84,5 +86,5 @@
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 </document>

@@ -10,7 +10,7 @@
 
 <content>
 <section id="fs-id1167661639472" class="learning-objectives">
-<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<title>Learning Objectives</title>
 <list id="fs-id1167661463156">
 <item>Compare inducible operons and repressible operons</item>
 <item>Describe why regulation of operons is important</item>
@@ -52,7 +52,9 @@
 <caption>The five structural genes needed to synthesize tryptophan in <emphasis effect="italics">E. coli</emphasis> are located next to each other in the <emphasis effect="italics">trp</emphasis> operon. When tryptophan is absent, the repressor protein does not bind to the operator, and the genes are transcribed. When tryptophan is plentiful, tryptophan binds the repressor protein at the operator sequence. This physically blocks the RNA polymerase from transcribing the tryptophan biosynthesis genes.</caption>
 </figure>
 <note id="fs-id1167663616007" class="microbiology link-to-learning">
-
+<media id="fs-id1167663623272" alt="Link to learning graphic">
+<image mime-type="image/jpeg" src="../../media/OSC_Interactive_200.png"/>
+</media>
 <para id="fs-id1167663872854">Watch this <link url="https://openstax.org/l/22trpoperon">video</link> to learn more about the <emphasis effect="italics">trp</emphasis> operon.</para>
 </note>
 </section>
@@ -70,7 +72,7 @@
 <section id="fs-id1167661485980">
 <title>The <emphasis effect="italics">lac</emphasis> Operon: Activation by Catabolite Activator Protein</title>
 <para id="fs-id1167663714388">Bacteria typically have the ability to use a variety of substrates as carbon sources. However, because glucose is usually preferable to other substrates, bacteria have mechanisms to ensure that alternative substrates are only used when glucose has been depleted. Additionally, bacteria have mechanisms to ensure that the genes encoding enzymes for using alternative substrates are expressed only when the alternative substrate is available. In the 1940s, Jacques <term class="no-emphasis">Monod</term> was the first to demonstrate the preference for certain substrates over others through his studies of <emphasis effect="italics">E. coli</emphasis>’s growth when cultured in the presence of two different substrates simultaneously. Such studies generated diauxic growth curves, like the one shown in <link target-id="OSC_Microbio_11_07_Diaux"/>. Although the preferred substrate glucose is used first, <term class="no-emphasis"><emphasis effect="italics">E. coli</emphasis></term> grows quickly and the enzymes for lactose metabolism are absent. However, once glucose levels are depleted, growth rates slow, inducing the expression of the enzymes needed for the metabolism of the second substrate, lactose. Notice how the growth rate in lactose is slower, as indicated by the lower steepness of the growth curve.</para>
-<para id="fs-id1167663866390">The ability to switch from glucose use to another substrate like lactose is a consequence of the activity of an enzyme called <term class="no-emphasis">Enzyme IIA</term> (EIIA). When glucose levels drop, cells produce less ATP from catabolism (see <link document="m58820">Catabolism of Carbohydrates</link>), and EIIA becomes phosphorylated. Phosphorylated EIIA activates adenylyl cyclase, an enzyme that converts some of the remaining ATP to <term>cyclic AMP (cAMP)</term>, a cyclic derivative of AMP and important signaling molecule involved in glucose and energy metabolism in <emphasis effect="italics">E. coli</emphasis>. As a result, cAMP levels begin to rise in the cell (<link target-id="OSC_Microbio_11_07_ATPcAMP"/>).</para>
+<para id="fs-id1167663866390">The ability to switch from glucose use to another substrate like lactose is a consequence of the activity of an enzyme called <term class="no-emphasis">Enzyme IIA</term> (EIIA). When glucose levels drop, cells produce less ATP from catabolism (see <link class="target-chapter" document="m58820">Catabolism of Carbohydrates</link>), and EIIA becomes phosphorylated. Phosphorylated EIIA activates adenylyl cyclase, an enzyme that converts some of the remaining ATP to <term>cyclic AMP (cAMP)</term>, a cyclic derivative of AMP and important signaling molecule involved in glucose and energy metabolism in <emphasis effect="italics">E. coli</emphasis>. As a result, cAMP levels begin to rise in the cell (<link target-id="OSC_Microbio_11_07_ATPcAMP"/>).</para>
 <para id="fs-id1167663544605">The <emphasis effect="italics">lac</emphasis> operon also plays a role in this switch from using glucose to using lactose. When glucose is scarce, the accumulating cAMP caused by increased adenylyl cyclase activity binds to <term>catabolite activator protein (CAP)</term>, also known as cAMP receptor protein (CRP). The complex binds to the promoter region of the <emphasis effect="italics">lac</emphasis> operon (<link target-id="OSC_Microbio_11_07_CAP"/>). In the regulatory regions of these operons, a CAP binding site is located upstream of the RNA polymerase binding site in the promoter. Binding of the CAP-cAMP complex to this site increases the binding ability of RNA polymerase to the promoter region to initiate the transcription of the structural genes. Thus, in the case of the <emphasis effect="italics">lac</emphasis> operon, for transcription to occur, lactose must be present (removing the lac repressor protein) and glucose levels must be depleted (allowing binding of an activating protein). When glucose levels are high, there is catabolite repression of operons encoding enzymes for the metabolism of alternative substrates. Because of low cAMP levels under these conditions, there is an insufficient amount of the CAP-cAMP complex to activate transcription of these operons. See <link target-id="fs-id1167663723938"/> for a summary of the regulation of the lac operon.</para>
 <figure id="OSC_Microbio_11_07_Diaux">
 <media id="fs-id1167663605688" alt="Graph with time (hours) on the X axis and Log of E. coli cells on the Y axis. For the first hour the graph is relatively flat but then becomes quite steep for the next 3 hours. The graph increases from 0.3 to 1 in 3 hours. This part of the graph is labeled E. coli uses glucose. The next part of the graph begins with another flat region of about an hout and then there is another increase. This increase goes from 1.2 to 1.9 in 4 hours. This part of the graph is labeled E. coli uses lactose.">
@@ -142,7 +144,9 @@
 </tgroup>
 </table>
 <note id="fs-id1167661365118" class="microbiology link-to-learning">
-
+<media id="fs-id1167663992801" alt="Link to learning graphic">
+<image mime-type="image/jpeg" src="../../media/OSC_Interactive_200.png"/>
+</media>
 <para id="fs-id1167661750106">Watch an <link url="https://openstax.org/l/22lacoperon">animated tutorial</link> about the workings of lac operon here.</para>
 </note>
 <note id="fs-id1167663906660" class="microbiology check-your-understanding">
@@ -203,7 +207,9 @@
 <title>DNA-Level Control</title>
 <para id="fs-id1167663872436">In eukaryotes, the DNA molecules or associated histones can be chemically modified in such a way as to influence transcription; this is called <term>epigenetic regulation</term>. Methylation of certain cytosine nucleotides in DNA in response to environmental factors has been shown to influence use of such DNA for transcription, with <term class="no-emphasis">DNA methylation</term> commonly correlating to lowered levels of gene expression. Additionally, in response to environmental factors, <term class="no-emphasis">histone</term> proteins for packaging DNA can also be chemically modified in multiple ways, including <term class="no-emphasis">acetylation</term> and deacetylation, influencing the packaging state of DNA and thus affecting the availability of loosely wound DNA for transcription. These chemical modifications can sometimes be maintained through multiple rounds of cell division, making at least some of these epigenetic changes heritable.</para>
 <note id="fs-id1167663716451" class="microbiology link-to-learning">
-
+<media id="fs-id1167663716455" alt="Link to learning graphic">
+<image mime-type="image/jpeg" src="../../media/OSC_Interactive_200.png"/>
+</media>
 <para id="fs-id1167661443402">This <link url="https://openstax.org/l/22epigreg">video</link> describes how epigenetic regulation controls gene expression.</para>
 </note>
 <note id="fs-id1167661734987" class="microbiology check-your-understanding">
@@ -217,8 +223,8 @@
 <note id="fs-id1167663650577" class="microbiology clinical-focus">
 <title>Resolution</title>
 <para id="fs-id1167663621492">Although Mark survived his bout with necrotizing fasciitis, he would now have to undergo a skin-grafting surgery, followed by long-term physical therapy. Based on the amount of muscle mass he lost, it is unlikely that his leg will return to full strength, but his physical therapist is optimistic that he will regain some use of his leg.</para>
-<para id="fs-id1167663625838">Laboratory testing revealed the causative agent of Mark’s infection was a strain of <emphasis effect="italics">Staphylococcus aureus</emphasis>. As required by law, Mark’s case was reported to the state health department and ultimately to the Centers for Disease Control and Prevention (CDC). At the CDC, the strain of <emphasis effect="italics">Staphylococcus aureus</emphasis> strep isolated from Mark was analyzed more thoroughly for methicillin resistance.</para>
-<para id="fs-id1167661353014">Methicillin resistance is genetically coded and is increasing among strains of <emphasis effect="italics">S. aureus</emphasis> through horizontal gene transfer. Strains of <emphasis effect="italics">S. aureus</emphasis> that are resistant to <emphasis effect="italics">methicillin</emphasis> are typically resistant to virtually all <emphasis effect="italics">beta-lactam</emphasis> antibiotics and other classes of antibiotics as well. In necrotizing fasciitis, blood flow to the infected area is typically limited because of the action of various genetically encoded bacterial toxins. This is why there is typically little to no bleeding as a result of the incision test. Unfortunately, these bacterial toxins limit the effectiveness of intravenous antibiotics in clearing infection from the skin and underlying tissue, meaning that antibiotic resistance alone does not explain the ineffectiveness of Mark’s treatment. Nevertheless, intravenous antibiotic therapy was warranted to help minimize the possible outcome of sepsis, which is a common outcome of necrotizing fasciitis. Through genomic analysis by the CDC of the strain isolated from Mark, several of the important virulence genes were shown to be encoded within pathogenicity islands that were associated with prophages. Horizontal transfer of pathogenicity island-encoded virulence factors between strains of S. aureus has been shown to occur through induction of prophage and can be induced by treatment with antibiotics.</para>
+<para id="fs-id1167663625838">Laboratory testing revealed the causative agent of Mark’s infection was a strain of group A streptococcus (Group A strep). As required by law, Mark’s case was reported to the state health department and ultimately to the Centers for Disease Control and Prevention (CDC). At the CDC, the strain of group A strep isolated from Mark was analyzed more thoroughly for methicillin resistance.</para>
+<para id="fs-id1167661353014">Methicillin resistance is genetically encoded and is becoming more common in group A strep through horizontal gene transfer. In necrotizing fasciitis, blood flow to the infected area is typically limited because of the action of various genetically encoded bacterial toxins. This is why there is typically little to no bleeding as a result of the incision test. Unfortunately, these bacterial toxins limit the effectiveness of intravenous antibiotics in clearing infection from the skin and underlying tissue, meaning that antibiotic resistance alone does not explain the ineffectiveness of Mark’s treatment. Nevertheless, intravenous antibiotic therapy was warranted to help minimize the possible outcome of sepsis, which is a common outcome of necrotizing fasciitis. Through genomic analysis by the CDC of the strain isolated from Mark, several of the important virulence genes were shown to be encoded on prophages, indicating that transduction is important in the horizontal gene transfer of these genes from one bacterial cell to another.</para>
 <para id="fs-id1167663625842"><emphasis effect="italics">Go back to the <link document="m58845" target-id="fs-id1167661565061">previous</link> Clinical Focus box.</emphasis></para>
 </note>
 </section>
@@ -336,5 +342,5 @@
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 </document>

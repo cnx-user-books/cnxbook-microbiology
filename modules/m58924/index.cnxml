@@ -10,7 +10,7 @@
 
 <content>
 <section id="fs-id1167663729603" class="learning-objectives">
-<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<title>Learning Objectives</title>
 <list id="fs-id1167661568516">
 <item>Describe the major anatomical features of the human digestive system</item>
 <item>Describe the normal microbiota of various regions in the human digestive system</item>
@@ -18,7 +18,7 @@
 <item>Describe general signs and symptoms associated with infections of the digestive system</item>
 </list>
 </section>
-<note id="fs-id1167663610173" class="microbiology clinical-focus">
+<note id="fs-id1167663610173" class="microbiology clinical-focus-opener">
 <title>Part 1</title>
 <para id="fs-id1167661292408">After a morning of playing outside, four-year-old Carli ran inside for lunch. After taking a bite of her fried egg, she pushed it away and whined, “It’s too slimy, Mommy. I don’t want any more.” But her mother, in no mood for games, curtly replied that if she wanted to go back outside she had better finish her lunch. Reluctantly, Carli complied, trying hard not to gag as she choked down the runny egg.</para>
 <para id="fs-id1167663625689">That night, Carli woke up feeling nauseated. She cried for her parents and then began to vomit. Her parents tried to comfort her, but she continued to vomit all night and began to have diarrhea and run a fever. By the morning, her parents were very worried. They rushed her to the emergency room.</para>
@@ -52,7 +52,7 @@
 </media>
 <caption>The tooth has a visible crown with an outer layer of enamel, a layer of dentin, and an inner pulp. The root, hidden by the gums, contains the pulp canal (root canal). (credit: modification of work by Bruce Blaus)</caption>
 </figure>
-<para id="fs-id1167661293605">Microbes such as bacteria and archaea are abundant in the mouth and coat all of the surfaces of the oral cavity. However, different structures, such as the teeth or cheeks, host unique communities of both aerobic and anaerobic microbes. Some factors appear to work against making the mouth hospitable to certain microbes. For example, chewing allows microbes to mix better with saliva so they can be swallowed or spit out more easily. Saliva also contains enzymes, including <term class="no-emphasis">lysozyme</term>, which can damage microbial cells. Recall that lysozyme is part of the first line of defense in the innate immune system and cleaves the β-(1,4) glycosidic linkages between N-acetylglucosamine (NAG) and N-acetylmuramic acid (NAM) in bacterial peptidoglycan (see <link document="m58878">Chemical Defenses</link>). Additionally, fluids containing immunoglobulins and phagocytic cells are produced in the gingival spaces. Despite all of these chemical and mechanical activities, the mouth supports a large microbial community.</para>
+<para id="fs-id1167661293605">Microbes such as bacteria and archaea are abundant in the mouth and coat all of the surfaces of the oral cavity. However, different structures, such as the teeth or cheeks, host unique communities of both aerobic and anaerobic microbes. Some factors appear to work against making the mouth hospitable to certain microbes. For example, chewing allows microbes to mix better with saliva so they can be swallowed or spit out more easily. Saliva also contains enzymes, including <term class="no-emphasis">lysozyme</term>, which can damage microbial cells. Recall that lysozyme is part of the first line of defense in the innate immune system and cleaves the β-(1,4) glycosidic linkages between N-acetylglucosamine (NAG) and N-acetylmuramic acid (NAM) in bacterial peptidoglycan (see <link class="target-chapter" document="m58878">Chemical Defenses</link>). Additionally, fluids containing immunoglobulins and phagocytic cells are produced in the gingival spaces. Despite all of these chemical and mechanical activities, the mouth supports a large microbial community.</para>
 <note id="fs-id1167663660997" class="microbiology check-your-understanding">
 <list id="fs-id1167663590955" list-type="bulleted" bullet-style="bullet">
 <item>What factors make the mouth inhospitable for certain microbes?</item>
@@ -155,7 +155,7 @@
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 
 
 </document>

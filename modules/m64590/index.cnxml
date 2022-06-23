@@ -1,0 +1,76 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Endosymbiotic Theory</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m64590</md:content-id>
+  <md:title>Endosymbiotic Theory</md:title>
+  <md:abstract/>
+  <md:uuid>99ed6824-0b17-4b53-a56e-4d309bd9182e</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1172098448739" class="learning-objectives">
+<title>Learning Objectives</title>
+<list id="fs-id1172098261441"><item>Explain the key points of endosymbiotic theory and cite the evidence that supports this concept</item>
+
+</list></section>
+<section id="fs-id1172100594561">
+<title>Endosymbiotic Theory</title>
+<para id="fs-id1172098395668">As scientists were making progress toward understanding the role of cells in plant and animal tissues, others were examining the structures within the cells themselves. In 1831, Scottish botanist Robert <term class="no-emphasis">Brown</term> (1773–1858) was the first to describe observations of nuclei, which he observed in plant cells. Then, in the early 1880s, German botanist Andreas <term class="no-emphasis">Schimper</term> (1856–1901) was the first to describe the chloroplasts of plant cells, identifying their role in starch formation during photosynthesis and noting that they divided independent of the nucleus.</para>
+<para id="fs-id1172098524287">Based upon the chloroplasts’ ability to reproduce independently, Russian botanist Konstantin <term class="no-emphasis">Mereschkowski</term> (1855–1921) suggested in 1905 that chloroplasts may have originated from ancestral photosynthetic bacteria living symbiotically inside a eukaryotic cell. He proposed a similar origin for the nucleus of plant cells. This was the first articulation of the <term class="no-emphasis">endosymbiotic hypothesis</term>, and would explain how eukaryotic cells evolved from ancestral bacteria.</para>
+<para id="fs-id1172098528019">Mereschkowski’s endosymbiotic hypothesis was furthered by American anatomist Ivan <term class="no-emphasis">Wallin</term> (1883–1969), who began to experimentally examine the similarities between mitochondria, chloroplasts, and bacteria—in other words, to put the endosymbiotic hypothesis to the test using objective investigation. Wallin published a series of papers in the 1920s supporting the endosymbiotic hypothesis, including a 1926 publication co-authored with Mereschkowski. Wallin claimed he could culture mitochondria outside of their eukaryotic host cells. Many scientists dismissed his cultures of mitochondria as resulting from bacterial contamination. Modern genome sequencing work supports the dissenting scientists by showing that much of the genome of mitochondria had been transferred to the host cell’s nucleus, preventing the mitochondria from being able to live on their own.<footnote id="fs-id1172100617815">T. Embley, W. Martin. “Eukaryotic Evolution, Changes, and Challenges.” <emphasis effect="italics">Nature</emphasis> Vol. 440 (2006):623–630.</footnote> <footnote id="fs-id1172098267665">O.G. Berg, C.G. Kurland. “Why Mitochondrial Genes Are Most Often Found in Nuclei.” <emphasis effect="italics">Molecular Biology and Evolution</emphasis> 17 no. 6 (2000):951–961.</footnote></para>
+<para id="fs-id1172098320157">Wallin’s ideas regarding the endosymbiotic hypothesis were largely ignored for the next 50 years because scientists were unaware that these organelles contained their own DNA. However, with the discovery of mitochondrial and chloroplast DNA in the 1960s, the endosymbiotic hypothesis was resurrected. Lynn <term class="no-emphasis">Margulis</term> (1938–2011), an American geneticist, published her ideas regarding the endosymbiotic hypothesis of the origins of mitochondria and chloroplasts in 1967.<footnote id="fs-id1172098382279">L. <emphasis effect="italics">Sagan. “On the Origin of Mitosing Cells.” Journal of Theoretical Biology 14 no. 3 (1967):225–274.</emphasis></footnote> In the decade leading up to her publication, advances in microscopy had allowed scientists to differentiate prokaryotic cells from eukaryotic cells. In her publication, Margulis reviewed the literature and argued that the eukaryotic organelles such as mitochondria and chloroplasts are of prokaryotic origin. She presented a growing body of microscopic, genetic, molecular biology, fossil, and geological data to support her claims.</para>
+<para id="fs-id1172098276894">Again, this hypothesis was not initially popular, but mounting genetic evidence due to the advent of DNA sequencing supported the <term>endosymbiotic theory</term>, which is now defined as the theory that mitochondria and chloroplasts arose as a result of prokaryotic cells establishing a symbiotic relationship within a eukaryotic host (<link target-id="OSC_Microbio_03_02_Endosymbio"/>). With Margulis’ initial endosymbiotic theory gaining wide acceptance, she expanded on the theory in her 1981 book <emphasis effect="italics">Symbiosis in Cell Evolution</emphasis>. In it, she explains how endosymbiosis is a major driving factor in the evolution of organisms. More recent genetic sequencing and phylogenetic analysis show that mitochondrial DNA and chloroplast DNA are highly related to their bacterial counterparts, both in DNA sequence and chromosome structure. However, mitochondrial DNA and chloroplast DNA are reduced compared with nuclear DNA because many of the genes have moved from the organelles into the host cell’s nucleus. Additionally, mitochondrial and chloroplast ribosomes are structurally similar to bacterial ribosomes, rather than to the eukaryotic ribosomes of their hosts. Last, the binary fission of these organelles strongly resembles the binary fission of bacteria, as compared with mitosis performed by eukaryotic cells. Since Margulis’ original proposal, scientists have observed several examples of bacterial endosymbionts in modern-day eukaryotic cells. Examples include the endosymbiotic bacteria found within the guts of certain insects, such as cockroaches,<footnote id="fs-id1172098275714">A.E. Douglas. “The Microbial Dimension in Insect Nutritional Ecology.” <emphasis effect="italics">Functional Ecology</emphasis> 23 (2009):38–47.</footnote> and photosynthetic bacteria-like organelles found in protists.<footnote id="fs-id1172098510439">J.M. Jaynes, L.P. Vernon. “The Cyanelle of <emphasis effect="italics">Cyanophora paradoxa</emphasis>: Almost a Cyanobacterial Chloroplast.” <emphasis effect="italics">Trends in Biochemical Sciences</emphasis> 7 no. 1 (1982):22–24.</footnote></para>
+<figure id="OSC_Microbio_03_02_Endosymbio">
+<media id="fs-id1172100993018" alt="Diagram of the endosymbiotic theory. Step 1 shows a cell labeled proto-eukaryote; the cell contains an outer membrane and DNA inside. The text reads: infoldings in the plasm amembrane of an ancestral cell gave rise to endomembrane components, including a nucleus and endoplasmic reticulum. The cell now contains DNA within a membrane (the nucleus). Outside are many folds labeled endoplasmic reticulum. Step 2 reads: In a first endosymbiotic event, the ancestral eukaryote consumed aerobic bacteria that evolved into mitochondria. The cell how shows a small oval entering the larger cell; the small oval is labeled aerobic bacterium. Once the small oval is in the cell, it is now labeled mitochondrion. The larger cell is now labeled modern heterotrophic eukaryote.  Step 3 reads: in a second endosymbiotic event, the early eukaryote consumed photosynthetic bacteria that evolved into chloroplast. The cell is shown engulfing another small oval labeled photosynthetic bacterium.  Once the oval is inside the larger cell is now labeled modern photosynthetic eukaryote.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_03_02_Endosymbio.jpg"/>
+</media>
+<caption>According to the endosymbiotic theory, mitochondria and chloroplasts are each derived from the uptake of bacteria. These bacteria established a symbiotic relationship with their host cell that eventually led to the bacteria evolving into mitochondria and chloroplasts.</caption>
+</figure>
+<note id="fs-id1172101006935" class="microbiology check-your-understanding">
+<list id="fs-id1172101716019" list-type="bulleted" bullet-style="bullet">
+<item>What does the modern endosymbiotic theory state?</item>
+<item>What evidence supports the endosymbiotic theory?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1172101031184" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1172098395980" list-type="bulleted" bullet-style="bullet"><item><emphasis effect="bold">Endosymbiotic theory</emphasis> states that mitochondria and chloroplasts, organelles found in many types of organisms, have their origins in bacteria. Significant structural and genetic information support this theory.</item>
+
+</list></section>
+<section id="fs-id1172100614393" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1172100835261">
+<problem id="fs-id1172101003231">
+<para id="fs-id1172100722835">Whose proposal of the endosymbiotic theory of mitochondrial and chloroplast origin was ultimately accepted by the greater scientific community?</para>
+<list id="fs-id1172100593169" list-type="enumerated" number-style="upper-alpha">
+<item>Rudolf Virchow</item>
+<item>Ignaz Semmelweis</item>
+<item>Lynn Margulis</item>
+<item>Theodor Schwann</item>
+</list>
+</problem>
+<solution id="fs-id1172100625458">
+<para id="fs-id1172100654019">C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1172100969362" class="short-answer">
+<title>Short Answer</title>
+<exercise id="fs-id1172100546798">
+<problem id="fs-id1172100786316">
+<para id="fs-id1172098320538">What evidence exists that supports the endosymbiotic theory?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1172100781361" class="critical-thinking">
+<title>Critical Thinking</title>
+<exercise id="fs-id1172098267150">
+<problem id="fs-id1172100960991">
+<para id="fs-id1172100551378">Why are mitochondria and chloroplasts unable to multiply outside of a host cell?</para>
+</problem>
+</exercise>
+</section>
+</content>
+</document>

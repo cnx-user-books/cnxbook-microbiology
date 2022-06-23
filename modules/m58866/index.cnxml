@@ -10,7 +10,7 @@
 
 <content>
 <section id="fs-id1167585000866" class="learning-objectives">
-<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<title>Learning Objectives</title>
 <list id="fs-id1167585112602">
 <item>Distinguish between signs and symptoms of disease</item>
 <item>Explain the difference between a communicable disease and a noncommunicable disease</item>
@@ -18,7 +18,7 @@
 <item>Identify and describe the stages of an acute infectious disease in terms of number of pathogens present and severity of signs and symptoms</item>
 </list>
 </section>
-<note id="fs-id1167585015680" class="microbiology clinical-focus">
+<note id="fs-id1167585015680" class="microbiology clinical-focus-opener">
 <title>Part 1</title>
 <para id="fs-id1167585133891">Michael, a 10-year-old boy in generally good health, went to a birthday party on Sunday with his family. He ate many different foods but was the only one in the family to eat the undercooked hot dogs served by the hosts. Monday morning, he woke up feeling achy and nauseous, and he was running a fever of 38 °C (100.4 °F). His parents, assuming Michael had caught the flu, made him stay home from school and limited his activities. But after 4 days, Michael began to experience severe headaches, and his fever spiked to 40 °C (104 °F). Growing worried, his parents finally decide to take Michael to a nearby clinic.</para>
 <list id="fs-id1167584764871" list-type="bulleted" bullet-style="bullet">
@@ -177,7 +177,9 @@
 <caption>Blood smears showing two diseases of the blood. (a) Malaria is an infectious, zoonotic disease caused by the protozoan pathogen <term class="no-emphasis"><emphasis effect="italics">Plasmodium falciparum</emphasis></term> (shown here) and several other species of the genus <emphasis effect="italics">Plasmodium</emphasis>. It is transmitted by mosquitoes to humans. (b) Sickle cell disease is a noninfectious genetic disorder that results in abnormally shaped red blood cells, which can stick together and obstruct the flow of blood through the circulatory system. It is not caused by a pathogen, but rather a genetic mutation. (credit a: modification of work by Centers for Disease Control and Prevention; credit b: modification of work by Ed Uthman)</caption>
 </figure>
 <note id="fs-id1167584950574" class="microbiology link-to-learning">
-
+<media id="fs-id1167585074278" alt="Link to learning graphic">
+<image mime-type="image/jpeg" src="../../media/CNX_Interactive_200DPI.png"/>
+</media>
 <para id="fs-id1167584705087">Lists of common infectious diseases can be found at the following <link url="https://openstax.org/l/22CDCdis">Centers for Disease Control and Prevention</link> (CDC), <link url="https://openstax.org/l/22WHOdis">World Health Organization</link> (WHO), and <link url="https://openstax.org/l/22WHOclass">International Classification of Diseases</link> websites.</para>
 </note>
 <note id="fs-id1167583584164" class="microbiology check-your-understanding">
@@ -336,8 +338,9 @@
 </exercise>
 <exercise id="fs-id1167584663692">
 <problem id="fs-id1167583597100">
-<para id="fs-id1167583526478">In July 2015, a report (C. Owens. “<emphasis effect="italics">P. aeruginosa</emphasis> survives in sinks 10 years after hospital outbreak.” 2015. http://www.healio.com/infectious-disease/nosocomial-infections/news/online/%7B5afba909-56d9-48cc-a9b0-ffe4568161e8%7D/p-aeruginosa-survives-in-sinks-10-years-after-hospital-outbreak) was released indicating the gram-negative bacterium <emphasis effect="italics">Pseudomonas aeruginosa</emphasis> was found on hospital sinks 10 years after the initial outbreak in a neonatal intensive care unit. <emphasis effect="italics">P. aeruginosa</emphasis> usually causes localized ear and eye infections but can cause pneumonia or septicemia in vulnerable individuals like newborn babies. Explain how the current discovery of the presence of this reported <emphasis effect="italics">P. aeruginosa</emphasis> could lead to a recurrence of nosocomial disease.</para></problem>
+<para id="fs-id1167583526478">In July 2015, a report<footnote id="fs-id1167585179425">C. Owens. “<emphasis effect="italics">P. aeruginosa</emphasis> survives in sinks 10 years after hospital outbreak.” 2015. http://www.healio.com/infectious-disease/nosocomial-infections/news/online/%7B5afba909-56d9-48cc-a9b0-ffe4568161e8%7D/p-aeruginosa-survives-in-sinks-10-years-after-hospital-outbreak</footnote> was released indicating the gram-negative bacterium <emphasis effect="italics">Pseudomonas aeruginosa</emphasis> was found on hospital sinks 10 years after the initial outbreak in a neonatal intensive care unit. <emphasis effect="italics">P. aeruginosa</emphasis> usually causes localized ear and eye infections but can cause pneumonia or septicemia in vulnerable individuals like newborn babies. Explain how the current discovery of the presence of this reported <emphasis effect="italics">P. aeruginosa</emphasis> could lead to a recurrence of nosocomial disease.</para>
+</problem>
 </exercise>
 </section>
- </content>
+</content>
 </document>

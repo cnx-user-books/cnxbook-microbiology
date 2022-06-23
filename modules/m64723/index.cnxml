@@ -1,0 +1,160 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Antifungal Drugs</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m64723</md:content-id>
+  <md:title>Antifungal Drugs</md:title>
+  <md:abstract/>
+  <md:uuid>2c86cde6-ce3b-4c99-9e01-de82980d04a9</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167661442950" class="learning-objectives">
+<title>Learning Objective</title>
+<list id="fs-id1167661329398"><item>Explain the differences between modes of action of drugs that target fungi</item>
+</list></section>
+<para id="fs-id1167663960293">Because fungi are eukaryotic, their cells are very similar to human cells, making it more difficult to develop drugs with selective toxicity. Despite this challenge, there are antimicrobial drugs that target fungi. <link target-id="fs-id1167661598303"/>, provides examples of antifungal drugs.</para><section id="fs-id1167663740631">
+<title>Antifungal Drugs</title>
+<para id="fs-id1167663635524">The most common mode of action for <term class="no-emphasis">antifungal drugs</term> is the disruption of the cell membrane. Antifungals take advantage of small differences between fungi and humans in the biochemical pathways that synthesize sterols. The <term class="no-emphasis">sterols</term> are important in maintaining proper membrane fluidity and, hence, proper function of the cell membrane. For most fungi, the predominant membrane sterol is <term class="no-emphasis">ergosterol</term>. Because human cell membranes use <term class="no-emphasis">cholesterol</term>, instead of ergosterol, antifungal drugs that target ergosterol synthesis are selectively toxic (<link target-id="OSC_Microbio_14_03_sterols"/>).</para>
+<figure id="OSC_Microbio_14_03_sterols">
+<media id="fs-id1167661572865" alt="Cholesterol and ergosterol both have 4 fused carbon rigns with a chain of carbons off the top ring. The differences are the placements of a few double bonds. ">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_14_03_sterols.jpg"/>
+</media>
+<caption>The predominant sterol found in human cells is cholesterol, whereas the predominant sterol found in fungi is ergosterol, making ergosterol a good target for antifungal drug development.</caption>
+</figure>
+<para id="fs-id1167663652758">The <term>imidazoles</term> are synthetic fungicides that disrupt ergosterol biosynthesis; they are commonly used in medical applications and also in agriculture to keep seeds and harvested crops from molding. Examples include <term class="no-emphasis">miconazole</term>, <term class="no-emphasis">ketoconazole</term>, and <term class="no-emphasis">clotrimazole</term>, which are used to treat fungal skin infections such as <term class="no-emphasis">ringworm</term>, specifically <term class="no-emphasis">tinea pedis</term> (<term class="no-emphasis">athlete’s foot</term>), <term class="no-emphasis">tinea cruris</term> (<term class="no-emphasis">jock itch</term>), and <term class="no-emphasis">tinea corporis</term>. These infections are commonly caused by <term class="no-emphasis">dermatophytes</term> of the genera <term class="no-emphasis"><emphasis effect="italics">Trichophyton</emphasis></term>, <term class="no-emphasis"><emphasis effect="italics">Epidermophyton</emphasis></term>, and <term class="no-emphasis"><emphasis effect="italics">Microsporum</emphasis></term>. Miconazole is also used predominantly for the treatment of vaginal yeast infections caused by the fungus <term class="no-emphasis"><emphasis effect="italics">Candida</emphasis></term>, and ketoconazole is used for the treatment of <term class="no-emphasis">tinea versicolor</term> and <term class="no-emphasis">dandruff</term>, which both can be caused by the fungus <term class="no-emphasis"><emphasis effect="italics">Malassezia</emphasis></term>.</para>
+<para id="fs-id1167661485633">The <term>triazole</term> drugs, including <term>fluconazole</term>, also inhibit <term class="no-emphasis">ergosterol</term> biosynthesis. However, they can be administered orally or intravenously for the treatment of several types of systemic yeast infections, including <term class="no-emphasis">oral thrush</term> and <term class="no-emphasis">cryptococcal meningitis</term>, both of which are prevalent in patients with AIDS. The triazoles also exhibit more <term class="no-emphasis">selective toxicity</term>, compared with the imidazoles, and are associated with fewer side effects.</para>
+<para id="fs-id1167663715006">The <term>allylamines</term>, a structurally different class of synthetic antifungal drugs, inhibit an earlier step in ergosterol biosynthesis. The most commonly used allylamine is <term>terbinafine</term> (marketed under the brand name <term class="no-emphasis">Lamisil</term>), which is used topically for the treatment of dermatophytic skin infections like <term class="no-emphasis">athlete’s foot</term>, <term class="no-emphasis">ringworm</term>, and <term class="no-emphasis">jock itch</term>. Oral treatment with terbinafine is also used for the treatment of fingernail and toenail fungus, but it can be associated with the rare side effect of <term class="no-emphasis">hepatotoxicity</term>.</para>
+<para id="fs-id1167661456640">The <term>polyenes</term> are a class of antifungal agents naturally produced by certain actinomycete soil bacteria and are structurally related to <term class="no-emphasis">macrolides</term>. These large, lipophilic molecules bind to ergosterol in fungal cytoplasmic membranes, thus creating pores. Common examples include <term class="no-emphasis">nystatin</term> and <term class="no-emphasis">amphotericin B</term>. Nystatin is typically used as a topical treatment for yeast infections of the skin, mouth, and vagina, but may also be used for intestinal fungal infections. The drug <term>amphotericin B</term> is used for systemic fungal infections like <term class="no-emphasis">aspergillosis</term>, <term class="no-emphasis">cryptococcal meningitis</term>, <term class="no-emphasis">histoplasmosis</term>, <term class="no-emphasis">blastomycosis</term>, and <term class="no-emphasis">candidiasis</term>. Amphotericin B was the only antifungal drug available for several decades, but its use is associated with some serious side effects, including <term class="no-emphasis">nephrotoxicity</term> (kidney toxicity).</para>
+<para id="fs-id1167663656458">Amphotericin B is often used in combination with <term class="no-emphasis">flucytosine</term>, a fluorinated pyrimidine analog that is converted by a fungal-specific enzyme into a toxic product that interferes with both DNA replication and protein synthesis in fungi. Flucytosine is also associated with hepatotoxicity (liver toxicity) and bone marrow depression.</para>
+<para id="fs-id1167661438818">Beyond targeting <term class="no-emphasis">ergosterol</term> in fungal cell membranes, there are a few antifungal drugs that target other fungal structures (<link target-id="OSC_Microbio_14_03_antifungal"/>). The <term class="no-emphasis">echinocandins</term>, including caspofungin, are a group of naturally produced antifungal compounds that block the synthesis of β(1→3) glucan found in fungal cell walls but not found in human cells. This drug class has the nickname “penicillin for fungi.” Caspofungin is used for the treatment of <term class="no-emphasis">aspergillosis</term> as well as systemic yeast infections.</para>
+<para id="fs-id1167661742330">Although <term class="no-emphasis">chitin</term> is only a minor constituent of fungal cell walls, it is also absent in human cells, making it a selective target. The <term class="no-emphasis">polyoxins</term> and <term class="no-emphasis">nikkomycins</term> are naturally produced antifungals that target chitin synthesis. Polyoxins are used to control fungi for agricultural purposes, and nikkomycin Z is currently under development for use in humans to treat yeast infections and <term class="no-emphasis">Valley fever</term> (<term class="no-emphasis">coccidioidomycosis</term>), a fungal disease prevalent in the southwestern US.<footnote id="fs-id1167663875228">Centers for Disease Control and Prevention. “Valley Fever: Awareness Is Key.” http://www.cdc.gov/features/valleyfever/. Accessed June 1, 2016.</footnote></para>
+<para id="fs-id1167663712736">The naturally produced antifungal <term class="no-emphasis">griseofulvin</term> is thought to specifically disrupt fungal cell division by interfering with microtubules involved in spindle formation during mitosis. It was one of the first antifungals, but its use is associated with <term class="no-emphasis">hepatotoxicity</term>. It is typically administered orally to treat various types of dermatophytic skin infections when other topical antifungal treatments are ineffective.</para>
+<para id="fs-id1167663508198">There are a few drugs that act as antimetabolites against fungal processes. For example, <term class="no-emphasis">atovaquone</term>, a representative of the <term class="no-emphasis">naphthoquinone</term> drug class, is a semisynthetic antimetabolite for fungal and protozoal versions of a mitochondrial cytochrome important in electron transport. Structurally, it is an analog of <term class="no-emphasis">coenzyme Q</term>, with which it competes for electron binding. It is particularly useful for the treatment of <term class="no-emphasis"><emphasis effect="italics">Pneumocystis</emphasis> pneumonia</term> caused by <term class="no-emphasis"><emphasis effect="italics">Pneumocystis jirovecii</emphasis></term>. The antibacterial <term class="no-emphasis">sulfamethoxazole-trimethoprim</term> combination also acts as an antimetabolite against <emphasis effect="italics">P. jirovecii</emphasis>.</para>
+<para id="fs-id1167663616843"><link target-id="fs-id1167661598303"/> shows the various therapeutic classes of antifungal drugs, categorized by mode of action, with examples of each.</para>
+<figure id="OSC_Microbio_14_03_antifungal">
+<media id="fs-id1167661747182" alt="Targets of antifungal drugs: Inhibits mitochondria function: naphthoquinone. Disrupt membrane: polyenes. Inhibit ergosterol synthesis: imidazole and allylamine. Inhibit synthesis of beta (1-3)glucans: echinocandins. Inhibit chitin synthesis: polyoxins and nikkomycins.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_14_03_antifungal.jpg"/>
+</media>
+<caption>Antifungal drugs target several different cell structures. (credit right: modification of work by “Maya and Rike”/Wikimedia Commons)</caption>
+</figure>
+<table id="fs-id1167661598303" summary="Table titled: Common Antifungal Drugs. Columns: Mechanism of Action; Drug Class; Specific Drugs; Clinical Uses. Mechanism: Inhibit ergosterol synthesis. Class: Imidazoles; Miconazole, ketoconazole, clotrimazole; Fungal skin infections and vaginal yeast infections. Class: Triazoles; Fluconazole; Systemic yeast infections, oral thrush, and cryptococcal meningitis. Allylamines; Terbinafine; Dermatophytic skin infections (athlete’s foot, ring worm, jock itch), and infections of fingernails and toenails. Mechanism: Bind ergosterol in the cell membrane and create pores that disrupt the membrane. Class: Polyenes. Nystatin,; Used topically for yeast infections of skin, mouth, and vagina; also used for fungal infections of the intestine. Amphotericin B; Variety systemic fungal infections. Mechanism: Inhibit cell wall synthesis. Class: Echinocandins; Caspofungin; Aspergillosis and systemic yeast infections. Not applicable; Nikkomycin Z; Coccidioidomycosis (Valley fever) and yeast infections. Mechanism: Inhibit microtubules and cell division; Not applicable; Griseofulvin; Dermatophytic skin infections." class="span-all">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row>
+<entry align="center" namest="c1" nameend="c4">Common Antifungal Drugs</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Mechanism of Action</entry>
+<entry valign="top" align="left">Drug Class</entry>
+<entry valign="top" align="left">Specific Drugs</entry>
+<entry valign="top" align="left">Clinical Uses</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left" morerows="2">Inhibit ergosterol synthesis</entry>
+<entry valign="top" align="left">Imidazoles</entry>
+<entry valign="top" align="left">Miconazole, ketoconazole, clotrimazole</entry>
+<entry valign="top" align="left">Fungal skin infections and vaginal yeast infections</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Triazoles</entry>
+<entry valign="top" align="left">Fluconazole</entry>
+<entry valign="top" align="left">Systemic yeast infections, oral thrush, and cryptococcal meningitis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Allylamines</entry>
+<entry valign="top" align="left">Terbinafine</entry>
+<entry valign="top" align="left">Dermatophytic skin infections (athlete’s foot, ring worm, jock itch), and infections of fingernails and toenails</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left" morerows="1">Bind ergosterol in the cell membrane and create pores that disrupt the membrane</entry>
+<entry valign="top" align="left" morerows="1">Polyenes</entry>
+<entry valign="top" align="left">Nystatin</entry>
+<entry valign="top" align="left">Used topically for yeast infections of skin, mouth, and vagina; also used for fungal infections of the intestine</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Amphotericin B</entry>
+<entry valign="top" align="left">Variety systemic fungal infections</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left" morerows="1">Inhibit cell wall synthesis</entry>
+<entry valign="top" align="left">Echinocandins</entry>
+<entry valign="top" align="left">Caspofungin</entry>
+<entry valign="top" align="left">Aspergillosis and systemic yeast infections</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Not applicable</entry>
+<entry valign="top" align="left">Nikkomycin Z</entry>
+<entry valign="top" align="left">Coccidioidomycosis (Valley fever) and yeast infections</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Inhibit microtubules and cell division</entry>
+<entry valign="top" align="left">Not applicable</entry>
+<entry valign="top" align="left">Griseofulvin</entry>
+<entry valign="top" align="left">Dermatophytic skin infections</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<note id="fs-id1167663664125" class="microbiology check-your-understanding">
+<list id="fs-id1167663586385" list-type="bulleted" bullet-style="bullet">
+<item>How is disruption of ergosterol biosynthesis an effective mode of action for antifungals?</item>
+</list>
+</note>
+<note id="fs-id1167661273839" class="microbiology case-in-point">
+<title>Treating a Fungal Infection of the Lungs</title>
+<para id="fs-id1167663647680">Jack, a 48-year-old engineer, is <term class="no-emphasis">HIV</term> positive but generally healthy thanks to <term class="no-emphasis">antiretroviral therapy (ART)</term>. However, after a particularly intense week at work, he developed a fever and a dry cough. He assumed that he just had a cold or mild flu due to overexertion and didn’t think much of it. However, after about a week, he began to experience fatigue, weight loss, and shortness of breath. He decided to visit his physician, who found that Jack had a low level of blood oxygenation. The physician ordered blood testing, a chest X-ray, and the collection of an induced sputum sample for analysis. His X-ray showed a fine cloudiness and several pneumatoceles (thin-walled pockets of air), which indicated <term class="no-emphasis"><emphasis effect="italics">Pneumocystis</emphasis> pneumonia</term> (PCP), a type of pneumonia caused by the fungus <term class="no-emphasis"><emphasis effect="italics">Pneumocystis jirovecii</emphasis></term>. Jack’s physician admitted him to the hospital and prescribed <term class="no-emphasis">Bactrim</term>, a combination of <term class="no-emphasis">sulfamethoxazole</term> and <term class="no-emphasis">trimethoprim</term>, to be administered intravenously.</para>
+<para id="fs-id1167661268012"><emphasis effect="italics">P. jirovecii</emphasis> is a yeast-like fungus with a life cycle similar to that of protozoans. As such, it was classified as a protozoan until the 1980s. It lives only in the lung tissue of infected persons and is transmitted from person to person, with many people exposed as children. Typically, <emphasis effect="italics">P. jirovecii</emphasis> only causes pneumonia in immunocompromised individuals. Healthy people may carry the fungus in their lungs with no symptoms of disease. PCP is particularly problematic among HIV patients with compromised immune systems.</para>
+<para id="fs-id1167661432383">PCP is usually treated with oral or intravenous Bactrim, but <term class="no-emphasis">atovaquone</term> or <term class="no-emphasis">pentamidine</term> (another antiparasitic drug) are alternatives. If not treated, PCP can progress, leading to a collapsed lung and nearly 100% mortality. Even with antimicrobial drug therapy, PCP still is responsible for 10% of HIV-related deaths.</para>
+<para id="fs-id1167663970848">The cytological examination, using direct immunofluorescence assay (DFA), of a smear from Jack’s sputum sample confirmed the presence of <emphasis effect="italics">P. jirovecii</emphasis> (<link target-id="OSC_Microbio_14_03_Pjiroveci"/>). Additionally, the results of Jack’s blood tests revealed that his white blood cell count had dipped, making him more susceptible to the fungus. His physician reviewed his ART regimen and made adjustments. After a few days of hospitalization, Jack was released to continue his antimicrobial therapy at home. With the adjustments to his ART therapy, Jack’s CD4 counts began to increase and he was able to go back to work.</para>
+<figure id="OSC_Microbio_14_03_Pjiroveci">
+<media id="fs-id1167663983598" alt="Micrograph showing green stained lug tissue and brown celled labeled P. jiroveci.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_14_03_Pjiroveci.jpg"/>
+</media>
+<caption>Microscopic examination of an induced sputum sample or bronchoaveolar lavage sample typically reveals the organism, as shown here. (credit: modification of work by the Centers for Disease Control and Prevention)</caption>
+</figure>
+</note>
+</section>
+<section id="fs-id1167663628736" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1167661433781" list-type="bulleted" bullet-style="bullet"><item>Because fungi are eukaryotic organisms like human cells, it is more challenging to develop antimicrobial drugs that specifically target them. </item>
+<item><emphasis effect="bold">Antifungal drugs</emphasis> interfere with ergosterol synthesis, bind to ergosterol to disrupt fungal cell membrane integrity, or target cell wall-specific components or other cellular proteins.</item>
+
+
+</list></section>
+<section id="fs-id1167659283006" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1167661364965">
+<problem id="fs-id1167661408447">
+<para id="fs-id1167661408449">Which of the following is not an appropriate target for antifungal drugs?</para>
+<list id="fs-id1167661443670" list-type="enumerated" number-style="upper-alpha">
+<item>ergosterol</item>
+<item>chitin</item>
+<item>cholesterol</item>
+<item>β(1→3) glucan</item>
+</list>
+</problem>
+<solution id="fs-id1167661630701">
+<para id="fs-id1167661630703">C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167661672548" class="true-false">
+<title>True/False</title>
+<exercise id="fs-id1167661737846">
+<problem id="fs-id1167661737849">
+<para id="fs-id1167661538664">Echinocandins, known as “penicillin for fungi,” target β(1→3) glucan in fungal cell walls.</para>
+</problem>
+<solution id="fs-id1167659075754">
+<para id="fs-id1167661370540">true</para>
+</solution>
+</exercise>
+</section>
+</content>
+</document>

@@ -1,0 +1,109 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>The Germ Theory of Disease</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m64568</md:content-id>
+  <md:title>The Germ Theory of Disease</md:title>
+  <md:abstract/>
+  <md:uuid>55161e8a-707e-4350-b9cb-c541a0b6e1ee</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1172098448739" class="learning-objectives">
+<title>Learning Objectives</title>
+<list id="fs-id1172098261441"><item>Explain the contributions of Semmelweis, Snow, Pasteur, Lister, and Koch to the development of germ theory</item>
+</list></section>
+<section id="fs-id1172098310775">
+<title>The Germ Theory of Disease</title>
+<para id="fs-id1172098458613">Prior to the discovery of microbes during the 17th century, other theories circulated about the origins of disease. For example, the ancient Greeks proposed the <term class="no-emphasis">miasma theory</term>, which held that disease originated from particles emanating from decomposing matter, such as that in sewage or cesspits. Such particles infected humans in close proximity to the rotting material. Diseases including the Black Death, which ravaged Europe’s population during the Middle Ages, were thought to have originated in this way.</para>
+<para id="fs-id1172098377197">In 1546, Italian physician Girolamo <term class="no-emphasis">Fracastoro</term> proposed, in his essay <emphasis effect="italics">De Contagione</emphasis> <emphasis effect="italics">et Contagiosis Morbis</emphasis>, that seed-like spores may be transferred between individuals through direct contact, exposure to contaminated clothing, or through the air. We now recognize Fracastoro as an early proponent of the <term>germ theory of disease</term>, which states that diseases may result from microbial infection. However, in the 16th century, Fracastoro’s ideas were not widely accepted and would be largely forgotten until the 19th century.</para>
+<para id="fs-id1172100597567">In 1847, Hungarian obstetrician Ignaz <term class="no-emphasis">Semmelweis</term> (<link target-id="OSC_Microbio_03_02_Semmelweis"/>) observed that mothers who gave birth in hospital wards staffed by physicians and medical students were more likely to suffer and die from puerperal fever after childbirth (10%–20% mortality rate) than were mothers in wards staffed by midwives (1% mortality rate). Semmelweis observed medical students performing autopsies and then subsequently carrying out vaginal examinations on living patients without washing their hands in between. He suspected that the students carried disease from the autopsies to the patients they examined. His suspicions were supported by the untimely death of a friend, a physician who contracted a fatal wound infection after a postmortem examination of a woman who had died of a puerperal infection. The dead physician’s wound had been caused by a scalpel used during the examination, and his subsequent illness and death closely paralleled that of the dead patient.</para>
+<para id="fs-id1172100950369">Although Semmelweis did not know the true cause of puerperal fever, he proposed that physicians were somehow transferring the causative agent to their patients. He suggested that the number of puerperal fever cases could be reduced if physicians and medical students simply washed their hands with chlorinated lime water before and after examining every patient. When this practice was implemented, the maternal mortality rate in mothers cared for by physicians dropped to the same 1% mortality rate observed among mothers cared for by midwives. This demonstrated that handwashing was a very effective method for preventing disease transmission. Despite this great success, many discounted Semmelweis’s work at the time, and physicians were slow to adopt the simple procedure of handwashing to prevent infections in their patients because it contradicted established norms for that time period.</para>
+<figure id="OSC_Microbio_03_02_Semmelweis">
+<media id="fs-id1172100973446" alt="Photo of Ignaz Semmelweis">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_03_02_Semmelweis.jpg"/>
+</media>
+<caption>Ignaz Semmelweis (1818–1865) was a proponent of the importance of handwashing to prevent transfer of disease between patients by physicians.</caption>
+</figure>
+<para id="fs-id1172100564193">Around the same time Semmelweis was promoting handwashing, in 1848, British physician John <term class="no-emphasis">Snow</term> conducted studies to track the source of cholera outbreaks in London. By tracing the outbreaks to two specific water sources, both of which were contaminated by sewage, Snow ultimately demonstrated that cholera bacteria were transmitted via drinking water. Snow’s work is influential in that it represents the first known epidemiological study, and it resulted in the first known public health response to an epidemic. The work of both Semmelweis and Snow clearly refuted the prevailing miasma theory of the day, showing that disease is not only transmitted through the air but also through contaminated items.</para>
+<para id="fs-id1172098530677">Although the work of Semmelweis and Snow successfully showed the role of sanitation in preventing infectious disease, the cause of disease was not fully understood. The subsequent work of Louis <term class="no-emphasis">Pasteur</term>, Robert <term class="no-emphasis">Koch</term>, and Joseph <term class="no-emphasis">Lister</term> would further substantiate the germ theory of disease.</para>
+<para id="fs-id1172098548728">While studying the causes of beer and wine spoilage in 1856, Pasteur discovered properties of fermentation by microorganisms. He had demonstrated with his swan-neck flask experiments (<link document="m58790" target-id="OSC_Microbio_03_01_Pasteur"/>) that airborne microbes, not spontaneous generation, were the cause of food spoilage, and he suggested that if microbes were responsible for food spoilage and fermentation, they could also be responsible for causing infection. This was the foundation for the germ theory of disease.</para>
+<para id="fs-id1172100932077">Meanwhile, British surgeon Joseph Lister (<link target-id="OSC_Microbio_03_02_ListerKoch"/>) was trying to determine the causes of postsurgical infections. Many physicians did not give credence to the idea that microbes on their hands, on their clothes, or in the air could infect patients’ surgical wounds, despite the fact that 50% of surgical patients, on average, were dying of postsurgical infections.<footnote id="fs-id1172100968322">Alexander, J. Wesley. “The Contributions of Infection Control to a Century of Progress” <emphasis effect="italics">Annals of Surgery</emphasis> 201:423-428, 1985.</footnote> Lister, however, was familiar with the work of Semmelweis and Pasteur; therefore, he insisted on handwashing and extreme cleanliness during surgery. In 1867, to further decrease the incidence of postsurgical wound infections, Lister began using carbolic acid (phenol) spray disinfectant/antiseptic during surgery. His extremely successful efforts to reduce postsurgical infection caused his techniques to become a standard medical practice.</para>
+<para id="fs-id1172098391960">A few years later, Robert Koch (<link target-id="OSC_Microbio_03_02_ListerKoch"/>) proposed a series of postulates (Koch’s postulates) based on the idea that the cause of a specific disease could be attributed to a specific microbe. Using these postulates, Koch and his colleagues were able to definitively identify the causative pathogens of specific diseases, including anthrax, tuberculosis, and cholera. Koch’s “one microbe, one disease” concept was the culmination of the 19th century’s paradigm shift away from miasma theory and toward the germ theory of disease. Koch’s postulates are discussed more thoroughly in <link class="target-chapter" document="m58867">How Pathogens Cause Disease</link>.</para>
+<figure id="OSC_Microbio_03_02_ListerKoch">
+<media id="fs-id1172100648115" alt="a) Photo of Joseph Lister b) Photo of Robert Koch">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_03_02_ListerKoch.jpg"/>
+</media>
+<caption>(a) Joseph Lister developed procedures for the proper care of surgical wounds and the sterilization of surgical equipment. (b) Robert Koch established a protocol to determine the cause of infectious disease. Both scientists contributed significantly to the acceptance of the germ theory of disease.</caption>
+</figure>
+<note id="fs-id1172098382783" class="microbiology check-your-understanding">
+<list id="fs-id1172102023435" list-type="bulleted" bullet-style="bullet">
+<item>Compare and contrast the miasma theory of disease with the germ theory of disease.</item>
+<item>How did Joseph Lister’s work contribute to the debate between the miasma theory and germ theory and how did this increase the success of medical procedures?</item>
+</list>
+</note>
+<figure id="OSC_Microbio_03_02_GermTimeln">
+<media id="fs-id1172100886941" alt="A timeline. To the far left are the ancient Greeks who proposed the Miasma Theory. In 1546 Fracastoro begins early version of Germ Theory in De Contagione et Contagiosis Morbis. In 1665 Hooke observes cork cells under a microscope. In 1674 van Leeuwenhoek observes single-celled organisms. In 1847 Semmelweis demonstrates that hand washing reduces puerperal infections. In 1854 Snow demonstrates that cholera bacteria were transmitted in contaminated drinking water. In 1856 Pasteur discovers microbial fermentation while studying the cause of spoilage in beer and wine. In 1862 Pasteur disproves spontaneous generation with swan-neck flask experiment. In 1867 Lister begins using carbolic acid as a disinfectant during surgery. From 1867 – 1906 Koch and his workers determine causative agents for many bacterial infections.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_03_02_GermTimeln.jpg"/>
+</media>
+<caption>(credit “swan-neck flask”: modification of work by Wellcome Images)</caption>
+</figure>
+</section>
+<section id="fs-id1172101031184" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1172098395980" list-type="bulleted" bullet-style="bullet"><item>The <emphasis effect="bold">miasma theory of disease</emphasis> was widely accepted until the 19th century, when it was replaced by the <emphasis effect="bold">germ theory of disease</emphasis> thanks to the work of Semmelweis, Snow, Pasteur, Lister, and Koch, and others.</item>
+</list></section>
+<section id="fs-id1172100614393" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1172100596392">
+<problem id="fs-id1172100619354">
+<para id="fs-id1172100538665">Which of the following developed a set of postulates for determining whether a particular disease is caused by a particular pathogen?</para>
+<list id="fs-id1172100894973" list-type="enumerated" number-style="upper-alpha">
+<item>John Snow</item>
+<item>Robert Koch</item>
+<item>Joseph Lister</item>
+<item>Louis Pasteur</item>
+</list>
+</problem>
+<solution id="fs-id1172098417722">
+<para id="fs-id1172098433907">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1172098581271" class="fill-in-the-blank">
+<title>Fill in the Blank</title>
+<exercise id="fs-id1172098445955">
+<problem id="fs-id1172098446601">
+<para id="fs-id1172100629270">John Snow is known as the Father of _____________.</para>
+</problem>
+<solution id="fs-id1172098407259">
+<para id="fs-id1172098401203">epidemiology</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172100896490">
+<problem id="fs-id1172100887022">
+<para id="fs-id1172100952551">The ____________ theory states that disease may originate from proximity to decomposing matter and is not due to person-to-person contact.</para>
+</problem>
+<solution id="fs-id1172100984143">
+<para id="fs-id1172098395693">miasma</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1172100969362" class="short-answer">
+<title>Short Answer</title>
+<exercise id="fs-id1172100558391">
+<problem id="fs-id1172100991140">
+<para id="fs-id1172100837363">What were the differences in mortality rates due to puerperal fever that Ignaz Semmelweis observed? How did he propose to reduce the occurrence of puerperal fever? Did it work?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1172100781361" class="critical-thinking">
+<title>Critical Thinking</title>
+<exercise id="fs-id1172098489299">
+<problem id="fs-id1172100667030">
+<para id="fs-id1172100600513">Why was the work of Snow so important in supporting the germ theory?</para>
+</problem>
+</exercise>
+</section>
+</content>
+</document>

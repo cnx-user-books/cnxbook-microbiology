@@ -10,7 +10,7 @@
 
 <content>
 <section id="fs-id1167663640879" class="learning-objectives">
-<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<title>Learning Objectives</title>
 <list id="fs-id1167663552523">
 <item>Describe various types of assays used to find antigen-antibody complexes</item>
 <item>Describe the circumstances under which antigen-antibody complexes precipitate out of solution</item>
@@ -22,7 +22,7 @@
 <title>Precipitin Reactions</title>
 <para id="fs-id1167661748784">A visible antigen-antibody complex is called a <term>precipitin</term>, and <emphasis effect="italics">in vitro</emphasis> assays that produce a precipitin are called <term class="no-emphasis">precipitin reactions</term>. A precipitin reaction typically involves adding soluble antigens to a test tube containing a solution of antibodies. Each antibody has two arms, each of which can bind to an epitope. When an antibody binds to two antigens, the two antigens become bound together by the antibody. A lattice can form as antibodies bind more and more antigens together, resulting in a precipitin (<link target-id="OSC_Microbio_20_02_Preciptin"/>). Most precipitin tests use a <term class="no-emphasis">polyclonal antiserum</term> rather than <term class="no-emphasis">monoclonal antibodies</term> because polyclonal antibodies can bind to multiple epitopes, making lattice formation more likely. Although mAbs may bind some antigens, the binding will occur less often, making it much less likely that a visible precipitin will form.</para>
 <figure id="OSC_Microbio_20_02_Preciptin">
-<media id="fs-id1167661354091" alt="This figure shows 2 sets of 4 antigens. Each antigen has multiple unique epitopes on the surface. For one set of antigens, polyclonal antibodies are binding to different sets of epitopes on each antigen, linking the antigens together like a lattice. For the second set of antigens, monoclonal antibodies bind to just one of the specific unique epitopes. Because of the specificity, only 2 antigens are linked to each other, rather than forming a more complex lattice with all 4 antigens.">
+<media id="fs-id1167661354091" alt="No Alt Text">
 <image mime-type="image/jpeg" src="../../media/OSC_Microbio_20_02_Preciptin.jpg"/>
 </media>
 <caption>Polyclonal antiserum binds to multiple epitopes on an antigen, leading to lattice formation that results in a visible precipitin. Monoclonal antibodies can only bind to a single epitope; therefore, less binding occurs and lattice formation generally does not occur.</caption>
@@ -96,7 +96,7 @@
 <section id="fs-id1167663507628">
 <title>Neutralization Assay</title>
 <para id="fs-id1167663957187">To cause infection, viruses must bind to receptors on host cells. Antiviral antibodies can neutralize viral infections by coating the virions, blocking the binding (<link target-id="OSC_Microbio_18_04_neutral" document="m58884"/>). This activity neutralizes virions and can result in the formation of large antibody-virus complexes (which are readily removed by phagocytosis) or by antibody binding to the virus and blocking its binding to host cell receptors. This neutralization activity is the basis of <term class="no-emphasis">neutralization assays</term>, sensitive assays used for diagnoses of viral infections.</para>
-<para id="fs-id1167661484126">When viruses infect cells, they often cause damage (<term class="no-emphasis">cytopathic effects</term>) that may include lysis of the host cells. Cytopathic effects can be visualized by growing host cells in a petri dish, covering the cells with a thin layer of agar, and then adding virus (see <link document="m58810">Isolation, Culture, and Identification of Viruses</link>). The virus will diffuse very slowly through the agar. A virus will enter a host cell, proliferate (causing cell damage), be released from the dead host cell, and then move to neighboring cells. As more and more cells die, <term class="no-emphasis">plaques</term> of dead cells will form (<link target-id="OSC_Microbio_20_02_Plaques"/>).</para>
+<para id="fs-id1167661484126">When viruses infect cells, they often cause damage (<term class="no-emphasis">cytopathic effects</term>) that may include lysis of the host cells. Cytopathic effects can be visualized by growing host cells in a petri dish, covering the cells with a thin layer of agar, and then adding virus (see <link class="target-chapter" document="m58810">Isolation, Culture, and Identification of Viruses</link>). The virus will diffuse very slowly through the agar. A virus will enter a host cell, proliferate (causing cell damage), be released from the dead host cell, and then move to neighboring cells. As more and more cells die, <term class="no-emphasis">plaques</term> of dead cells will form (<link target-id="OSC_Microbio_20_02_Plaques"/>).</para>
 <para id="fs-id1167663603483">During the course of a viral infection, the patient will mount an antibody response to the virus, and we can quantify those antibodies using a <term class="no-emphasis">plaque reduction assay</term>. To perform the assay, a <term class="no-emphasis">serial dilution</term> is carried out on a serum sample. Each dilution is then mixed with a standardized amount of the suspect virus. Any virus-specific antibodies in the serum will neutralize some of the virus. The suspensions are then added to host cells in culture to allow any nonneutralized virus to infect the cells and form plaques after several days. The <term class="no-emphasis">titer</term> is defined as the reciprocal of the highest dilution showing a 50% reduction in plaques. Titer is always expressed as a whole number. For example, if a 1/64 dilution was the highest dilution to show 50% plaque reduction, then the titer is 64.</para>
 <para id="fs-id1167661364937">The presence of antibodies in the patient’s serum does not tell us whether the patient is currently infected or was infected in the past. Current infections can be identified by waiting two weeks and testing another serum sample. A four-fold increase in neutralizing titer in this second sample indicates a new infection.</para>
 <figure id="OSC_Microbio_20_02_Plaques">
@@ -113,7 +113,7 @@
 </section>
 <section id="fs-id1167663989026">
 <title>Immunoelectrophoresis</title>
-<para id="fs-id1167663612444">When a patient has elevated protein levels in the blood or is losing protein in the urine, a clinician will often order a <term class="no-emphasis">polyacrylamide gel electrophoresis</term> (<term class="no-emphasis">PAGE</term>) assay (see <link document="m58849">Visualizing and Characterizing DNA, RNA, and Protein</link>). This assay compares the relative abundance of the various types of serum proteins. Abnormal protein electrophoresis patterns can be further studied using <term>immunoelectrophoresis (IEP)</term>. The IEP begins by running a PAGE. Antisera against selected serum proteins are added to troughs running parallel to the electrophoresis track, forming <term class="no-emphasis">precipitin arcs</term> similar to those seen in an <term class="no-emphasis">Ouchterlony assay</term> (<link target-id="OSC_Microbio_20_02_IEP"/>). This allows the identification of abnormal immunoglobulin proteins in the sample.</para>
+<para id="fs-id1167663612444">When a patient has elevated protein levels in the blood or is losing protein in the urine, a clinician will often order a <term class="no-emphasis">polyacrylamide gel electrophoresis</term> (<term class="no-emphasis">PAGE</term>) assay (see <link class="target-chapter" document="m58849">Visualizing and Characterizing DNA, RNA, and Protein</link>). This assay compares the relative abundance of the various types of serum proteins. Abnormal protein electrophoresis patterns can be further studied using <term>immunoelectrophoresis (IEP)</term>. The IEP begins by running a PAGE. Antisera against selected serum proteins are added to troughs running parallel to the electrophoresis track, forming <term class="no-emphasis">precipitin arcs</term> similar to those seen in an <term class="no-emphasis">Ouchterlony assay</term> (<link target-id="OSC_Microbio_20_02_IEP"/>). This allows the identification of abnormal immunoglobulin proteins in the sample.</para>
 <para id="fs-id1167661317168">IEP is particularly useful in the diagnosis of <term class="no-emphasis">multiple myeloma</term>, a cancer of antibody-secreting cells. Patients with multiple myeloma cannot produce healthy antibodies; instead they produce abnormal antibodies that are monoclonal proteins (M proteins). Thus, patients with multiple myeloma will present with elevated serum protein levels that show a distinct band in the gamma globulin region of a protein electrophoresis gel and a sharp spike (in M protein) on the densitometer scan rather than the normal broad smear (<link target-id="OSC_Microbio_20_02_Spike"/>). When antibodies against the various types of antibody heavy and light chains are used to form precipitin arcs, the <term class="no-emphasis">M protein</term> will cause distinctly skewed arcs against one class of heavy chain and one class of light chain as seen in <link target-id="OSC_Microbio_20_02_IEP"/>.</para>
 <figure id="OSC_Microbio_20_02_IEP">
 <media id="fs-id1167663901242" alt="a) A graph showing a large peak at alb and smaller peaks at alpha1, alpha2, beta, and gamma.  B) A photograph showing various white lines on a blue background. The top line is labeled anti-human whole serum, the next is anti-IgG, the next is anti-IgA, the next is anti-K and the next is anti-lambda. Each of these is near a band from both the normal and patient urine samples. Black arrows point to the patient’s sample next to anti-IgG and anti-k. A white arrow points to the band from the patient near anti-K.">
@@ -166,7 +166,9 @@
 <caption>The complement fixation test is used to determine whether a patient’s serum contains antibodies to a specific antigen. If it does, complement fixation will occur, and there will be no complement available to lyse the antibody-bound sheep red blood cells that are added to the solution in the next step. If the sample does not contain antibodies to the antigen, hemolysis of the sheep blood cells will be observed.</caption>
 </figure>
 <note id="fs-id1167663716504" class="microbiology link-to-learning">
-
+<media id="fs-id1167664004113" alt="Link to learning graphic">
+<image mime-type="image/jpeg" src="../../media/CNX_Interactive_200DPI.png"/>
+</media>
 <para id="fs-id1167663902383">View this <link url="https://openstax.org/l/22complfixatst">video</link> to see an outline of the steps of the complement fixation test.</para>
 </note>
 <note id="fs-id1167661292867" class="microbiology check-your-understanding">
@@ -321,6 +323,6 @@
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 
 </document>

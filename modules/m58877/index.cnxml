@@ -10,21 +10,12 @@
 
 <content>
 <section id="fs-id1172100666612" class="learning-objectives">
-<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<title>Learning Objectives</title>
 <list id="fs-id1172100855782">
 <item>Describe the various physical barriers and mechanical defenses that protect the human body against infection and disease</item>
 <item>Describe the role of microbiota as a first-line defense against infection and disease</item>
 </list>
 </section>
-<note id="fs-id1172098423383" class="microbiology clinical-focus">
-<title>Part 1</title>
-<para id="fs-id1172100575838">Angela, a 25-year-old female patient in the emergency department, is having some trouble communicating verbally because of shortness of breath. A nurse observes constriction and swelling of the airway and labored breathing. The nurse asks Angela if she has a history of asthma or allergies. Angela shakes her head no, but there is fear in her eyes. With some difficulty, she explains that her father died suddenly at age 27, when she was just a little girl, of a similar respiratory attack. The underlying cause had never been identified.</para>
-<list id="fs-id1172098564085" list-type="bulleted" bullet-style="bullet">
-<item>What are some possible causes of constriction and swelling of the airway?</item>
-<item>What causes swelling of body tissues in general?</item>
-</list>
-<para id="fs-id1172098774419"><emphasis effect="italics">Jump to the <link target-id="fs-id1172099665672" document="m58878">next</link> Clinical Focus box.</emphasis></para>
-</note>
 <para id="fs-id1172100638917">Nonspecific innate immunity can be characterized as a multifaceted system of defenses that targets invading pathogens in a nonspecific manner. In this chapter, we have divided the numerous defenses that make up this system into three categories: physical defenses, chemical defenses, and cellular defenses. However, it is important to keep in mind that these defenses do not function independently, and the categories often overlap. <link target-id="fs-id1172098375099"/> provides an overview of the nonspecific defenses discussed in this chapter.</para>
 <table id="fs-id1172098375099" class="span-all" summary="A table contains two columns and eleven rows. The first row is merged across both columns and reads “Overview of nonspecific innate immune defenses.” The second row begins with a merged cell reading “Physical defenses” and correlates to “physical barriers, mechanical defenses, and microbiome” in the right column. The next merged cell reads “chemical defenses” and correlates to “chemicals and enzymes in body fluids, antimicrobial peptides, plasma protein mediators, cytokines, and inflammation-eliciting mediators” in the right column. The third merged cell reads “Cellular defenses” and correlates to “granulocytes and agranulocytes” in the right column.">
 <tgroup cols="2">
@@ -291,6 +282,6 @@
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 
 </document>

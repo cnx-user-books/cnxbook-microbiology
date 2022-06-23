@@ -10,7 +10,7 @@
 
 <content>
 <section id="fs-id1167663644740" class="learning-objectives">
-<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<title>Learning Objectives</title>
 <list id="fs-id1167661342761">
 <item>Identify the most common fungi that can cause infections of the respiratory tract</item>
 <item>Compare the major characteristics of specific fungal diseases of the  respiratory tract</item>
@@ -67,7 +67,9 @@
 <caption>(a) These skin lesions are the result of disseminated cutaneous blastomycosis. (b) A differential interference contrast micrograph of <emphasis effect="italics">B. dermatitidis</emphasis> yeast cultured on blood agar. (credit a: modification of work by Centers for Disease Control and Prevention)</caption>
 </figure>
 <note id="fs-id1167663633871" class="microbiology link-to-learning">
-
+<media id="fs-id1167663543417" alt="Link to learning graphic">
+<image mime-type="image/jpeg" src="../../media/CNX_Interactive_200DPI.png"/>
+</media>
 <para id="fs-id1167663809627">Watch this <link url="https://openstax.org/l/22blastlunginf">profile</link> of a blastomycosis lung infection.</para>
 </note>
 </section>
@@ -282,6 +284,6 @@
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 
 </document>

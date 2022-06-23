@@ -10,7 +10,7 @@
 
 <content>
 <section id="fs-id1167660283601" class="learning-objectives">
-<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<title>Learning Objectives</title>
 <list id="fs-id1167662429357">
 <item>Explain the differences and similarities between EIA, FEIA, and ELISA</item>
 <item>Describe the difference and similarities between immunohistochemistry and immunocytochemistry</item>
@@ -107,7 +107,7 @@
 <item>Explain the purpose of the third strip in a lateral flow assay.</item>
 </list>
 </note>
-<para id="fs-id1167662419701"><link target-id="fs-id1167662871299"/> compares some of the key mechanisms and examples of some of the EIAs discussed in this section as well as immunoblots, which were discussed in <link document="m58901">Detecting Antigen-Antibody Complexes</link>.</para>
+<para id="fs-id1167662419701"><link target-id="fs-id1167662871299"/> compares some of the key mechanisms and examples of some of the EIAs discussed in this section as well as immunoblots, which were discussed in <link class="target-chapter" document="m58901">Detecting Antigen-Antibody Complexes</link>.</para>
 <table id="fs-id1167662871299" summary="Table titled: Immunoblots &amp; Enzyme Immunoassays. Columns: Type of Assay; Mechanism; Specific Procedures; Examples. Type of Assay: Immunoblots; Uses enzyme-antibody conjugates to identify specific proteins that have been transferred to an absorbent membrane; Western blot: Detects the presence of a particular protein; Detecting the presence of HIV peptides (or peptides from other infectious agents) in patient sera. Type of assay: Immunostaining; Uses enzyme-antibody conjugates to stain specific molecules on or in cells; Immunohistochemistry: Used to stain specific cells in a tissue Stain for presence of CD8 cells in host tissue; Enzyme-linked immunosorbent assay (ELISA); Uses enzyme-antibody conjugates to quantify target molecules. Type of Assay: Direct ELISA: Uses a single antibody to detect the presence of an antigen; Detection of HIV antigen p24 up to one month after being infected; Indirect ELISA: Measures the amount of antibody produced against an antigen Detection of HIV antibodies in serum. Type of Assay: Immunochromatographic (lateral flow) assays; Techniques use the capture of flowing, color-labeled antigen-antibody complexes by fixed antibody for disease diagnosis; Sandwich ELISA: Measures the amount of antigen bound by the antibody; Detection of antibodies for various pathogens in patient sera (e.g., rapid strep, malaria dipstick); Pregnancy test detecting human chorionic gonadotrophin in urine." class="span-all">
 <tgroup cols="4">
 <colspec colnum="1" colname="c1"/>
@@ -277,6 +277,6 @@
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 
 </document>

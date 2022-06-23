@@ -1,0 +1,188 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Antiviral Drugs</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m64724</md:content-id>
+  <md:title>Antiviral Drugs</md:title>
+  <md:abstract/>
+  <md:uuid>26524ea7-d674-4b68-8e0d-6e4e75b3cbae</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167661442950" class="learning-objectives">
+<title>Learning Objective</title>
+<list id="fs-id1167661329398"><item>Explain the differences between modes of action of drugs that target viruses</item>
+</list></section>
+<para id="fs-id1167663960293">Viruses replicate within human host cells, making it difficult to develop drugs that are selectively toxic to viruses or virus-infected cells. Despite these challenges, there are several classes of antiviral drugs. <link target-id="fs-id1167661791415"/> provide examples for antiviral drugs in these various classes.</para><section id="fs-id1167663980858">
+<title>Antiviral Drugs</title>
+<para id="fs-id1167663639544">Unlike the complex structure of fungi, protozoa, and helminths, viral structure is simple, consisting of nucleic acid, a protein coat, viral enzymes, and, sometimes, a lipid envelope. Furthermore, viruses are obligate intracellular pathogens that use the host’s cellular machinery to replicate. These characteristics make it difficult to develop drugs with selective toxicity against viruses.</para>
+<para id="fs-id1167663724023">Many antiviral drugs are nucleoside analogs and function by inhibiting nucleic acid biosynthesis. For example, <term>acyclovir</term> (marketed as <term class="no-emphasis">Zovirax</term>) is a synthetic analog of the nucleoside <term class="no-emphasis">guanosine</term> (<link target-id="OSC_Microbio_14_03_Acyclovir"/>). It is activated by the herpes simplex viral enzyme thymidine kinase and, when added to a growing DNA strand during replication, causes chain termination. Its specificity for virus-infected cells comes from both the need for a viral enzyme to activate it and the increased affinity of the activated form for viral DNA polymerase compared to host cell DNA polymerase. Acyclovir and its derivatives are frequently used for the treatment of <term class="no-emphasis">herpes virus</term> infections, including <term class="no-emphasis">genital herpes</term>, <term class="no-emphasis">chickenpox</term>, <term class="no-emphasis">shingles</term>, <term class="no-emphasis">Epstein-Barr virus</term> infections, and <term class="no-emphasis">cytomegalovirus</term> infections. Acyclovir can be administered either topically or systemically, depending on the infection. One possible side effect of its use includes <term class="no-emphasis">nephrotoxicity</term>. The drug <term class="no-emphasis">adenine-arabinoside</term>, marketed as <term class="no-emphasis">vidarabine</term>, is a synthetic analog to <term class="no-emphasis">deoxyadenosine</term> that has a mechanism of action similar to that of acyclovir. It is also effective for the treatment of various human herpes viruses. However, because of possible side effects involving low white blood cell counts and <term class="no-emphasis">neurotoxicity</term>, treatment with acyclovir is now preferred.</para>
+<para id="fs-id1167661281817">Ribavirin, another synthetic <term class="no-emphasis">guanosine</term> analog, works by a mechanism of action that is not entirely clear. It appears to interfere with both DNA and RNA synthesis, perhaps by reducing intracellular pools of <term class="no-emphasis">guanosine triphosphate</term> (GTP). Ribavarin also appears to inhibit the RNA polymerase of <term class="no-emphasis">hepatitis C</term> virus. It is primarily used for the treatment of the RNA viruses like hepatitis C (in combination therapy with interferon) and <term class="no-emphasis">respiratory syncytial virus</term>. Possible side effects of <term class="no-emphasis">ribavirin</term> use include <term class="no-emphasis">anemia</term> and developmental effects on unborn children in pregnant patients. In recent years, another nucleotide analog, <term class="no-emphasis">sofosbuvir</term> (<term class="no-emphasis">Solvaldi</term>), has also been developed for the treatment of hepatitis C. Sofosbuvir is a <term class="no-emphasis">uridine</term> analog that interferes with viral polymerase activity. It is commonly coadministered with ribavirin, with and without <term class="no-emphasis">interferon</term>.</para>
+<para id="fs-id1167661424668">Inhibition of nucleic acid synthesis is not the only target of synthetic antivirals. Although the mode of action of <term>amantadine</term> and its relative <term>rimantadine</term> are not entirely clear, these drugs appear to bind to a transmembrane protein that is involved in the escape of the <term class="no-emphasis">influenza virus</term> from endosomes. Blocking escape of the virus also prevents viral RNA release into host cells and subsequent viral replication. Increasing resistance has limited the use of amantadine and rimantadine in the treatment of influenza A. Use of amantadine can result in neurological side effects, but the side effects of rimantadine seem less severe. Interestingly, because of their effects on brain chemicals such as dopamine and NMDA (N-methyl D-aspartate), amantadine and rimantadine are also used for the treatment of <term class="no-emphasis">Parkinson’s disease</term>.</para>
+<para id="fs-id1167661427819">Neuraminidase inhibitors, including <term class="no-emphasis">olsetamivir</term> (<term class="no-emphasis">Tamiflu</term>), <term class="no-emphasis">zanamivir</term> (<term class="no-emphasis">Relenza</term>), and <term class="no-emphasis">peramivir</term> (<term class="no-emphasis">Rapivab</term>), specifically target influenza viruses by blocking the activity of influenza virus <term class="no-emphasis">neuraminidase</term>, preventing the release of the virus from infected cells. These three antivirals can decrease flu symptoms and shorten the duration of illness, but they differ in their modes of administration: olsetamivir is administered orally, zanamivir is inhaled, and peramivir is administered intravenously. Resistance to these neuraminidase inhibitors still seems to be minimal.</para>
+<para id="fs-id1167663727203">Pleconaril is a synthetic antiviral under development that showed promise for the treatment of <term class="no-emphasis">picornaviruses</term>. Use of <term>pleconaril</term> for the treatment of the common cold caused by <term class="no-emphasis">rhinoviruses</term> was not approved by the FDA in 2002 because of lack of proven effectiveness, lack of stability, and association with irregular menstruation. Its further development for this purpose was halted in 2007. However, pleconaril is still being investigated for use in the treatment of life-threatening complications of <term class="no-emphasis">enteroviruses</term>, such as <term class="no-emphasis">meningitis</term> and <term class="no-emphasis">sepsis</term>. It is also being investigated for use in the global eradication of a specific enterovirus, <term class="no-emphasis">polio</term>.<footnote id="fs-id1167661370220">M.J. Abzug. “The Enteroviruses: Problems in Need of Treatments.” <emphasis effect="italics">Journal of Infection</emphasis> 68 no. S1 (2014):108–14.</footnote> Pleconaril seems to work by binding to the viral capsid and preventing the uncoating of viral particles inside host cells during viral infection.</para>
+<para id="fs-id1167661731212">Viruses with complex life cycles, such as <term class="no-emphasis">HIV</term>, can be more difficult to treat. First, HIV targets CD4-positive white blood cells, which are necessary for a normal immune response to infection. Second, HIV is a <term class="no-emphasis">retrovirus</term>, meaning that it converts its RNA genome into a DNA copy that integrates into the host cell’s genome, thus hiding within host cell DNA. Third, the HIV reverse transcriptase lacks proofreading activity and introduces mutations that allow for rapid development of antiviral drug resistance. To help prevent the emergence of resistance, a combination of specific synthetic antiviral drugs is typically used in ART for HIV (<link target-id="OSC_Microbio_14_03_ART"/>).</para>
+<para id="fs-id1167663587154">The <term>reverse transcriptase inhibitors</term> block the early step of converting viral RNA genome into DNA, and can include competitive nucleoside analog inhibitors (e.g., <term class="no-emphasis">azidothymidine/zidovudine</term>, or AZT) and non-nucleoside noncompetitive inhibitors (e.g., <term class="no-emphasis">etravirine</term>) that bind reverse transcriptase and cause an inactivating conformational change. Drugs called <term>protease inhibitors</term> (e.g., <term class="no-emphasis">ritonavir</term>) block the processing of viral proteins and prevent viral maturation. Protease inhibitors are also being developed for the treatment of other viral types.<footnote id="fs-id1167663893168">B.L. Pearlman. “Protease Inhibitors for the Treatment of Chronic Hepatitis C Genotype-1 Infection: The New Standard of Care.” <emphasis effect="italics">Lancet Infectious Diseases</emphasis> 12 no. 9 (2012):717–728.</footnote> For example, <term class="no-emphasis">simeprevir</term> (<term class="no-emphasis">Olysio</term>) has been approved for the treatment of <term class="no-emphasis">hepatitis C</term> and is administered with <term class="no-emphasis">ribavirin</term> and <term class="no-emphasis">interferon</term> in combination therapy. The <term>integrase inhibitors</term> (e.g., <term class="no-emphasis">raltegravir</term>), block the activity of the HIV integrase responsible for the recombination of a DNA copy of the viral genome into the host cell chromosome. Additional drug classes for HIV treatment include the CCR5 antagonists and the <term>fusion inhibitors</term> (e.g., <term class="no-emphasis">enfuviritide</term>), which prevent the binding of HIV to the host cell coreceptor (chemokine receptor type 5 [CCR5]) and the merging of the viral envelope with the host cell membrane, respectively. <link target-id="fs-id1167661791415"/> shows the various therapeutic classes of antiviral drugs, categorized by mode of action, with examples of each.</para>
+<figure id="OSC_Microbio_14_03_Acyclovir">
+<media id="fs-id1167663544303" alt="Acyclovir looks similar to guanosine except that the sugar is replaced with a short carbon chain. Step 1: Viral enzyme adds a phosphate group to acyclovir. Step 2: Human enzymes add two more phosphate groups, producing acyclovir triphosphate. Step 3: During viral DNA replication, acyclovir is added to the growing strand rather than GTP. This halts further elongation of the DNA molecule and stops viral replication.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_14_03_Acyclovir.jpg"/>
+</media>
+<caption>Acyclovir is a structural analog of guanosine. It is specifically activated by the viral enzyme thymidine kinase and then preferentially binds to viral DNA polymerase, leading to chain termination during DNA replication.</caption>
+</figure>
+<figure id="OSC_Microbio_14_03_ART">
+<media id="fs-id1167663907446" alt="Diagram showing HIV infection and locations where drugs can stop the infection. GP120 and G(42 are proteins that are on the surface of the virus and bind to CD4 receptor and CCR5. Enfuvirtide is a fusion inhibitor that blocks this process. When the virus enters, it produces DNA from RNA, this  can be blocked by AZT and etravirine which are reverse-transcriptase inhibitors. Next, the viral DNA integrates into the host DNA. Raltegravir is an integrase inhibitor and blocks this step. Finally the virus is rebuild. Ritonavir is a protease inhibitor and blocks this step.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_14_03_ART.jpg"/>
+</media>
+<caption>Antiretroviral therapy (ART) is typically used for the treatment of HIV. The targets of drug classes currently in use are shown here. (credit: modification of work by Thomas Splettstoesser)</caption>
+</figure>
+<table id="fs-id1167661791415" summary="Table titled: Common Antiviral Drugs. Columns: Mechanism of Action; Drug; Clinical Uses. Mechanism: Nucleoside analog inhibition of nucleic acid synthesis. Acyclovir; Herpes virus infections. Azidothymidine/zidovudine (AZT); HIV infections. Ribavirin; Hepatitis C virus and respiratory syncytial virus infections. Vidarabine; Herpes virus infections.  Sofosuvir;Hepatitis C virus infections. Mechanism: Non-nucleoside noncompetitive inhibition; Etravirine; HIV infections. Mechanism: Inhibit escape of virus from endosomes; Amantadine, rimantadine; Infections with influenza virus. Mechanism: Inhibit neuraminidase; Olsetamivir, zanamivir, peramivir; Infections with influenza virus. Mechanism: Inhibit viral uncoating; Pleconaril Serious enterovirus infections. Mechanism: Inhibition of protease. Ritonavir; HIV infections. Simeprevir; Hepatitis C virus infections.  Mechanism: Inhibition of integrase; Raltegravir; HIV infections. Mechanism: Inhibition of membrane fusion; Enfuviritide; HIV infections." class="span-all">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row>
+<entry align="center" namest="c1" nameend="c3">Common Antiviral Drugs</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Mechanism of Action</entry>
+<entry valign="top" align="left">Drug</entry>
+<entry valign="top" align="left">Clinical Uses</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left" morerows="4">Nucleoside analog inhibition of nucleic acid synthesis</entry>
+<entry valign="top" align="left">Acyclovir</entry>
+<entry valign="top" align="left">Herpes virus infections</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Azidothymidine/zidovudine (AZT)</entry>
+<entry valign="top" align="left">HIV infections</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Ribavirin</entry>
+<entry valign="top" align="left">Hepatitis C virus and respiratory syncytial virus infections</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Vidarabine</entry>
+<entry valign="top" align="left">Herpes virus infections</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Sofosbuvir</entry>
+<entry valign="top" align="left">Hepatitis C virus infections</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Non-nucleoside noncompetitive inhibition</entry>
+<entry valign="top" align="left">Etravirine</entry>
+<entry valign="top" align="left">HIV infections</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Inhibit escape of virus from endosomes</entry>
+<entry valign="top" align="left">Amantadine, rimantadine</entry>
+<entry valign="top" align="left">Infections with influenza virus</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Inhibit neuraminadase</entry>
+<entry valign="top" align="left">Olsetamivir, zanamivir, peramivir</entry>
+<entry valign="top" align="left">Infections with influenza virus</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Inhibit viral uncoating</entry>
+<entry valign="top" align="left">Pleconaril</entry>
+<entry valign="top" align="left">Serious enterovirus infections</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left" morerows="1">Inhibition of protease</entry>
+<entry valign="top" align="left">Ritonavir</entry>
+<entry valign="top" align="left">HIV infections</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Simeprevir</entry>
+<entry valign="top" align="left">Hepatitis C virus infections</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Inhibition of integrase</entry>
+<entry valign="top" align="left">Raltegravir</entry>
+<entry valign="top" align="left">HIV infections</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Inhibition of membrane fusion</entry>
+<entry valign="top" align="left">Enfuviritide</entry>
+<entry valign="top" align="left">HIV infections</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<note id="fs-id1167661370564" class="microbiology check-your-understanding">
+<list id="fs-id1167661644171" list-type="bulleted" bullet-style="bullet">
+<item>Why is HIV difficult to treat with antivirals?</item>
+</list>
+</note>
+<note id="fs-id1167663731129" class="microbiology link-to-learning">
+<media id="fs-id1167663991599" alt="Link to learning graphic">
+<image mime-type="image/jpeg" src="../../media/CNX_Interactive_200DPI.png"/>
+</media>
+<para id="fs-id1167661779261">To learn more about the various classes of antiretroviral drugs used in the ART of HIV infection, explore each of the drugs in the HIV drug classes provided by US Department of Health and Human Services at <link url="https://openstax.org/l/22HIVUSDepthea">this</link> website.</para>
+</note>
+</section>
+<section id="fs-id1167663628736" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1167661433781" list-type="bulleted" bullet-style="bullet"><item>It is hard to target viruses because human viruses replicate inside of human cells.</item>
+<item><emphasis effect="bold">Antiviral drugs</emphasis> inhibit viral entry, inhibit viral uncoating, inhibit nucleic acid biosynthesis, prevent viral escape from endosomes in host cells, and prevent viral release from infected cells.</item>
+<item>Because it can easily mutate to become drug resistant, HIV is typically treated with a combination of several <emphasis effect="bold">antiretroviral drugs</emphasis>, which may include <emphasis effect="bold">reverse transcriptase inhibitors, protease inhibitors, integrase inhibitors</emphasis>, and drugs that interfere with viral binding and fusion to initiate infection.</item>
+</list></section>
+<section id="fs-id1167659283006" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1167661294856">
+<problem id="fs-id1167661747984">
+<para id="fs-id1167661747986">Which of the following is a nucleoside analog commonly used as a reverse transcriptase inhibitor in the treatment of HIV?</para>
+<list id="fs-id1167661441516" list-type="enumerated" number-style="upper-alpha">
+<item>acyclovir</item>
+<item>ribavirin</item>
+<item>adenine-arabinoside</item>
+<item>azidothymidine</item>
+</list>
+</problem>
+<solution id="fs-id1167663638509">
+<para id="fs-id1167659391244">D</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167661744113" class="fill-in-the-blank">
+<title>Fill in the Blank</title>
+<exercise id="fs-id1167661767000">
+<problem id="fs-id1167661767003">
+<para id="fs-id1167663572666">Antiviral drugs, like Tamiflu and Relenza, that are effective against the influenza virus by preventing viral escape from host cells are called ________.</para>
+</problem>
+<solution id="fs-id1167663647959">
+<para id="fs-id1167661554089">neuraminidase inhibitors</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167663528357" class="short-answer">
+<title>Short Answer</title>
+<exercise id="fs-id1167659435694">
+<problem id="fs-id1167659435696">
+<para id="fs-id1167661349179">How does the biology of HIV necessitate the need to treat HIV infections with multiple drugs?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1167663857000" class="critical-thinking">
+<title>Critical Thinking</title>
+<exercise id="fs-id1167661364287">
+<problem id="fs-id1167663697452">
+<para id="fs-id1167663697454">Which of the following molecules is an example of a nucleoside analog?</para>
+<media id="fs-id1167659066574" alt="a) Two carbon nitrogen rings with a sugar attached. B) 4 carbon rings attached to a central carbon. C) Three carbon rings attached along their ends with a long carbon chain off the central ring. D) A long carbon chain.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_14_03_nucleoside_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-id1167663617624">
+<problem id="fs-id1167663617626">
+<para id="fs-id1167663972621">Why can’t drugs used to treat influenza, like amantadines and neuraminidase inhibitors, be used to treat a wider variety of viral infections?</para>
+</problem>
+</exercise>
+</section>
+</content>
+</document>

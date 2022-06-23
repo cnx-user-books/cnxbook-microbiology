@@ -1,0 +1,97 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Classification by Carbon and Energy Source</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m64630</md:content-id>
+  <md:title>Classification by Carbon and Energy Source</md:title>
+  <md:abstract/>
+  <md:uuid>263559e3-5628-4a89-b782-969365c99651</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167660342095" class="learning-objectives">
+<title>Learning Objectives</title>
+<list id="fs-id1167658043455"><item>Compare and contrast autotrophs and heterotrophs</item>
+
+</list></section>
+<section id="fs-id1167662507484">
+<title>Classification by Carbon and Energy Source</title>
+<para id="fs-id1167662445768">Organisms can be identified according to the source of carbon they use for metabolism as well as their energy source. The prefixes auto- (“self”) and hetero- (“other”) refer to the origins of the carbon sources various organisms can use. Organisms that convert inorganic carbon dioxide (CO<sub>2</sub>) into organic carbon compounds are <term>autotroph</term><emphasis effect="bold">s</emphasis>. Plants and cyanobacteria are well-known examples of autotrophs. Conversely, <term>heterotroph</term><emphasis effect="bold">s</emphasis> rely on more complex organic carbon compounds as nutrients; these are provided to them initially by autotrophs. Many organisms, ranging from humans to many prokaryotes, including the well-studied <term class="no-emphasis"><emphasis effect="italics">Escherichia coli</emphasis></term>, are heterotrophic.</para>
+<para id="fs-id1167660311470">Organisms can also be identified by the energy source they use. All energy is derived from the transfer of electrons, but the source of electrons differs between various types of organisms. The prefixes photo- (“light”) and chemo- (“chemical”) refer to the energy sources that various organisms use. Those that get their energy for electron transfer from light are <term>phototroph</term><emphasis effect="bold">s</emphasis>, whereas <term>chemotroph</term><emphasis effect="bold">s</emphasis> obtain energy for electron transfer by breaking chemical bonds. There are two types of chemotrophs: <term>organotroph</term><emphasis effect="bold">s</emphasis> and <term>lithotroph</term><emphasis effect="bold">s</emphasis>. Organotrophs, including humans, fungi, and many prokaryotes, are chemotrophs that obtain energy from organic compounds. Lithotrophs (“litho” means “rock”) are chemotrophs that get energy from inorganic compounds, including hydrogen sulfide (H<sub>2</sub>S) and reduced iron. Lithotrophy is unique to the microbial world.</para>
+<para id="fs-id1167660388660">The strategies used to obtain both carbon and energy can be combined for the classification of organisms according to nutritional type. Most organisms are <term class="no-emphasis">chemoheterotroph</term>s because they use organic molecules as both their electron and carbon sources. <link target-id="fs-id1167660195308"/> summarizes this and the other classifications.</para>
+<table id="fs-id1167660195308" summary="Table titled: Classifications of Organisms by Energy and Carbon Source. Columns: Classifications, Energy Source, Carbon Source, Examples. Chemotrophs are divided into 2 types. Chemoautotrophs: use Chemical energy, Inorganic carbon source, examples: Hydrogen-, sulfur-, iron-, nitrogen-, and carbon monoxide-oxidizing bacteria. Chemoheterotrophs: use Chemical energy, Organic compounds for carbon. Examples: All animals, most fungi, protozoa, and bacteria. Phototrophs are divided into 2 groups. Photoautotrophs: use Light as an energy source, Inorganic carbon source. Examples: All plants, algae, cyanobacteria, and green and purple sulfur bacteria. Photoheterotrophs use Light for energy, Organic compounds for carbon. Examples: Green and purple nonsulfur bacteria, heliobacteria" class="span-all">
+<tgroup cols="5">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c5">Classifications of Organisms by Energy and Carbon Source</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c2">Classifications</entry>
+<entry valign="top" align="center">Energy Source</entry>
+<entry valign="top" align="center">Carbon Source</entry>
+<entry valign="top" align="center">Examples</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="middle" align="left" morerows="1">Chemotrophs</entry>
+<entry valign="middle" align="left">Chemoautotrophs</entry>
+<entry valign="middle" align="left">Chemical</entry>
+<entry valign="middle" align="left">Inorganic</entry>
+<entry valign="middle" align="left">Hydrogen-, sulfur-, iron-, nitrogen-, and carbon monoxide-oxidizing bacteria</entry>
+</row>
+<row valign="top">
+<entry valign="middle" align="left">Chemoheterotrophs</entry>
+<entry valign="middle" align="left">Chemical</entry>
+<entry valign="middle" align="left">Organic compounds</entry>
+<entry valign="middle" align="left">All animals, most fungi, protozoa, and bacteria</entry>
+</row>
+<row valign="top">
+<entry valign="middle" align="left" morerows="1">Phototrophs</entry>
+<entry valign="middle" align="left">Photoautotrophs</entry>
+<entry valign="middle" align="left">Light</entry>
+<entry valign="middle" align="left">Inorganic</entry>
+<entry valign="middle" align="left">All plants, algae, cyanobacteria, and green and purple sulfur bacteria</entry>
+</row>
+<row valign="top">
+<entry valign="middle" align="left">Photoheterotrophs</entry>
+<entry valign="middle" align="left">Light</entry>
+<entry valign="middle" align="left">Organic compounds</entry>
+<entry valign="middle" align="left">Green and purple nonsulfur bacteria, heliobacteria</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<note id="fs-id1167660381567" class="microbiology check-your-understanding">
+<list id="fs-id1167659415096" list-type="bulleted" bullet-style="bullet"><item>Explain the difference between autotrophs and heterotrophs.</item>
+</list></note>
+</section>
+<section id="fs-id1167662428874" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1167662480679" list-type="bulleted" bullet-style="bullet"><item>Organisms may be classified according to their source of carbon. <emphasis effect="bold">Autotrophs</emphasis> convert inorganic carbon dioxide into organic carbon; <emphasis effect="bold">heterotrophs</emphasis> use fixed organic carbon compounds.</item>
+<item>Organisms may also be classified according to their energy source. <emphasis effect="bold">Phototrophs</emphasis> obtain their energy from light. <emphasis effect="bold">Chemotrophs</emphasis> get their energy from chemical compounds. <emphasis effect="bold">Organotrophs</emphasis> use organic molecules, and <emphasis effect="bold">lithotrophs</emphasis> use inorganic chemicals.</item>
+</list></section>
+<section id="fs-id1167662791829" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1167660133127">
+<problem id="fs-id1167662428785">
+<para id="fs-id1167662799403">Which of the following is an organism that obtains its energy from the transfer of electrons originating from chemical compounds and its carbon from an inorganic source?</para>
+<list id="fs-id1167662420444" list-type="enumerated" number-style="upper-alpha">
+<item>chemoautotroph</item>
+<item>chemoheterotroph</item>
+<item>photoheterotroph</item>
+<item>photoautotroph</item>
+</list>
+</problem>
+<solution id="fs-id1167662701209">
+<para id="fs-id1167660327259">A</para>
+</solution>
+</exercise>
+</section>
+</content>
+</document>
