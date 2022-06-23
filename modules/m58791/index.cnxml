@@ -10,7 +10,7 @@
 
 <content>
 <section id="fs-id1172098448739" class="learning-objectives">
-<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<title>Learning Objectives</title>
 <list id="fs-id1172098261441">
 <item>Explain the key points of cell theory and the individual contributions of Hooke, Schleiden, Schwann, Remak, and Virchow</item>
 <item>Explain the key points of endosymbiotic theory and cite the evidence that supports this concept</item>
@@ -91,7 +91,7 @@
 <para id="fs-id1172098530677">Although the work of Semmelweis and Snow successfully showed the role of sanitation in preventing infectious disease, the cause of disease was not fully understood. The subsequent work of Louis <term class="no-emphasis">Pasteur</term>, Robert <term class="no-emphasis">Koch</term>, and Joseph <term class="no-emphasis">Lister</term> would further substantiate the germ theory of disease.</para>
 <para id="fs-id1172098548728">While studying the causes of beer and wine spoilage in 1856, Pasteur discovered properties of fermentation by microorganisms. He had demonstrated with his swan-neck flask experiments (<link document="m58790" target-id="OSC_Microbio_03_01_Pasteur"/>) that airborne microbes, not spontaneous generation, were the cause of food spoilage, and he suggested that if microbes were responsible for food spoilage and fermentation, they could also be responsible for causing infection. This was the foundation for the germ theory of disease.</para>
 <para id="fs-id1172100932077">Meanwhile, British surgeon Joseph Lister (<link target-id="OSC_Microbio_03_02_ListerKoch"/>) was trying to determine the causes of postsurgical infections. Many physicians did not give credence to the idea that microbes on their hands, on their clothes, or in the air could infect patients’ surgical wounds, despite the fact that 50% of surgical patients, on average, were dying of postsurgical infections.<footnote id="fs-id1172100968322">Alexander, J. Wesley. “The Contributions of Infection Control to a Century of Progress” <emphasis effect="italics">Annals of Surgery</emphasis> 201:423-428, 1985.</footnote> Lister, however, was familiar with the work of Semmelweis and Pasteur; therefore, he insisted on handwashing and extreme cleanliness during surgery. In 1867, to further decrease the incidence of postsurgical wound infections, Lister began using carbolic acid (phenol) spray disinfectant/antiseptic during surgery. His extremely successful efforts to reduce postsurgical infection caused his techniques to become a standard medical practice.</para>
-<para id="fs-id1172098391960">A few years later, Robert Koch (<link target-id="OSC_Microbio_03_02_ListerKoch"/>) proposed a series of postulates (Koch’s postulates) based on the idea that the cause of a specific disease could be attributed to a specific microbe. Using these postulates, Koch and his colleagues were able to definitively identify the causative pathogens of specific diseases, including anthrax, tuberculosis, and cholera. Koch’s “one microbe, one disease” concept was the culmination of the 19th century’s paradigm shift away from miasma theory and toward the germ theory of disease. Koch’s postulates are discussed more thoroughly in <link document="m58867">How Pathogens Cause Disease</link>.</para>
+<para id="fs-id1172098391960">A few years later, Robert Koch (<link target-id="OSC_Microbio_03_02_ListerKoch"/>) proposed a series of postulates (Koch’s postulates) based on the idea that the cause of a specific disease could be attributed to a specific microbe. Using these postulates, Koch and his colleagues were able to definitively identify the causative pathogens of specific diseases, including anthrax, tuberculosis, and cholera. Koch’s “one microbe, one disease” concept was the culmination of the 19th century’s paradigm shift away from miasma theory and toward the germ theory of disease. Koch’s postulates are discussed more thoroughly in <link class="target-chapter" document="m58867">How Pathogens Cause Disease</link>.</para>
 <figure id="OSC_Microbio_03_02_ListerKoch">
 <media id="fs-id1172100648115" alt="a) Photo of Joseph Lister b) Photo of Robert Koch">
 <image mime-type="image/jpeg" src="../../media/OSC_Microbio_03_02_ListerKoch.jpg"/>
@@ -237,5 +237,5 @@
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 </document>

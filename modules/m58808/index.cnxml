@@ -10,7 +10,7 @@
 
 <content>
 <section id="fs-id1168327944251" class="learning-objectives">
-<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<title>Learning Objectives</title>
 <list id="fs-id1168327924682">
 <item>Describe the general characteristics of viruses as pathogens</item>
 <item>Describe viral genomes</item>
@@ -19,7 +19,7 @@
 <item>Describe the characteristics used to identify viruses as obligate intracellular parasites</item>
 </list>
 </section>
-<note id="fs-id1168328256872" class="microbiology clinical-focus">
+<note id="fs-id1168328256872" class="microbiology clinical-focus-opener">
 <title>Part 1</title>
 <para id="fs-id1168327951660">David, a 45-year-old journalist, has just returned to the U.S. from travels in Russia, China, and Africa. He is not feeling well, so he goes to his general practitioner complaining of weakness in his arms and legs, fever, headache, noticeable agitation, and minor discomfort. He thinks it may be related to a dog bite he suffered while interviewing a Chinese farmer. He is experiencing some prickling and itching sensations at the site of the bite wound, but he tells the doctor that the dog seemed healthy and that he had not been concerned until now. The doctor ordered a culture and sensitivity test to rule out bacterial infection of the wound, and the results came back negative for any possible pathogenic bacteria.</para>
 <list id="fs-id1168327871520" list-type="bulleted" bullet-style="bullet">
@@ -96,7 +96,7 @@
 <para id="fs-id1168328200474">In general, virions (viral particles) are small and cannot be observed using a regular light microscope. They are much smaller than prokaryotic and eukaryotic cells; this is an adaptation allowing viruses to infect these larger cells (see <link target-id="OSC_Microbio_06_01_virusbac"/>). The size of a virion can range from 20 nm for small viruses up to 900 nm for typical, large viruses (see <link target-id="OSC_Microbio_06_01_sizes"/>). Recent discoveries, however, have identified new <term class="no-emphasis">giant viral species</term>, such as <emphasis effect="italics">Pandoravirus salinus</emphasis> and <emphasis effect="italics">Pithovirus sibericum</emphasis>, with sizes approaching that of a bacterial cell.<footnote id="fs-id1168328152723">N. <emphasis effect="italics">Philippe et al. “Pandoraviruses: Amoeba Viruses with Genomes up to 2.5 Mb Reaching that of Parasitic Eukaryotes.” Science 341, no. 6143 (2013): 281–286.</emphasis></footnote></para>
 <figure id="OSC_Microbio_06_01_virusbac">
 <media id="fs-id1168327943810" alt="Figure a is an electron micrograph showing a virus on the surface of a bacterial cell. The virus has a large head region, a thick neck and thin spider-like legs attached to the bacterium. Figure b is a drawing that labels the outside of the head as the capsid with the viral genome inside. The neck as the sheath and the legs as tail fibers.">
-<image mime-type="image/jpeg" src="../../media/OSC_Microbio_06_01_virusbac-43d2.jpg"/>
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_06_01_virusbac.jpg"/>
 </media>
 <caption>(a) In this transmission electron micrograph, a bacteriophage (a virus that infects bacteria) is dwarfed by the bacterial cell it infects. (b) An illustration of the bacteriophage in the micrograph. (credit a: modification of work by U.S. Department of Energy, Office of Science, LBL, PBD)</caption>
 </figure>
@@ -446,5 +446,5 @@
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 </document>
