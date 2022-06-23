@@ -1,0 +1,29 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Starch Agar</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m66353</md:content-id>
+  <md:title>Starch Agar</md:title>
+  <md:abstract>lab procedure</md:abstract>
+  <md:uuid>74b4d779-e107-49d1-84b1-f0ab2851c060</md:uuid>
+</metadata>
+
+<content>
+    <para id="import-auto-idm1157766400">
+      <emphasis effect="bold">Starch Agar</emphasis>
+    </para>
+    <para id="import-auto-idm338551568">
+      <emphasis effect="bold">Introduction</emphasis>
+    </para>
+    <para id="import-auto-idm1171729504">Amylase is an exoenzyme (an enzyme released from the bacteria into its surroundings) that breaks starch by cleaving large starch molecules into monosaccharide and disaccharide units that can then enter the cell and be metabolized. </para>
+    <para id="import-auto-idm1242186960">
+      <emphasis effect="bold">Procedure</emphasis>
+    </para>
+    <list id="eip-888" list-type="enumerated" number-style="arabic"><item>Obtain a deep of starch agar, melt it and prepare a Petri plate.</item>
+<item>After the starch agar has solidified, using the inoculation loop, make one streak off center of the plate with your assigned bacterium.</item>
+<item>Incubate the plate upside down for at least 48 hours.</item>
+<item>After the incubation period, flood the plate with iodine.</item></list><para id="import-auto-idm1106001184">
+      <emphasis effect="bold">Interpretation</emphasis>
+    </para>
+    <para id="import-auto-idm1140372112">Iodine reacts with starch resulting in a blue/blue black color. Therefore, any areas containing starch will turn dark blue/black/purple. Areas free of starch will remain clear. In a positive reaction, bacteria producing amylase will have a clear halo around them. </para>
+  </content>
+</document>

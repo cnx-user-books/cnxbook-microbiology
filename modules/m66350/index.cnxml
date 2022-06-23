@@ -1,0 +1,45 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>SIM Agar</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m66350</md:content-id>
+  <md:title>SIM Agar</md:title>
+  <md:abstract>lab procedure</md:abstract>
+  <md:uuid>ba529352-e53f-4902-9259-3eb38aec6299</md:uuid>
+</metadata>
+
+<content>
+    <para id="import-auto-idm239014080">
+      <emphasis effect="bold">SIM Agar</emphasis>
+    </para>
+    <para id="import-auto-idm232095648">
+      <emphasis effect="bold">Introduction</emphasis>
+    </para>
+    <para id="import-auto-idm236258416">SIM (sulfide, indole, motility) medium is an example of a multi-test medium, that is, it tests more than one aspect of the bacterium’s metabolism at a time. In this case, the production of hydrogen sulfide, the formation of indole, and motility. </para>
+    <para id="import-auto-idm219593840">
+      <emphasis effect="bold">Procedure</emphasis>
+    </para>
+    <list id="eip-752" list-type="enumerated" number-style="arabic"><item>Obtain a deep of SIM medium.</item>
+<item>Using an inoculating needle, stab the medium about 2/3 of the way down and out the same pathway as quickly as possible with your assigned organism.</item>
+<item>Incubate the tube for at least 48 hours.</item>
+<item>After the incubation period, examine your tube.</item></list><para id="import-auto-idm205541376">
+      <emphasis effect="bold">Interpretation</emphasis>
+    </para>
+    <para id="import-auto-idm236159136">Hydrogen sulfide (H<sub>2</sub>S) production is indicated by a black color in the medium (fig. 1 below).</para><para id="import-auto-idm590688448">Indole production is indicated by a red ring on the surface of the deep after adding Kovac’s reagent (fig. 2 below).</para><para id="import-auto-idm619953824">Motility is indicated by the ability of the organism to ‘fan’ away from the streak. Or, the entire tube may appear cloudy when compared to an un-inoculated control. If the organism is non-motile, the growth will only appear along the stab line (fig. 3 below).</para><para id="import-auto-idm481363504">
+      <figure id="import-auto-idm219375968">
+        <media id="import-auto-idm488402992" alt="">
+          <image mime-type="image/jpg" src="../../media/Picture 1-a557.jpg" height="317" width="167"/>
+        </media>
+      </figure>
+      <figure id="import-auto-idm207890096">
+        <media id="import-auto-idm589427664" alt="">
+          <image mime-type="image/jpg" src="../../media/Picture 3-709a.jpg" height="315" width="182"/>
+        </media>
+      </figure>
+      <figure id="import-auto-idm220641088">
+        <media id="import-auto-idm224868304" alt="">
+          <image mime-type="image/jpg" src="../../media/Picture 4.jpg" height="318" width="173"/>
+        </media>
+      </figure>
+    </para>
+    </content>
+</document>

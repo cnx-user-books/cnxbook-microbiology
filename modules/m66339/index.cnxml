@@ -1,0 +1,29 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Gelatin Agar</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m66339</md:content-id>
+  <md:title>Gelatin Agar</md:title>
+  <md:abstract>lab procedure</md:abstract>
+  <md:uuid>58564489-ce33-48f8-b25e-3edf98a96b90</md:uuid>
+</metadata>
+
+<content>
+    <para id="import-auto-idm623254464">
+      <emphasis effect="bold">Gelatin Agar</emphasis>
+    </para>
+    <para id="import-auto-idm423478192">
+      <emphasis effect="bold">Introduction</emphasis>
+    </para>
+    <para id="import-auto-idm494841200">Gelatinase is an exoenzyme that digests the protein gelatin into amino acids and short-chain peptides. There are two ways to test for the production of gelatinase. One method, the gelatin liquefaction test, examines the ability of gelatinase to liquefy nutrient gelatin. However, the tubes need to be incubated for up to 7 days. However, the test that we will use takes advantage of the ability of strong acids to denature proteins and form a visible precipitate.  </para>
+    <para id="import-auto-idm591457296">
+      <emphasis effect="bold">Procedure</emphasis>
+    </para>
+    <list id="eip-452" list-type="enumerated" number-style="arabic"><item>Obtain a deep of gelatin agar, melt it and prepare a Petri plate.</item>
+<item>After the gelatin agar has solidified, using an inoculating loop, make one streak of center of the plate with your assigned bacterium.</item>
+<item>Incubate the plate upside down for at least 48 hours.</item>
+<item>After the incubation period, flood the gelatin agar plate with saturated ammonium sulfate.</item></list><para id="import-auto-idm495850128">
+      <emphasis effect="bold">Interpretation</emphasis>
+    </para>
+    <para id="import-auto-idm541633664">Saturated ammonium sulfate will form a white, cloudy precipitate with any remaining gelatin. Areas where the gelatin has been digested will remain clear. In a positive reaction, bacteria producing gelatinase will have a clear halo around the streak.</para>
+  </content>
+</document>

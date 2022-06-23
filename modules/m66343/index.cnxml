@@ -1,0 +1,33 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Motility Agar</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m66343</md:content-id>
+  <md:title>Motility Agar</md:title>
+  <md:abstract>lab procedure</md:abstract>
+  <md:uuid>ba17ae85-b907-4c37-8090-2a11c0ddfd87</md:uuid>
+</metadata>
+
+<content>
+    <para id="import-auto-idm581063648">
+      <emphasis effect="bold">Motility Agar</emphasis>
+    </para>
+    <para id="import-auto-idm367412112">
+      <emphasis effect="bold">Introduction</emphasis>
+    </para>
+    <para id="import-auto-idm341086640">Because the flagellar staining procedure often produces poor results in the hands of novices, other tests for motility (and the presence of flagella) have been developed. One type of test involves using a semi-solid medium that allows motile bacteria to penetrate. </para>
+    <para id="import-auto-idm553118464">
+      <emphasis effect="bold">Procedure</emphasis>
+    </para>
+    <list id="eip-166" list-type="enumerated" number-style="arabic"><item>Obtain a deep of motility agar. </item>
+<item>Using an inoculation needle, stab straight into the deep about 2/3 of the way down and out the same pathway as quickly as possible with your assigned bacterium.</item>
+<item>Incubate the tube for at least 48 hours.</item>
+<item>After the incubation period, examine your tube.</item></list><para id="import-auto-idm866949408">
+      <emphasis effect="bold">Interpretation</emphasis>
+    </para>
+    <para id="import-auto-idm1142645104">If the organism is motile, growth will ‘fan’ out from the stab or the entire tube may look cloudy. If the organism is non-motile, growth remains confined to the stab line (see fig. below).</para><figure id="import-auto-idm367258832">
+      <media id="import-auto-idm770007312" alt="">
+        <image mime-type="image/jpg" src="../../media/Picture 1-4bf0.jpg" height="425" width="298"/>
+      </media>
+    </figure>
+    </content>
+</document>

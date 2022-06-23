@@ -1,0 +1,33 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Tryptone Broth</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m66355</md:content-id>
+  <md:title>Tryptone Broth</md:title>
+  <md:abstract>lab procedure</md:abstract>
+  <md:uuid>a6501480-4432-479a-9fca-09e18d847a80</md:uuid>
+</metadata>
+
+<content>
+    <para id="import-auto-idm1342222160">
+      <emphasis effect="bold">Tryptone Broth</emphasis>
+    </para>
+    <para id="import-auto-idm359592656">
+      <emphasis effect="bold">Introduction</emphasis>
+    </para>
+    <para id="import-auto-idm1338013776">Bacterial tryptophanase converts the amino acid tryptophan into pyruvate, ammonia, and indole. The medium used to test for this enzyme is 1% tryptone in water.</para>
+    <para id="import-auto-idm1429453920">
+      <emphasis effect="bold">Procedure</emphasis>
+    </para>
+    <list id="eip-8" list-type="enumerated" number-style="arabic"><item>Obtain a tube of tryptone broth.</item>
+<item>Using an inoculating loop, swish some of your assigned organism in the broth.</item>
+<item>Incubate the tube for at least 48 hours.</item>
+<item>After the incubation period, add several drops of Kovac’s reagent to the tube.</item></list><para id="import-auto-idm1453229152">
+      <emphasis effect="bold">Interpretation</emphasis>
+    </para>
+    <para id="import-auto-idm1432413024">The chemicals in Kovac’s reagent react with indole to produce a red color. In a positive test, a red layer will float at the surface of the broth (see fig. below).</para><figure id="import-auto-idm1430100848">
+      <media id="import-auto-idm1430404800" alt="">
+        <image mime-type="image/jpg" src="../../media/Picture 1-6ddd.jpg" height="475" width="317"/>
+      </media>
+    </figure>
+    </content>
+</document>

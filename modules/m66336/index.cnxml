@@ -1,0 +1,69 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Carbohydrate Fermentation</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m66336</md:content-id>
+  <md:title>Carbohydrate Fermentation</md:title>
+  <md:abstract>lab procedure</md:abstract>
+  <md:uuid>f85f507b-d84a-4f34-a9e3-c62144cefed4</md:uuid>
+</metadata>
+
+<content>
+    <para id="import-auto-idm1414239488">
+      <emphasis effect="bold">Carbohydrate Fermentation</emphasis>
+    </para>
+    <para id="import-auto-idm328849280">
+      <emphasis effect="bold">Introduction</emphasis>
+    </para>
+    <para id="import-auto-idm1107531712">During fermentation most bacteria convert carbohydrates into organic acids, with or without the production of gas. One can test for this by adding a pH indicator and an inverted tube (a Durham tube) to the culture medium. We will use phenol red as the pH indicator. If acid is produced the phenol red will turn yellow (pH below 6.8). Any gas produced will form a bubble in the inverted tube. </para>
+    <para id="import-auto-idm320493104">
+      <emphasis effect="bold">Procedure</emphasis>
+    </para>
+    <list id="eip-448" list-type="enumerated" number-style="arabic"><item>Obtain a tube of phenol red glucose, lactose, sucrose broth, each with an inverted Durham tube. </item>
+<item>Inoculate each with your assigned organism by swishing it in the broth. </item>
+<item>Incubate for at least 24 hours and record the results.</item></list><para id="import-auto-idm1093391360">
+      <emphasis effect="bold">Interpretation</emphasis>
+    </para>
+    <table id="import-auto-idm938264976" summary="Table indicating pH/Gas Production, Color, and Result that should occur.">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <thead>
+          <row>
+            <entry>pH/Gas Production</entry>
+            <entry>Color</entry>
+            <entry>Result</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>Alkaline or no change</entry>
+            <entry>Red/fuchsia</entry>
+            <entry>Negative (fig. 1)</entry>
+          </row>
+          <row>
+            <entry>Acidic without gas</entry>
+            <entry>Yellow</entry>
+            <entry>Positive for fermentation</entry>
+          </row>
+          <row>
+            <entry>Acidic with gas</entry>
+            <entry>Yellow with bubble</entry>
+            <entry>Positive for fermentation with gas production (fig. 2)</entry>
+          </row>
+        </tbody>
+      
+</tgroup>
+</table><para id="import-auto-idm931391504">
+      <figure id="import-auto-idm340053376">
+        <media id="import-auto-idm931088048" alt="">
+          <image mime-type="image/jpg" src="../../media/Picture 2-75df.jpg" height="346" width="230"/>
+        </media>
+      </figure>
+      <figure id="import-auto-idm335326768">
+        <media id="import-auto-idm1101934880" alt="">
+          <image mime-type="image/jpg" src="../../media/Picture 3-92cd.jpg" height="346" width="230"/>
+        </media>
+      </figure>
+    </para>
+    </content>
+</document>

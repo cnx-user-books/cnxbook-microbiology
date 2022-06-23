@@ -1,0 +1,46 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col24337</md:content-id>
+    <md:title>Lab Manual: Microbiology for Allied Health Students</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>06a872ea-444a-4988-a9d7-19229da043aa</md:uuid>
+<md:slug>lab-manual-microbiology-for-allied-health-students</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m66348"/>
+    <col:subcollection>
+      <md:title>Staining Methods</md:title>
+      <col:content>
+        <col:module document="m66340"/>
+        <col:module document="m66338"/>
+        <col:module document="m66335"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Microscopy and Staining</md:title>
+      <col:content>
+        <col:module document="m58784"/>
+        <col:module document="m58785"/>
+        <col:module document="m58786"/>
+        <col:module document="m58787"/>
+        <col:module document="m58788"/>
+      </col:content>
+    </col:subcollection>
+    <col:module document="m66336"/>
+    <col:module document="m66353"/>
+    <col:module document="m66339"/>
+    <col:module document="m66337"/>
+    <col:module document="m66343"/>
+    <col:module document="m66350"/>
+    <col:module document="m66355"/>
+    <col:module document="m66345"/>
+    <col:module document="m66352"/>
+    <col:module document="m66357"/>
+    <col:module document="m66346"/>
+    <col:module document="m66354"/>
+    <col:module document="m66342"/>
+    <col:module document="m66341"/>
+    <col:module document="m58950"/>
+  </col:content>
+</col:collection>

@@ -1,0 +1,33 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Simmons Citrate Agar</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m66352</md:content-id>
+  <md:title>Simmons Citrate Agar</md:title>
+  <md:abstract>lab procedure</md:abstract>
+  <md:uuid>65fce323-81d7-4293-bd4f-d746bbca88b3</md:uuid>
+</metadata>
+
+<content>
+    <para id="import-auto-idm374961952">
+      <emphasis effect="bold">Simmons Citrate Agar</emphasis>
+    </para>
+    <para id="import-auto-idm1360429392">
+      <emphasis effect="bold">Introduction</emphasis>
+    </para>
+    <para id="import-auto-idm375537328">Simmons Citrate Agar is a defined medium that tests for an organism’s ability to use citrate as its carbon source and ammonia as its nitrogen source. Only bacteria that can transport citrate into the cell from the medium grow well in Citrate Agar. </para>
+    <para id="import-auto-idm1595115744">
+      <emphasis effect="bold">Procedure</emphasis>
+    </para>
+    <list id="eip-378" list-type="enumerated" number-style="arabic"><item>Obtain a slant of Simmons Citrate Agar.</item>
+<item>Using an inoculating needle, stab your assigned organism into the medium, then zigzag the needle back and forth up the surface of the slant.</item>
+<item>Incubate the tube for at least 48 hours.</item>
+<item>After the incubation period, examine the slant.</item></list><para id="import-auto-idm1433846720">
+      <emphasis effect="bold">Interpretation</emphasis>
+    </para>
+    <para id="import-auto-idm378851712">In a positive test, there will be heavy growth and the slant will turn royal blue (see fig. below).</para><figure id="import-auto-idm350838384">
+      <media id="import-auto-idm1441081680" alt="">
+        <image mime-type="image/jpg" src="../../media/Picture 1-f22c.jpg" height="452" width="211"/>
+      </media>
+    </figure>
+    </content>
+</document>

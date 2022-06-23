@@ -1,0 +1,40 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Triple-Sugar Iron Agar</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m66354</md:content-id>
+  <md:title>Triple-Sugar Iron Agar</md:title>
+  <md:abstract>lab procedure</md:abstract>
+  <md:uuid>463c22b5-2313-42ec-819c-bbf1599cdf09</md:uuid>
+</metadata>
+
+<content>
+    <para id="import-auto-idm621913728">
+      <emphasis effect="bold">Triple-Sugar Iron Agar</emphasis>
+    </para>
+    <para id="import-auto-idm491727728">
+      <emphasis effect="bold">Introduction</emphasis>
+    </para>
+    <para id="import-auto-idm233885568">Triple-sugar iron agar (TSI agar) is another example of a multi-test agar. It tests for the fermentation, with or without gas production, of glucose, lactose, and sucrose. It also tests for the production of hydrogen sulfide from amino acids. Phenol red is the pH indicator used in this test medium.</para>
+    <para id="import-auto-idm640236496">
+      <emphasis effect="bold">Procedure</emphasis>
+    </para>
+    <list id="eip-350" list-type="enumerated" number-style="arabic"><item>Obtain a slant of TSIA.</item>
+<item>Using an inoculating needle, stab your assigned organism into the butt of the TSIA slant. As you remove the inoculating needle, drag it in a zigzag pattern up the surface of the slant portion of the tube.</item>
+<item>Incubate the slant for 24-48 hours.</item>
+<item>After the incubation period, record any changes in the tube.</item></list><para id="import-auto-idm239486832">
+      <emphasis effect="bold">Interpretation</emphasis>
+    </para>
+    <para id="import-auto-idm219339520">Review your results from Carbohydrate Fermentation and note the following:</para>
+    <list id="eip-7" list-type="bulleted" bullet-style="none"><item>Slant color/butt color: Slant color indicates the fermentation of lactose and/or sucrose.</item>
+<item>Butt color indicates the fermentation of glucose.</item>
+<item>Production of gas: Agar shows bubbles or may split.</item>
+<item>Production of H<sub>2</sub>S: H<sub>2</sub>S formation is indicated by a blackening of the medium.</item></list><para id="import-auto-idm230288576">
+      <figure id="import-auto-idm184303920"><media id="import-auto-idm592146544" alt="">
+          <image mime-type="image/jpg" src="../../media/Picture 1-7734.jpg" height="245" width="163"/>
+        </media>
+      <caption>A/A, H<sub>2</sub>S +, Gas +</caption></figure><figure id="import-auto-idm234215568"><media id="import-auto-idm376247280" alt="">
+          <image mime-type="image/jpg" src="../../media/Picture 2-4670.jpg" height="245" width="163"/>
+        </media>
+      <caption>K/A, H<sub>2</sub>S +, Gas +</caption></figure></para>
+    </content>
+</document>

@@ -1,0 +1,32 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Levine EMB Agar</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m66342</md:content-id>
+  <md:title>Levine EMB Agar</md:title>
+  <md:abstract>lab procedure</md:abstract>
+  <md:uuid>1b5789e4-ef88-4aae-998a-326339abeb82</md:uuid>
+</metadata>
+
+<content>
+    <para id="import-auto-idm1097705856">
+      <emphasis effect="bold">Levine EMB Agar</emphasis>
+    </para>
+    <para id="import-auto-idm1112511168">
+      <emphasis effect="bold">Introduction</emphasis>
+    </para>
+    <para id="import-auto-idm1086844912">Levine EMB (eosin methylene blue) agar is an example of a selective and differential medium. This means that only some bacteria will grow on this agar and that the appearance of those that do grow will be different. In particular, EMB agar inhibits the growth of Gram-positive bacteria and helps differentiate some of the Gram-negative rods. </para>
+    <para id="import-auto-idm340700656">
+      <emphasis effect="bold">Procedure</emphasis>
+    </para>
+    <list id="eip-447" list-type="enumerated" number-style="arabic"><item>Obtain a deep of EMB agar, melt it and prepare a Petri plate.</item>
+<item>After the agar has solidified, using an inoculating loop and your assigned organism, streak the plate for the isolation of colonies.</item>
+<item>Incubate the plate upside down for at least 48 hours.</item>
+<item>After the incubation period, record any color changes.</item></list><para id="import-auto-idm930481808">
+      <emphasis effect="bold">Interpretation</emphasis>
+    </para>
+    <para id="import-auto-idm1084893632">EMB agar contains lactose and the dyes eosin and methylene blue. The fermentation of lactose by some Gram-negative rods produces acidic products that react with the dyes to produce colored colonies. </para>
+    <para id="import-auto-idm310471312"><emphasis effect="italics">Escherichia coli</emphasis> colonies produce a green, metallic sheen.</para>
+    <para id="import-auto-idm1092322096"><emphasis effect="italics">Enterobacter aerogenes</emphasis> colonies are a pink/buff color with darker centers.</para>
+    <para id="import-auto-idm920661568"><emphasis effect="italics">Pseudomonas aeruginosa</emphasis> colonies are colorless indicating no fermentation.</para>
+  </content>
+</document>

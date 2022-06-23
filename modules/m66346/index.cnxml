@@ -1,0 +1,33 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Phenylalanine Agar</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m66346</md:content-id>
+  <md:title>Phenylalanine Agar</md:title>
+  <md:abstract>lab procedure</md:abstract>
+  <md:uuid>14c02047-2ef1-40aa-bd43-c8642624eb48</md:uuid>
+</metadata>
+
+<content>
+    <para id="import-auto-idm494618096">
+      <emphasis effect="bold">Phenylalanine Agar</emphasis>
+    </para>
+    <para id="import-auto-idm863340656">
+      <emphasis effect="bold">Introduction</emphasis>
+    </para>
+    <para id="import-auto-idm551142400">Bacteria that produce phenylalanine deaminase are able to remove the amino group from the amino acid phenylalanine yielding ammonia and phenylpyruvic acid. </para>
+    <para id="import-auto-idm606865024">
+      <emphasis effect="bold">Procedure</emphasis>
+    </para>
+    <list id="eip-35" list-type="enumerated" number-style="arabic"><item>Obtain a slant of phenylalanine agar.</item>
+<item>Using an inoculating loop, zigzag up the slant with your assigned organism.</item>
+<item>Incubate the tube for at least 48 hours.</item>
+<item>After the incubation period, add 3-5 drops of FeCl<sub>3 </sub>(ferric chloride)<sub/>to the tube, making sure that it touches the slant.</item></list><para id="import-auto-idm579270976">
+      <emphasis effect="bold">Interpretation</emphasis>
+    </para>
+    <para id="import-auto-idm575346496">Phenylpyruvic acid turns green in the presence of ferric chloride indicating the production of phenylalanine deaminase (see fig. below).</para><figure id="import-auto-idm548160384">
+      <media id="import-auto-idm403021792" alt="">
+        <image mime-type="image/jpg" src="../../media/Picture 1-68d3.jpg" height="465" width="298"/>
+      </media>
+    </figure>
+    </content>
+</document>

@@ -1,0 +1,33 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Urea Broth</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m66357</md:content-id>
+  <md:title>Urea Broth</md:title>
+  <md:abstract>lab procedure</md:abstract>
+  <md:uuid>8b821618-1e0c-4c76-b95f-8a094d3d2263</md:uuid>
+</metadata>
+
+<content>
+    <para id="import-auto-idm939700112">
+      <emphasis effect="bold">Urea Broth</emphasis>
+    </para>
+    <para id="import-auto-idm328313232">
+      <emphasis effect="bold">Introduction</emphasis>
+    </para>
+    <para id="import-auto-idm328312944">Some bacteria are able to break urea into carbon dioxide and ammonia by means of the exoenzyme urease. </para>
+    <para id="import-auto-idm326872784">
+      <emphasis effect="bold">Procedure</emphasis>
+    </para>
+    <list id="eip-898" list-type="enumerated" number-style="arabic"><item>Obtain a tube of urea broth.</item>
+<item>Using an inoculating loop, swish some of your assigned organism into the broth.</item>
+<item>Incubate the tube for at least 48 hours.</item>
+<item>After the incubation period, note the color of the broth.</item></list><para id="import-auto-idm320501024">
+      <emphasis effect="bold">Interpretation</emphasis>
+    </para>
+    <para id="import-auto-idm339421072">If urease is produced, the medium will be cerise (see fig. below).</para><figure id="import-auto-idm343015936">
+      <media id="import-auto-idm1098276816" alt="">
+        <image mime-type="image/jpg" src="../../media/Picture 1-e11a.jpg" height="490" width="269"/>
+      </media>
+    </figure>
+    </content>
+</document>

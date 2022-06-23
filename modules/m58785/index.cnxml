@@ -9,13 +9,13 @@
 
 <content>
 <section id="fs-id1171361466609" class="learning-objectives">
-<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<title>Learning Objectives</title>
 <list id="fs-id1171361205297">
 <item>Identify and define the characteristics of electromagnetic radiation (EMR) used in microscopy</item>
 <item>Explain how lenses are used in microscopy to manipulate visible and ultraviolet (UV) light</item>
 </list>
 </section>
-<note id="fs-id1167793958994" class="microbiology clinical-focus">
+<note id="fs-id1167793958994" class="microbiology clinical-focus-opener">
 <title>Part 1</title>
 <para id="fs-id1167793933516">Cindy, a 17-year-old counselor at a summer sports camp, scraped her knee playing basketball 2 weeks ago. At the time, she thought it was only a minor abrasion that would heal, like many others before it. Instead, the wound began to look like an insect bite and has continued to become increasingly painful and swollen.</para>
 <para id="fs-id1167793639920">The camp nurse examines the lesion and observes a large amount of pus oozing from the surface. Concerned that Cindy may have developed a potentially aggressive infection, she swabs the wound to collect a sample from the infection site. Then she cleans out the pus and dresses the wound, instructing Cindy to keep the area clean and to come back the next day. When Cindy leaves, the nurse sends the sample to the closest medical lab to be analyzed under a microscope.</para>
@@ -112,10 +112,12 @@
 <para id="fs-id1167794100419">Microscopes magnify images and use the properties of light to create useful images of small objects. <term>Magnification</term> is defined as the ability of a lens to enlarge the image of an object when compared to the real object. For example, a magnification of 10⨯ means that the image appears 10 times the size of the object as viewed with the naked eye.</para>
 <para id="fs-id1167793262742">Greater magnification typically improves our ability to see details of small objects, but magnification alone is not sufficient to make the most useful images. It is often useful to enhance the <term>resolution</term> of objects: the ability to tell that two separate points or objects are separate. A low-resolution image appears fuzzy, whereas a high-resolution image appears sharp. Two factors affect resolution. The first is wavelength. Shorter wavelengths are able to resolve smaller objects; thus, an electron microscope has a much higher resolution than a light microscope, since it uses an electron beam with a very short wavelength, as opposed to the long-wavelength visible light used by a light microscope. The second factor that affects resolution is <term>numerical aperture</term>, which is a measure of a lens’s ability to gather light. The higher the numerical aperture, the better the resolution.</para>
 <note id="fs-id1167794099049" class="microbiology link-to-learning">
-
+<media id="fs-id1167793291740" alt="Link to learning graphic">
+<image mime-type="image/jpeg" src="../../media/CNX_Interactive_200DPI.png"/>
+</media>
 <para id="fs-id1167794227719">Read this <link url="https://www.openstax.org/l/22aperture">article</link> to learn more about factors that can increase or decrease the numerical aperture of a lens.</para>
 </note>
-<para id="fs-id1167793398723">Even when a microscope has high resolution, it can be difficult to distinguish small structures in many specimens because microorganisms are relatively transparent. It is often necessary to increase <term>contrast</term> to detect different structures in a specimen. Various types of microscopes use different features of light or electrons to increase contrast—visible differences between the parts of a specimen (see <link document="m58787">Instruments of Microscopy</link>). Additionally, dyes that bind to some structures but not others can be used to improve the contrast between images of relatively transparent objects (see <link document="m58788">Staining Microscopic Specimens</link>).</para>
+<para id="fs-id1167793398723">Even when a microscope has high resolution, it can be difficult to distinguish small structures in many specimens because microorganisms are relatively transparent. It is often necessary to increase <term>contrast</term> to detect different structures in a specimen. Various types of microscopes use different features of light or electrons to increase contrast—visible differences between the parts of a specimen (see <link class="target-chapter" document="m58787">Instruments of Microscopy</link>). Additionally, dyes that bind to some structures but not others can be used to improve the contrast between images of relatively transparent objects (see <link class="target-chapter" document="m58788">Staining Microscopic Specimens</link>).</para>
 <note id="fs-id1167794042749" class="microbiology check-your-understanding">
 <list id="fs-id1167793931049">
 <item>Explain the difference between magnification and resolution.</item>
@@ -202,5 +204,5 @@
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 </document>

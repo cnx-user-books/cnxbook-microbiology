@@ -1,0 +1,43 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>MR-VP Broth</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m66345</md:content-id>
+  <md:title>MR-VP Broth</md:title>
+  <md:abstract>lab procedure</md:abstract>
+  <md:uuid>c2e24fba-3a5b-453e-aa4e-cf4a64c6f6be</md:uuid>
+</metadata>
+
+<content>
+    <para id="import-auto-idm934514160">
+      <emphasis effect="bold">Methyl Red - Voges-Proskauer (MR-VP) Broth</emphasis>
+    </para>
+    <para id="import-auto-idm319802608">
+      <emphasis effect="bold">Introduction</emphasis>
+    </para>
+    <para id="import-auto-idm323398736">When glucose is fermented, a variety of products are possible. This is a test used to determine some of those products. Most organisms differentiated by this test convert the glucose to acids. Some bacteria continue to produce more acid in ‘mixed acid fermentation.’ Some genera use the glucose but produce end products with a more neutral pH like those that result from ‘butanediol fermentation.’ </para>
+    <para id="import-auto-idm1112464432">
+      <emphasis effect="bold">Procedure</emphasis>
+    </para>
+    <list id="eip-846" list-type="enumerated" number-style="arabic"><item>Obtain one tube of MR-VP broth.</item>
+<item>Using an inoculating loop, swish some of your assigned organism in the broth.</item>
+<item>Incubate the tube for at least 48 hours.</item>
+<item>After the incubation period, vortex the tube and pour half of the broth into another clean test tube.</item>
+<item>Complete the tests on the two individual tubes as follows:</item>
+</list><list id="eip-307" list-type="bulleted" bullet-style="none"><item>MR – to one tube add a drop or two of the pH indicator methyl red and swirl. </item>
+<item>VP – To the other tube add three drops of Barritt’s 1/A reagent (5% alpha-napthol solution) and a drop of Barritt’s 2/B reagent (40% potassium hydroxide solution). Shake vigorously and watch the tube over the <emphasis effect="bold">next</emphasis><emphasis effect="bold">hour or two</emphasis>. Alternatively, if not shaken only the air-broth interface might indicate a change in color.</item></list><para id="import-auto-idm327128224">
+      <emphasis effect="bold">Interpretation</emphasis>
+    </para>
+    <para id="import-auto-idm343086928">MR – If the tube turns red, the test is positive for mixed-acid fermentation (one or more organic acids formed during the fermentation of glucose)[see fig. 1 below]. </para><para id="import-auto-idm334088944">VP – If the tube (or interface) turns pink or red, the test is positive for acetoin a precursor of 2,3-butanediol (see fig. 2 below).</para><para id="import-auto-idm890489904">
+      <figure id="import-auto-idm337885776">
+        <media id="import-auto-idm327829520" alt="">
+          <image mime-type="image/jpg" src="../../media/Picture 1-a840.jpg" height="189" width="221"/>
+        </media>
+      </figure>
+      <figure id="import-auto-idm1085519680">
+        <media id="import-auto-idm913797504" alt="">
+          <image mime-type="image/jpg" src="../../media/Picture 2-6489.jpg" height="193" width="211"/>
+        </media>
+      </figure>
+    </para>
+    </content>
+</document>
