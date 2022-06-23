@@ -10,7 +10,7 @@
 
 <content>
 <section id="fs-id1167661720789" class="learning-objectives">
-<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<title>Learning Objectives</title>
 <list id="fs-id1167663936727">
 <item>Describe the production and maturation of B cells</item>
 <item>Compare the structure of B-cell receptors and T-cell receptors</item>
@@ -90,7 +90,7 @@
 <para id="fs-id1167661291167">T cell-dependent activation of B cells plays an important role in both the primary and secondary responses associated with adaptive immunity. With the first exposure to a protein antigen, a T cell-dependent <term class="no-emphasis">primary antibody response</term> occurs. The initial stage of the primary response is a <term>lag period</term>, or <term class="no-emphasis">latent period</term>, of approximately 10 days, during which no antibody can be detected in serum. This lag period is the time required for all of the steps of the primary response, including naïve mature B cell binding of antigen with BCRs, antigen processing and presentation, helper T cell activation, B cell activation, and clonal proliferation. The end of the lag period is characterized by a rise in IgM levels in the serum, as <term class="no-emphasis">T<sub>H</sub>2 cells</term> stimulate B cell differentiation into <term class="no-emphasis">plasma cells</term>. <term class="no-emphasis">IgM</term> levels reach their peak around 14 days after primary antigen exposure; at about this same time, T<sub>H</sub>2 stimulates antibody class switching, and IgM levels in serum begin to decline. Meanwhile, levels of IgG increase until they reach a peak about three weeks into the primary response (<link target-id="OSC_Microbio_18_04_PriSec"/>).</para>
 <para id="fs-id1167661508248">During the primary response, some of the cloned B cells are differentiated into <term class="no-emphasis">memory B cells</term> programmed to respond to subsequent exposures. This <term class="no-emphasis">secondary response</term> occurs more quickly and forcefully than the primary response. The lag period is decreased to only a few days and the production of IgG is significantly higher than observed for the primary response (<link target-id="OSC_Microbio_18_04_PriSec"/>). In addition, the antibodies produced during the secondary response are more effective and bind with higher affinity to the targeted epitopes. Plasma cells produced during secondary responses live longer than those produced during the primary response, so levels of specific antibody remain elevated for a longer period of time.</para>
 <figure id="OSC_Microbio_18_04_PriSec">
-<media id="fs-id1167659426519" alt="Update alt text to: A graph with time on the X axis and antibody concentration in serum. At first there is very little antibody (near 0). The lag period does not see a significant increase. In the primary response, IgM peaks for about 5 days and drops. At the same time IgG increases and then drops. This creates an increase in antibody count with a plateau of about 5 days as both antibody types are present. The secondary response sees a prolonged peak of IgG with a peak of IgM for about 1 to 2 days at about the same time as the peak of IgG. The total antibody is also higher but isn’t at its plateau for as long as it is in the primary response.">
+<media id="fs-id1167659426519" alt="A graph with time on the X axis and antibody concentration in serum. At first there is very little antibody (near 0). The lag period does not see a significant increase. In the primary response, IgM peaks for about 5 days and drops. At the same time IgG increases and then drops. This creates an increase in antibody count with a plateau of about 5 days as both antibody types are present. The secondary response sees a peak of IgM for about 1 to 2 days and then a prolonged peak of IgG. The total antibody is also higher but isn’t at its plateau for as long as it is in the primary response.">
 <image mime-type="image/jpeg" src="../../media/OSC_Microbio_18_04_PriSec.jpg"/>
 </media>
 <caption>Compared to the primary response, the secondary antibody response occurs more quickly and produces antibody levels that are higher and more sustained. The secondary response mostly involves IgG.</caption>
@@ -185,6 +185,6 @@
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 
 </document>

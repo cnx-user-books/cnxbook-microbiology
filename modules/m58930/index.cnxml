@@ -10,7 +10,7 @@
 
 <content>
 <section id="fs-id1167661315566" class="learning-objectives">
-<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<title>Learning Objectives</title>
 <list id="fs-id1167663732216">
 <item>Identify the most common viruses that can cause infections of the GI tract</item>
 <item>Compare the major characteristics of specific viral diseases affecting the GI tract and liver</item>
@@ -57,7 +57,7 @@
 </section>
 <section id="fs-id1167661552461">
 <title>Hepatitis</title>
-<para id="fs-id1167661442293">Hepatitis is a general term meaning inflammation of the liver, which can have a variety of causes. In some cases, the cause is viral infection. There are five main hepatitis viruses that are clinically significant: <term class="no-emphasis">hepatitisviruses </term>A (<term class="no-emphasis">HAV</term>), B (<term class="no-emphasis">HBV</term>), C (<term class="no-emphasis">HCV</term>), D, (<term class="no-emphasis">HDV</term>) and E (<term class="no-emphasis">HEV</term>) (<link target-id="OSC_Microbio_24_04_Hepatitis"/>). Note that other viruses, such as <term class="no-emphasis">Epstein-Barr virus</term> (EBV), <term class="no-emphasis">yellow fever</term>, and <term class="no-emphasis">cytomegalovirus</term> (CMV) can also cause <term class="no-emphasis">hepatitis</term> and are discussed in <link document="m58937">Viral Infections of the Circulatory and Lymphatic Systems</link>.</para>
+<para id="fs-id1167661442293">Hepatitis is a general term meaning inflammation of the liver, which can have a variety of causes. In some cases, the cause is viral infection. There are five main hepatitis viruses that are clinically significant: <term class="no-emphasis">hepatitisviruses </term>A (<term class="no-emphasis">HAV</term>), B (<term class="no-emphasis">HBV</term>), C (<term class="no-emphasis">HCV</term>), D, (<term class="no-emphasis">HDV</term>) and E (<term class="no-emphasis">HEV</term>) (<link target-id="OSC_Microbio_24_04_Hepatitis"/>). Note that other viruses, such as <term class="no-emphasis">Epstein-Barr virus</term> (EBV), <term class="no-emphasis">yellow fever</term>, and <term class="no-emphasis">cytomegalovirus</term> (CMV) can also cause <term class="no-emphasis">hepatitis</term> and are discussed in <link class="target-chapter" document="m58937">Viral Infections of the Circulatory and Lymphatic Systems</link>.</para>
 <figure id="OSC_Microbio_24_04_Hepatitis">
 <media id="fs-id1167663567733" alt="Hepatitis A is a polyhedron with a single strand inside. Hepatitis B is a polyhedron with 2 strands inside and a layer outside with bulb-shaped studs in it. Hepatitis C is a polyhedron with a single strand inside and a layer outside that has studs rectangular studs. Hepatitis D is a sphere with a wavy circle in the center and an outer layer with oval studs. Hepatitis E is a more complex polyhedron with a single strand inside.">
 <image mime-type="image/jpeg" src="../../media/OSC_Microbio_24_04_Hepatitis.jpg"/>
@@ -168,7 +168,7 @@
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 
 
 </document>

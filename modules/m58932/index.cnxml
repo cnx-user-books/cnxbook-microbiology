@@ -10,7 +10,7 @@
 
 <content>
 <section id="fs-id1167663612117" class="learning-objectives">
-<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<title>Learning Objectives</title>
 <list id="fs-id1167663640745">
 <item>Identify the most common helminths that cause infections of the GI tract</item>
 <item>Compare the major characteristics of specific helminthic diseases affecting GI tract</item>
@@ -23,7 +23,7 @@
 <para id="fs-id1167663723815">When an individual consumes embryonated eggs (those with a developing embryo), the eggs travel to the intestine and the larvae are able to hatch. <emphasis effect="italics">Ascaris</emphasis> is able to produce proteases that allow for penetration and degradation of host tissue. The juvenile worms can then enter the circulatory system and migrate to the lungs where they enter the alveoli (air sacs). From here they crawl to the pharynx and then follow the gut lumen to return to the small intestine, where they mature into adult <term class="no-emphasis">roundworms</term>. Females in the host will produce and release eggs that leave the host via feces. In some cases, the worms can block ducts such as those of the <term class="no-emphasis">pancreas</term> or <term class="no-emphasis">gallbladder</term>.</para>
 <para id="fs-id1167663990836">The infection is commonly asymptomatic. When signs and symptoms are present, they include shortness of breath, cough, nausea, diarrhea, blood in the stool, abdominal pain, weight loss, and fatigue. The roundworms may be visible in the stool. In severe cases, children with substantial infections may experience intestinal blockage.</para>
 <para id="fs-id1167663726819">The eggs can be identified by microscopic examination of the stool (<link target-id="OSC_Microbio_24_06_Ascariasis"/>). In some cases, the worms themselves may be identified if coughed up or excreted in stool. They can also sometimes be identified by X-rays, ultrasounds, or MRIs.</para>
-<para id="fs-id1167663966253">Ascariasis is self-limiting, but can last one to two years because the worms can inhibit the body’s inflammatory response through glycan gimmickry (see <link document="m58869">Virulence Factors of Eukaryotic Pathogens</link>). The first line of treatment is <term class="no-emphasis">mebendazole</term> or <term class="no-emphasis">albendazole</term>. In some severe cases, surgery may be required.</para>
+<para id="fs-id1167663966253">Ascariasis is self-limiting, but can last one to two years because the worms can inhibit the body’s inflammatory response through glycan gimmickry (see <link class="target-chapter" document="m58869">Virulence Factors of Eukaryotic Pathogens</link>). The first line of treatment is <term class="no-emphasis">mebendazole</term> or <term class="no-emphasis">albendazole</term>. In some severe cases, surgery may be required.</para>
 <figure id="OSC_Microbio_24_06_Ascariasis">
 <media id="fs-id1167663965716" alt="a) phot of worms filling the intestines. B) photo of a large handful of worms. C) photo of a circle in a thicker circle. The outer circle is about 60 micrometers.">
 <image mime-type="image/jpeg" src="../../media/OSC_Microbio_24_06_Ascariasis.jpg"/>
@@ -166,7 +166,7 @@
 </media>
 </figure>
 <figure id="OSC_Microbio_24_06_HelminthTBL2">
-<media id="fs-id1167658390615" alt="Continuation of table titled: Helminthic Infections of the GI Tract. Columns: Disease, Pathogen, Signs and Symptoms, Transmission, Diagnostic Tests, Antimicrobial Drugs. Strongyloidiasis; Strongyloides stercoralis; Often asymptomatic; cough (sometimes bloody), skin rash, abdominal pain, diarrhea; in immunosuppressed patients, may become disseminated, causing serious and potentially fatal complications Soil-dwelling larvae penetrate the skin, usually bare feet; Microscopic observation of larvae in stool; serological testing for antigens; Ivermectin, albendazole. Tapeworms (taeniasis) ; Taenia solium, T. saginata, T. asiatica, Diphyllobothrium latum; Asymptomatic or mild GI distress; cysts in muscle, eye, or brain (cysticercosis); brain cysts can cause headaches, seizures, or death; Ingestion of raw or undercooked pork or beef from infected animal; Observation of worm segments or microscopic eggs in stool; CT or MRI to detect cysts; Praziquantel, niclosamide. Trichinosis; Trichinella spiralis, other Trichinella spp. Diarrhea, constipation, abdominal pain, headache, cough, chills, light sensitivity, muscle pain, fever, conjunctivitis; in severe cases may affect motor coordination, breathing, heart function; Ingestion of raw or undercooked pork or other meat of infected animal; Observation of cysts in muscle biopsy, enzyme immunoassay; Albendazole, mebendazole. Whipworm (trichuriasis); Trichuris trichiura; Abdominal pain, anemia, diarrhea (possibly bloody), rectal prolapse; Ingestion of eggs in fecally contaminated food Microscopic observation of eggs in stool; Albendazole, mebendazole, ivermectin.">
+<media id="fs-id1167658390615" alt="No Alt Text">
 <image mime-type="image/jpeg" src="../../media/OSC_Microbio_24_06_HelminthTBL2.jpg"/>
 </media>
 </figure>
@@ -254,7 +254,7 @@
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 
 
 </document>
