@@ -10,7 +10,7 @@
 
 <content>
 <section id="fs-id1167660312232" class="learning-objectives">
-<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<title>Learning Objectives</title>
 <list id="fs-id1167662513938">
 <item>Describe the benefits of immunofluorescent antibody assays in comparison to nonfluorescent assays</item>
 <item>Compare direct and indirect fluorescent antibody assays</item>
@@ -30,7 +30,9 @@
 <caption>A green fluorescent mAb against <emphasis effect="italics">L. pneumophila</emphasis> is used here to visualize and identify bacteria from a smear of a sample from the respiratory tract of a pneumonia patient. (credit: modification of work by American Society for Microbiology)</caption>
 </figure>
 <note id="fs-id1167662429726" class="microbiology link-to-learning">
-
+<media id="fs-id1167662422821" alt="Link to learning graphic">
+<image mime-type="image/jpeg" src="../../media/CNX_Interactive_200DPI.png"/>
+</media>
 <para id="fs-id1167662885642">Watch the <link url="https://openstax.org/l/22dirfluorant">animation</link> on this page to review the procedures of the direct fluorescent antibody test.</para>
 </note>
 <note id="fs-id1167662554950" class="microbiology check-your-understanding">
@@ -42,8 +44,8 @@
 <section id="fs-id1167662369294">
 <title>Indirect Fluorescent Antibody Techniques</title>
 <para id="fs-id1167662507146"><term>Indirect fluorescent antibody (IFA) tests</term> (<link target-id="OSC_Microbio_20_05_IFA"/>) are used to look for antibodies in patient serum. For example, an IFA test for the diagnosis of <term class="no-emphasis">syphilis</term> uses <emphasis effect="italics">T. pallidum</emphasis> cells isolated from a lab animal (the bacteria cannot be grown on lab media) and a smear prepared on a glass slide. Patient serum is spread over the smear and anti-treponemal antibodies, if present, are allowed to bind. The serum is washed off and a secondary antibody added. The <term class="no-emphasis">secondary antibody</term> is an antihuman immunoglobulin conjugated to a <term class="no-emphasis">fluorogen</term>. On examination, the <emphasis effect="italics">T. pallidum</emphasis> bacteria will only be visible if they have been bound by the antibodies from the patient’s serum.</para>
-<para id="fs-id1167662878079">The IFA test for syphilis provides an important complement to the <term class="no-emphasis">VDRL test</term> discussed in <link document="m58901">Detecting Antigen-Antibody Complexes</link>. The VDRL is more likely to generate false-positive reactions than the IFA test; however, the VDRL is a better test for determining whether an infection is currently active.</para>
-<para id="fs-id1167662516898">IFA tests are also useful for the diagnosis of autoimmune diseases. For example, <term class="no-emphasis">systemic lupus erythematosus</term> (SLE) (see <link document="m58893">Autoimmune Disorders</link>) is characterized by elevated expression levels of <term class="no-emphasis">antinuclear antibodies</term> (ANA). These autoantibodies can be expressed against a variety of DNA-binding proteins and even against DNA itself. Because autoimmunity is often difficult to diagnose, especially early in disease progression, testing for ANA can be a valuable clue in making a diagnosis and starting appropriate treatment.</para>
+<para id="fs-id1167662878079">The IFA test for syphilis provides an important complement to the <term class="no-emphasis">VDRL test</term> discussed in <link class="target-chapter" document="m58901">Detecting Antigen-Antibody Complexes</link>. The VDRL is more likely to generate false-positive reactions than the IFA test; however, the VDRL is a better test for determining whether an infection is currently active.</para>
+<para id="fs-id1167662516898">IFA tests are also useful for the diagnosis of autoimmune diseases. For example, <term class="no-emphasis">systemic lupus erythematosus</term> (SLE) (see <link class="target-chapter" document="m58893">Autoimmune Disorders</link>) is characterized by elevated expression levels of <term class="no-emphasis">antinuclear antibodies</term> (ANA). These autoantibodies can be expressed against a variety of DNA-binding proteins and even against DNA itself. Because autoimmunity is often difficult to diagnose, especially early in disease progression, testing for ANA can be a valuable clue in making a diagnosis and starting appropriate treatment.</para>
 <para id="fs-id1167662783556">The IFA for ANA begins by fixing cells grown in culture to a glass slide and making them permeable to antibody. The slides are then incubated with serial dilutions of serum from the patient. After incubation, the slide is washed to remove unbound proteins, and the fluorescent antibody (antihuman IgG conjugated to a fluorogen) added. After an incubation and wash, the cells can be examined for fluorescence evident around the nucleus (<link target-id="OSC_Microbio_20_05_ANA"/>). The <term class="no-emphasis">titer</term> of ANA in the serum is determined by the highest dilution showing fluorescence. Because many healthy people express ANA, the American College of Rheumatology recommends that the titer must be at least 1:40 in the presence of symptoms involving two or more organ systems to be considered indicative of SLE.<footnote id="fs-id1167662501835">Gill, James M., ANNA M. Quisel, PETER V. Rocca, and DENE T. Walters. “Diagnosis of systemic lupus erythematosus.” <emphasis effect="italics">American family physician</emphasis> 68, no. 11 (2003): 2179-2186.</footnote></para>
 <figure id="OSC_Microbio_20_05_IFA">
 <media id="fs-id1167662796997" alt="Diagram of an IFA test. Antigens are bound to a surface. The patient serum is added. If the matching antibodies are present they bind to the antigen. A secondary antibody (with a fluorescent label) is added. If the patient antibodies are present the secondary antibody binds to the patient antibodies.">
@@ -101,7 +103,9 @@
 <para id="fs-id1167662517704">The flow cytometer and immunofluorescence can also be modified to sort cells from a single sample into purified subpopulations of cells for research purposes. This modification of the flow cytometer is called a <term>fluorescence-activated cell sorter (FACS)</term>. In a FACS, fluorescence by a cell induces the device to put a charge on a droplet of the transporting fluid containing that cell. The charge is specific to the wavelength of the fluorescent light, which allows for differential sorting by those different charges. The sorting is accomplished by an electrostatic deflector that moves the charged droplet containing the cell into one collecting vessel or another. The process results in highly purified subpopulations of cells.</para>
 <para id="fs-id1167662463643">One limitation of a FACS is that it only works on isolated cells. Thus, the method would work in sorting white blood cells, since they exist as isolated cells. But for cells in a tissue, flow cytometry can only be applied if we can excise the tissue and separate it into single cells (using proteases to cleave cell-cell adhesion molecules) without disrupting cell integrity. This method may be used on tumors, but more often, immunohistochemistry and immunocytochemistry are used to study cells in tissues.</para>
 <note id="fs-id1167662471376" class="microbiology link-to-learning">
-
+<media id="fs-id1167660275812" alt="Link to learning graphic">
+<image mime-type="image/jpeg" src="../../media/CNX_Interactive_200DPI.png"/>
+</media>
 <para id="fs-id1167662369551">Watch videos to learn more about how <link url="https://openstax.org/l/22flowcytometry">flow cytometry</link> and a <link url="https://openstax.org/l/22FACSwork">FACS</link> work.</para>
 </note>
 <note id="fs-id1167660147953" class="microbiology check-your-understanding">
@@ -241,6 +245,6 @@
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 
 </document>

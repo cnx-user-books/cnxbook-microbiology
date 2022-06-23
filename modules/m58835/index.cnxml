@@ -10,7 +10,7 @@
 
 <content>
 <section id="fs-id1172101005203" class="learning-objectives">
-<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<title>Learning Objectives</title>
 <list id="fs-id1172098463922">
 <item>Describe the discovery of nucleic acid and nucleotides</item>
 <item>Explain the historical experiments that led to the characterization of DNA</item>
@@ -18,7 +18,7 @@
 <item>Explain how scientists established the link between DNA and heredity</item>
 </list>
 </section>
-<note id="fs-id1172098310660" class="microbiology clinical-focus">
+<note id="fs-id1172098310660" class="microbiology clinical-focus-opener">
 <title>Part 1</title>
 <para id="fs-id1172098617833">Alex is a 22-year-old college student who vacationed in Puerta Vallarta, Mexico, for spring break. Unfortunately, two days after flying home to Ohio, he began to experience abdominal cramping and extensive watery diarrhea. Because of his discomfort, he sought medical attention at a large Cincinnati hospital nearby.</para>
 <list id="fs-id1172100559348" list-type="bulleted" bullet-style="bullet">
@@ -90,7 +90,9 @@
 <caption>Three classes of arginine mutants were identified, each differing in their ability to grow in the presence of intermediates in the arginine biosynthesis pathway. From this, Beadle and Tatum concluded that each mutant was defective in a different gene encoding a different enzyme in the arginine biosynthesis pathway, leading to them to their one gene–one enzyme hypothesis.</caption>
 </figure>
 <note id="fs-id1172098403855" class="microbiology link-to-learning">
-
+<media id="fs-id1172096398047" alt="Link to learning graphic">
+<image mime-type="image/jpeg" src="../../media/OSC_Interactive_200.png"/>
+</media>
 <para id="fs-id1172098642740">To learn more about the experiments of Beadle and Tatum, visit this <link url="https://www.openstax.org/l/22expbeatatum">website</link> from the DNA Learning Center.</para>
 </note>
 <note id="fs-id1172098500306" class="microbiology check-your-understanding">
@@ -129,7 +131,7 @@
 </section>
 <section id="fs-id1172098525868">
 <title>Hershey and Chase’s Proof of DNA as Genetic Material</title>
-<para id="fs-id1172098750707">Alfred Hershey and Martha Chase performed their own experiments in 1952 and were able to provide confirmatory evidence that <term class="no-emphasis">DNA</term>, not protein, was the genetic material (<link target-id="OSC_Microbio_10_01_HersheyChase"/>).<footnote id="fs-id1172098317905">A.D. Hershey, M. Chase. “Independent Functions of Viral Protein and Nucleic Acid in Growth of Bacteriophage.” <emphasis effect="italics">Journal of General Physiology</emphasis> 36 no. 1 (1952):39–56.</footnote> <term class="no-emphasis">Hershey and Chase</term> were studying a <term class="no-emphasis">bacteriophage</term>, a virus that infects bacteria. Viruses typically have a simple structure: a protein coat, called the capsid, and a nucleic acid core that contains the genetic material, either DNA or RNA (see <link document="m58808">Viruses</link>). The particular bacteriophage they were studying was the T2 bacteriophage, which infects <emphasis effect="italics">E. coli</emphasis> cells. As we now know today, T2 attaches to the surface of the bacterial cell and then it injects its nucleic acids inside the cell. The phage DNA makes multiple copies of itself using the host machinery, and eventually the host cell bursts, releasing a large number of bacteriophages.</para>
+<para id="fs-id1172098750707">Alfred Hershey and Martha Chase performed their own experiments in 1952 and were able to provide confirmatory evidence that <term class="no-emphasis">DNA</term>, not protein, was the genetic material (<link target-id="OSC_Microbio_10_01_HersheyChase"/>).<footnote id="fs-id1172098317905">A.D. Hershey, M. Chase. “Independent Functions of Viral Protein and Nucleic Acid in Growth of Bacteriophage.” <emphasis effect="italics">Journal of General Physiology</emphasis> 36 no. 1 (1952):39–56.</footnote> <term class="no-emphasis">Hershey and Chase</term> were studying a <term class="no-emphasis">bacteriophage</term>, a virus that infects bacteria. Viruses typically have a simple structure: a protein coat, called the capsid, and a nucleic acid core that contains the genetic material, either DNA or RNA (see <link class="target-chapter" document="m58808">Viruses</link>). The particular bacteriophage they were studying was the T2 bacteriophage, which infects <emphasis effect="italics">E. coli</emphasis> cells. As we now know today, T2 attaches to the surface of the bacterial cell and then it injects its nucleic acids inside the cell. The phage DNA makes multiple copies of itself using the host machinery, and eventually the host cell bursts, releasing a large number of bacteriophages.</para>
 <para id="fs-id1172100564012">Hershey and Chase labeled the protein coat in one batch of phage using radioactive sulfur, <sup>35</sup>S, because sulfur is found in the amino acids methionine and cysteine but not in nucleic acids. They labeled the DNA in another batch using radioactive phosphorus, <sup>32</sup>P, because phosphorus is found in DNA and RNA but not typically in protein.</para>
 <para id="fs-id1172098454699">Each batch of phage was allowed to infect the cells separately. After infection, Hershey and Chase put each phage bacterial suspension in a blender, which detached the phage coats from the host cell, and spun down the resulting suspension in a centrifuge. The heavier bacterial cells settled down and formed a pellet, whereas the lighter phage particles stayed in the supernatant. In the tube with the protein labeled, the radioactivity remained only in the supernatant. In the tube with the DNA labeled, the radioactivity was detected only in the bacterial cells. Hershey and Chase concluded that it was the phage DNA that was injected into the cell that carried the information to produce more phage particles, thus proving that DNA, not proteins, was the source of the genetic material. As a result of their work, the scientific community more broadly accepted DNA as the molecule responsible for heredity.</para>
 <figure id="OSC_Microbio_10_01_HersheyChase">
@@ -140,7 +142,9 @@
 </figure>
 <para id="fs-id1172098545511">By the time <term class="no-emphasis">Hershey and Chase</term> published their experiment in the early 1950s, microbiologists and other scientists had been researching heredity for over 80 years. Building on one another’s research during that time culminated in the general agreement that DNA was the genetic material responsible for heredity (<link target-id="OSC_Microbio_10_01_Timeline"/>). This knowledge set the stage for the age of molecular biology to come and the significant advancements in biotechnology and systems biology that we are experiencing today.</para>
 <note id="fs-id1172101031418" class="microbiology link-to-learning">
-
+<media id="fs-id1172098653796" alt="Link to learning graphic">
+<image mime-type="image/jpeg" src="../../media/OSC_Interactive_200.png"/>
+</media>
 <para id="fs-id1172098256690">To learn more about the experiments involved in the history of genetics and the discovery of DNA as the genetic material of cells, visit this <link url="https://www.openstax.org/l/22dnalearncen">website</link> from the DNA Learning Center.</para>
 </note>
 <note id="fs-id1172098641648" class="microbiology check-your-understanding">
@@ -295,5 +299,5 @@
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 </document>

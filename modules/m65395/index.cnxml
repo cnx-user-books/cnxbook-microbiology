@@ -1,0 +1,62 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Lymphatic System</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m65395</md:content-id>
+  <md:title>Lymphatic System</md:title>
+  <md:abstract/>
+  <md:uuid>1bfcbd98-55ed-4178-ab04-7820b65c9383</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167663635831" class="learning-objectives"><title>Learning Objectives</title><list id="fs-id1167663994801">
+<item>Describe the major anatomical features of the lymphatic system</item>
+<item>Explain why the lymphatic system lack normal microbiota</item>
+<item>Explain how microorganisms overcome defenses of the lymphatic systems to cause infection</item>
+</list>
+</section><section id="fs-id1167661642046"><title>The Lymphatic System</title><para id="fs-id1167663732757">The <term class="no-emphasis">lymphatic system</term> is also a network of vessels that run throughout the body (<link target-id="OSC_Microbio_25_01_LymphSyst"/>). However, these vessels do not form a full circulating system and are not pressurized by the heart. Rather, the lymphatic system is an open system with the fluid moving in one direction from the extremities toward two drainage points into veins just above the heart. Lymphatic fluids move more slowly than blood because they are not pressurized. Small lymph capillaries interact with blood capillaries in the interstitial spaces in tissues. Fluids from the tissues enter the lymph capillaries and are drained away (<link target-id="OSC_Microbio_25_01_CapBed"/>). These fluids, termed <term class="no-emphasis">lymph</term>, also contain large numbers of white blood cells.  The three major functions of the lymphatic system are: (1) to collect excess fluid from the inter-cellular spaces, (2) to transport digested fats to the circulatory system, and (3) to provide innate and adaptive defense against infections.</para>
+<figure id="OSC_Microbio_25_01_LymphSyst">
+<media id="fs-id1167661364357" alt="Diagram of the lymphatic system. Lymph notes are swellings on tubes (called lymph vessels) that travel throughout the body. The right lymphatic duct and entering vein are in the neck. A tonsil is a swelling on the lymph vessel in the mouth. The thymus is a lumpy structure on the heart. A close-up of a lymph node shows a roundish structure with many tubes attached to it. The central area has a box labeled “masses of lymphocytes and macrophages”. A close-up of this area shows tissue cells in the background with a blood capillary network. Lymph vessels run between the  blood capillary network. Lymphatic capillaries are the ends of the lymph vessels. Fluid from around the cells (called interstitial fluid) enters the lymphatic capillaries and travels through the lymphatic vessels.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_25_01_LymphSyst.jpg"/>
+</media>
+<caption>The essential components of the human lymphatic system drain fluid away from tissues.</caption>
+</figure>
+<figure id="OSC_Microbio_25_01_CapBed">
+<media id="fs-id1167661273686" alt="Blood enters the capillaries from an arteriole (red) and leaves through venules (blue). Interstitial fluids may drain into the lymph capillaries (green) and proceed to lymph nodes. A close-up of tissue cells in interstitial fluid. An arteriole and a venule are connected by a network of capillaries. Lymphatic vessels are also a network  in this region and end in lymph capillarie.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_25_01_CapBed.jpg"/>
+</media>
+<caption>Blood enters the capillaries from an arteriole (red) and leaves through venules (blue). Interstitial fluids may drain into the lymph capillaries (green) and proceed to lymph nodes. (credit: modification of work by National Cancer Institute, National Institutes of Health)</caption>
+</figure>
+<para id="fs-id1167661539752">The lymphatic system contains two types of lymphoid tissues. The <term>primary lymphoid tissue</term> includes bone marrow and the thymus. Bone marrow contains the hematopoietic stem cells (HSC) that differentiate and mature into the various types of blood cells and lymphocytes (see <link document="m58879" target-id="OSC_Microbio_17_05_Hematopo"/>). The <term>thymus</term>, a multilobed gland, is located below the sternum and is directly connected with the adaptive defense system considering it is the site of maturation for T cells. We will talk more about this on the adaptive defenses chapter, but it is interesting to notice that the thymus reduces its size as we age, and is replaced by connective tissue and fats. The <term>secondary lymphoid tissue</term><emphasis effect="bold">s</emphasis> include the spleen, lymph nodes, and several areas of diffuse lymphoid tissues underlying epithelial membranes. The <term>spleen</term>, an encapsulated structure, filters blood and captures pathogens and antigens that pass into it (<link target-id="OSC_Microbio_25_01_spleenLnode"/>). The spleen contains specialized macrophages and dendritic cells that are crucial for antigen presentation, a mechanism critical for activation of T lymphocytes and B lymphocytes (see <link class="target-chapter" document="m58885">Major Histocompatibility Complexes and Antigen-Presenting Cells</link>). Lymph nodes are bean-shaped organs situated throughout the body. These structures contain areas called germinal centers that are rich in B and T lymphocytes. The <term>lymph nodes</term> also contain macrophages and dendritic cells for antigen presentation. Lymph from nearby tissues enters the lymph node through afferent lymphatic vessels and encounters these lymphocytes as it passes through; the lymph exits the lymph node through the efferent lymphatic vessels (<link target-id="OSC_Microbio_25_01_spleenLnode"/>).</para><figure id="OSC_Microbio_25_01_spleenLnode">
+<media id="fs-id1167661344544" alt="a) A diagram showing that the spleen is found at the end of the pancreas just under the diaphragm. The part closest to the pancreas is the hilium and contains the splenic artery and vein. B) a close-up of the spleen. Afferent lymphatic vessels are tubes that bring material in. Efferent lymphatic vessels are tubes that take material out of the spleen. Connective tissue forms a capsule around the outside; and a space under the capsule is labeled subcapsular sinus. The cortex of the spleen is the outer layer. And trabeculae are regions of cortex that fold in towards the center. Germinal centers are red structures in the cortex.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_25_01_spleenLnode.jpg"/>
+</media>
+<caption>(a) The <term class="no-emphasis">spleen</term> is a lymphatic organ located in the upper left quadrant of the abdomen near the stomach and left kidney. It contains numerous phagocytes and lymphocytes that combat and prevent circulatory infections by killing and removing pathogens from the blood. (b) Lymph nodes are masses of lymphatic tissue located along the larger lymph vessels. They contain numerous lymphocytes that kill and remove pathogens from lymphatic fluid that drains from surrounding tissues.</caption>
+</figure>
+<para id="eip-748">Lymphoid tissues also protect mucous membranes all over the body, such as gastrointestinal tract, lungs, salivary glands, eyes, etc, and are referred to as <term>mucosa-associated lymphoid tissue or MALT</term>. The Peyer's patches in the lining of the small intestines are example of gut-associated lymphoid tissue (GALT). Similar agglomerations found in the respiratory system are called bronchial-associated lymphoid tissue (BALT). It is important to understand that lymphoid tissues contribute to the innate defenses because  it contains cells that can phagocytize microorganisms and foreign material. </para><note id="fs-id1167663644172" class="microbiology link-to-learning">
+<media id="fs-id1167663697800" alt="Link to learning graphic">
+<image mime-type="image/jpeg" src="../../media/OSC_Interactive_200DPI.png"/>
+</media>
+<para id="fs-id1167663927953">The lymphatic system filters fluids that have accumulated in tissues before they are returned to the blood. A brief overview of this process is provided at <link url="https://openstax.org/l/22lymphatic">this</link> website.</para>
+</note>
+<note id="fs-id1167663638238" class="microbiology check-your-understanding"><list id="fs-id1167659261013" list-type="bulleted" bullet-style="bullet">
+<item>What are the main functions of the lymphatic system?</item>
+</list>
+</note>
+</section><section id="fs-id1167663920845">
+<title>Infections of the Lymphatic System</title>
+<para id="fs-id1167661730550">Like the circulatory system, the lymphatic system does not have a normal microbiota, and the large numbers of immune cells typically eliminate transient microbes before they can establish an infection. Only microbes with an array of virulence factors are able to overcome these defenses and establish infection in the lymphatic system. However, when a localized infection begins to spread, the lymphatic system is often the first place the invading microbes can be detected.</para>
+<para id="fs-id1167663967797">Infections in the lymphatic system also trigger an inflammatory response. Inflammation of lymphatic vessels, called <term>lymphangitis</term>, can produce visible red streaks under the skin. Inflammation in the lymph nodes can cause them to swell. A swollen lymph node is referred to as a <term>bubo</term>, and the condition is referred to as <term>lymphadenitis</term>.</para>
+</section>
+<section id="fs-id1167661347394" class="summary"><title>Key Concepts and Summary</title><list id="fs-id1167661342039" list-type="bulleted" bullet-style="bullet"><item>The <emphasis effect="bold">lymphatic system</emphasis> moves fluids from the interstitial spaces of tissues toward the circulatory system and filters the lymph.</item>
+<item>The lymphatic systems is home to many components of the host immune defenses.</item>
+
+</list></section><section id="fs-id1167663638866" class="critical-thinking"><title>Critical Thinking</title><exercise id="fs-id1167663726838">
+<problem id="fs-id1167663986145">
+<para id="fs-id1167661346837">Why are there more afferent lymphatic vessels carrying lymph to the lymph nodes than there are efferent lymphatic vessels?</para>
+</problem>
+</exercise>
+</section></content>
+
+
+</document>

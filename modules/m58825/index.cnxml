@@ -10,7 +10,7 @@
 
 <content>
 <section id="fs-id1167662472323" class="learning-objectives">
-<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<title>Learning Objectives</title>
 <list id="fs-id1167662570135">
 <item>Define and describe the importance of microorganisms in the biogeochemical cycles of carbon, nitrogen, and sulfur</item>
 <item>Define and give an example of bioremediation</item>
@@ -39,17 +39,21 @@
 <para id="fs-id1167660339337">Many biological macromolecules, including proteins and nucleic acids, contain nitrogen; however, getting nitrogen into living organisms is difficult. Prokaryotes play essential roles in the <term class="no-emphasis">nitrogen cycle</term> (<link target-id="OSC_Microbio_08_07_NCycle"/>), transforming nitrogen between various forms for their own needs, benefiting other organisms indirectly. Plants and <term class="no-emphasis">phytoplankton</term> cannot incorporate nitrogen from the atmosphere (where it exists as tightly bonded, triple covalent N<sub>2</sub>), even though this molecule composes approximately 78% of the atmosphere. Nitrogen enters the living world through free-living and symbiotic bacteria, which incorporate nitrogen into their macromolecules through specialized biochemical pathways called <term>nitrogen fixation</term>. Cyanobacteria in aquatic ecosystems fix inorganic nitrogen (from nitrogen gas) into ammonia (NH<sub>3</sub>) that can be easily incorporated into biological macromolecules. <term class="no-emphasis"><emphasis effect="italics">Rhizobium</emphasis></term> bacteria (<link document="m58818" target-id="OSC_Microbio_08_00_Splash"/>) also fix nitrogen and live symbiotically in the root nodules of legumes (such as beans, peanuts, and peas), providing them with needed organic nitrogen while receiving fixed carbon as sugar in exchange. Free-living bacteria, such as members of the genus <term class="no-emphasis"><emphasis effect="italics">Azotobacter</emphasis></term>, are also able to fix nitrogen.</para>
 <para id="fs-id1167662506747">The nitrogen that enters living systems by nitrogen fixation is eventually converted from organic nitrogen back into nitrogen gas by microbes through three steps: ammonification, <term class="no-emphasis">nitrification</term>, and <term class="no-emphasis">denitrification</term>. In terrestrial systems, the first step is the <term class="no-emphasis">ammonification</term> process, in which certain bacteria and fungi convert nitrogenous waste from living animals or from the remains of dead organisms into ammonia (NH<sub>3</sub>). This ammonia is then oxidized to nitrite <m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:msubsup><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>2</m:mn><m:mo>−</m:mo></m:msubsup></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>,</m:mo></m:mrow></m:math> then to nitrate <m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:msubsup><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>3</m:mn><m:mo>−</m:mo></m:msubsup></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>,</m:mo></m:mrow></m:math> by nitrifying soil bacteria such as members of the genus <term class="no-emphasis"><emphasis effect="italics">Nitrosomonas</emphasis></term>, through the process of nitrification. Last, the process of denitrification occurs, whereby soil bacteria, such as members of the genera <term class="no-emphasis"><emphasis effect="italics">Pseudomonas</emphasis></term> and <term class="no-emphasis"><emphasis effect="italics">Clostridium</emphasis></term>, use nitrate as a terminal electron acceptor in <term class="no-emphasis">anaerobic respiration</term>, converting it into nitrogen gas that reenters the atmosphere. A similar process occurs in the marine nitrogen cycle, where these three processes are performed by marine bacteria and archaea.</para>
 <para id="fs-id1167662374743">Human activity releases nitrogen into the environment by the use of artificial fertilizers that contain nitrogen and phosphorus compounds, which are then washed into lakes, rivers, and streams by surface runoff. A major effect from fertilizer runoff is saltwater and freshwater <term class="no-emphasis">eutrophication</term>, in which nutrient runoff causes the overgrowth and subsequent death of aquatic algae, making water sources anaerobic and inhospitable for the survival of aquatic organisms.</para>
-<figure id="OSC_Microbio_08_07_NCycle"><media id="fs-id1167656802669" alt="The nitrogen cycle. Gaseous atmospheric nitrogen shore; this moves into organic matter (R-NH2) through bacterial and lightning fixation. Fertilizers and mineralization produce ammonium (NH4+). This can enter waterways via run off and leaching. Ammonium is converted to nitrates (NO2-) via nitrification. These are then converted to nitrates (NO3-) via nitrification. Both of these can end up in waterways causing eutrophication. Nitrates can be taken in by plants or converted to gaseous nitrate (N2) by denitrification.">
-<image mime-type="image/jpeg" src="../../media/OSC_Microbio_08_07_Ncycle.jpg"/>
+<figure id="OSC_Microbio_08_07_NCycle">
+<media id="fs-id1167656802669" alt="The nitrogen cycle. Gaseous atmospheric nitrogen shore; this moves into organic matter (R-H2) through bacterial and lightning fixation. Fertilizers and mineralization produce ammonium (NH4+). This can enter waterways via run off and leaching. Ammonium is converted to nitrates (NO2-) via nitrification. These are then converted to nitrates (NO3-) via nitrification. Both of these can end up in waterways causing eutrophication. Nitrates can be taken in by plants or converted to gaseous nitrate (N2) by denitrification.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_08_07_NCycle.jpg"/>
 </media>
-
-<caption>This figure summarizes the nitrogen cycle. Note that specific groups of prokaryotes each participate in every step in the cycle. (credit: modification of work by NOAA)</caption></figure><note id="fs-id1167660292209" class="microbiology check-your-understanding">
+<caption>This figure summarizes the nitrogen cycle. Note that specific groups of prokaryotes each participate in every step in the cycle. (credit: modification of work by NOAA)</caption>
+</figure>
+<note id="fs-id1167660292209" class="microbiology check-your-understanding">
 <list id="fs-id1167659405491" list-type="bulleted" bullet-style="bullet">
-<item>What are the four steps of the nitrogen cycle?</item>
+<item>What are the three steps of the nitrogen cycle?</item>
 </list>
 </note>
 <note id="fs-id1167660253596" class="microbiology link-to-learning">
-
+<media id="fs-id1167662517065" alt="Link to learning graphic">
+<image mime-type="image/jpeg" src="../../media/OSC_Interactive_200.png"/>
+</media>
 <para id="fs-id1167662403010">To learn more about the nitrogen cycle, visit the <link url="https://openstax.org/l/22nitrogencycle">PBS</link> website.</para>
 </note>
 </section>
@@ -219,5 +223,5 @@
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 </document>

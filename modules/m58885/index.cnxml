@@ -10,14 +10,14 @@
 
 <content>
 <section id="fs-id1167660170673" class="learning-objectives">
-<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<title>Learning Objectives</title>
 <list id="fs-id1167662615625">
 <item>Identify cells that express MHC I and/or MHC II molecules and describe the structures and cellular location of MHC I and MHC II molecules</item>
 <item>Identify the cells that are antigen-presenting cells</item>
 <item>Describe the process of antigen processing and presentation with MHC I and MHC II</item>
 </list>
 </section>
-<para id="fs-id1167660339414">As discussed in <link document="m58879">Cellular Defenses</link>, <term class="no-emphasis">major histocompatibility complex (MHC)</term> molecules are expressed on the surface of healthy cells, identifying them as normal and “self” to <term class="no-emphasis">natural killer (NK) cells</term>. MHC molecules also play an important role in the presentation of foreign antigens, which is a critical step in the activation of T cells and thus an important mechanism of the adaptive immune system.</para>
+<para id="fs-id1167660339414">As discussed in <link class="target-chapter" document="m58879">Cellular Defenses</link>, <term class="no-emphasis">major histocompatibility complex (MHC)</term> molecules are expressed on the surface of healthy cells, identifying them as normal and “self” to <term class="no-emphasis">natural killer (NK) cells</term>. MHC molecules also play an important role in the presentation of foreign antigens, which is a critical step in the activation of T cells and thus an important mechanism of the adaptive immune system.</para>
 <section id="fs-id1167660178884">
 <title>Major Histocompatibility Complex Molecules</title>
 <para id="fs-id1167662744860">The <term>major histocompatibility complex</term> (<term>MHC</term>) is a collection of genes coding for MHC molecules found on the surface of all nucleated cells of the body. In humans, the MHC genes are also referred to as <term class="no-emphasis">human leukocyte antigen (HLA) genes</term>. Mature <term class="no-emphasis">red blood cells</term>, which lack a nucleus, are the only cells that do not express MHC molecules on their surface.</para>
@@ -42,7 +42,7 @@
 <para id="fs-id1167662746343">While all APCs play a similar role in adaptive immunity, there are some important differences to consider. Macrophages and dendritic cells are <term class="no-emphasis">phagocytes</term> that ingest and kill pathogens that penetrate the first-line barriers (i.e., skin and mucous membranes). B cells, on the other hand, do not function as phagocytes but play a primary role in the production and secretion of antibodies. In addition, whereas macrophages and dendritic cells recognize pathogens through nonspecific receptor interactions (e.g., <term class="no-emphasis">PAMPs</term>, <term class="no-emphasis">toll-like receptors</term>, and receptors for opsonizing <term class="no-emphasis">complement</term> or antibody), B cells interact with foreign pathogens or their free antigens using antigen-specific immunoglobulin as receptors (monomeric <term class="no-emphasis">IgD</term> and <term class="no-emphasis">IgM</term>). When the immunoglobulin receptors bind to an antigen, the B cell internalizes the antigen by endocytosis before processing and presentting the antigen to T cells.</para>
 <section id="fs-id1167662514895">
 <title>Antigen Presentation with MHC II Molecules</title>
-<para id="fs-id1167662682552">MHC II molecules are only found on the surface of APCs. Macrophages and dendritic cells use similar mechanisms for processing and presentation of antigens and their epitopes in association with MHC II; B cells use somewhat different mechanisms that will be described further in <link document="m58887">B Lymphocytes and Humoral Immunity</link>. For now, we will focus on the steps of the process as they pertain to dendritic cells.</para>
+<para id="fs-id1167662682552">MHC II molecules are only found on the surface of APCs. Macrophages and dendritic cells use similar mechanisms for processing and presentation of antigens and their epitopes in association with MHC II; B cells use somewhat different mechanisms that will be described further in <link class="target-chapter" document="m58887">B Lymphocytes and Humoral Immunity</link>. For now, we will focus on the steps of the process as they pertain to dendritic cells.</para>
 <para id="fs-id1167658391320">After a dendritic cell recognizes and attaches to a pathogen cell, the pathogen is internalized by phagocytosis and is initially contained within a <term class="no-emphasis">phagosome</term>. Lysosomes containing antimicrobial enzymes and chemicals fuse with the phagosome to create a phagolysosome, where degradation of the pathogen for antigen processing begins. Proteases (protein-degrading) are especially important in antigen processing because only protein antigen epitopes are presented to T cells by MHC II (<link target-id="OSC_Microbio_18_02_APC"/>).</para>
 <para id="fs-id1167660146826">APCs do not present all possible epitopes to T cells; only a selection of the most antigenic or <term class="no-emphasis">immunodominant</term> epitopes are presented. The mechanism by which epitopes are selected for processing and presentation by an APC is complicated and not well understood; however, once the most antigenic, immunodominant epitopes have been processed, they associate within the antigen-binding cleft of MHC II molecules and are translocated to the cell surface of the dendritic cell for presentation to T cells.</para>
 <figure id="OSC_Microbio_18_02_APC">
@@ -176,6 +176,6 @@
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 
 </document>

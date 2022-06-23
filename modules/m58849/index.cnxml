@@ -10,7 +10,7 @@
 
 <content>
 <section id="fs-id1167740781557" class="learning-objectives">
-<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<title>Learning Objectives</title>
 <list id="fs-id1167740783177">
 <item>Explain the use of nucleic acid probes to visualize specific DNA sequences</item>
 <item>Explain the use of gel electrophoresis to separate DNA fragments</item>
@@ -97,7 +97,9 @@
 <caption>(a) The steps in microarray analysis are illustrated. Here, gene expression patterns are compared between cancerous cells and healthy cells. (b) Microarray information can be expressed as a heat map. Genes are shown on the left side; different samples are shown across the bottom. Genes expressed only in cancer cells are shown in varying shades of red; genes expressed only in normal cells are shown in varying shades of green. Genes that are expressed in both cancerous and normal cells are shown in yellow.</caption>
 </figure>
 <note id="fs-id1167740652721" class="microbiology link-to-learning">
-
+<media id="fs-id1167742359426" alt="Link to learning graphic">
+<image mime-type="image/jpeg" src="../../media/CNX_Interactive_200DPI.png"/>
+</media>
 <para id="fs-id1167742432558">Explore <link url="https://openstax.org/l/22intwebmictec">microchip technology</link> at this interactive website.</para>
 </note>
 <note id="fs-id1167742358993" class="microbiology check-your-understanding">
@@ -167,7 +169,9 @@
 <caption>The polymerase chain reaction (PCR) is used to produce many copies of a specific sequence of DNA.</caption>
 </figure>
 <note id="fs-id1167742432956" class="microbiology link-to-learning">
-
+<media id="fs-id1167742391600" alt="Link to learning graphic">
+<image mime-type="image/jpeg" src="../../media/CNX_Interactive_200DPI.png"/>
+</media>
 <para id="fs-id1167740664334">Deepen your understanding of the polymerase chain reaction by viewing this <link url="https://openstax.org/l/22polychareami">animation</link> and working through an <link url="https://openstax.org/l/22intexerpolchr">interactive</link> exercise.</para>
 </note>
 </section>
@@ -200,7 +204,9 @@
 <para id="fs-id1167742428491">Since 2005, automated sequencing techniques used by laboratories fall under the umbrella of <term>next generation sequencing</term>, which is a group of automated techniques used for rapid DNA sequencing. These methods have revolutionized the field of molecular genetics because the low-cost sequencers can generate sequences of hundreds of thousands or millions of short fragments (25 to 600 base pairs) just in one day. Although several variants of next generation sequencing technologies are made by different companies (for example, 454 Life Sciences’ pyrosequencing and Illumina’s Solexa technology), they all allow millions of bases to be sequenced quickly, making the sequencing of entire genomes relatively easy, inexpensive, and commonplace. In <term>454 sequencing (pyrosequencing)</term>, for example, a DNA sample is fragmented into 400–600-bp single-strand fragments, modified with the addition of DNA adapters to both ends of each fragment. Each DNA fragment is then immobilized on a bead and amplified by PCR, using primers designed to anneal to the adapters, creating a bead containing many copies of that DNA fragment. Each bead is then put into a separate well containing sequencing enzymes. To the well, each of the four nucleotides is added one after the other; when each one is incorporated, pyrophosphate is released as a byproduct of polymerization, emitting a small flash of light that is recorded by a detector. This provides the order of nucleotides incorporated as a new strand of DNA is made and is an example of synthesis sequencing. Next generation sequencers use sophisticated software to get through the cumbersome process of putting all the fragments in order. Overall, these technologies continue to advance rapidly, decreasing the cost of sequencing and increasing the availability of sequence data from a wide variety of organisms quickly.</para>
 <para id="fs-id1167742576770">The National Center for Biotechnology Information houses a widely used genetic sequence database called <term class="no-emphasis">GenBank</term> where researchers deposit genetic information for public use. Upon publication of sequence data, researchers upload it to GenBank, giving other researchers access to the information. The collaboration allows researchers to compare newly discovered or unknown sample sequence information with the vast array of sequence data that already exists.</para>
 <note id="fs-id1167740653901" class="microbiology link-to-learning">
-
+<media id="fs-id1167742669090" alt="Link to learning graphic">
+<image mime-type="image/jpeg" src="../../media/CNX_Interactive_200DPI.png"/>
+</media>
 <para id="fs-id1167742441923">View an <link url="https://openstax.org/l/22454seqanim">animation</link> about 454 sequencing to deepen your understanding of this method.</para>
 </note>
 <note id="fs-id1167742509556" class="microbiology case-in-point">
@@ -366,5 +372,5 @@
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 </document>

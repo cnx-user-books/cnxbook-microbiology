@@ -1,0 +1,229 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col23867</md:content-id>
+    <md:title>General Microbiology BIOL 455</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>93177c46-149c-4cbe-8e4a-e533a8f161f4</md:uuid>
+<md:slug>general-microbiology-biol-455</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>An Invisible World</md:title>
+      <col:content>
+        <col:module document="m64942"/>
+        <col:module document="m65468"/>
+        <col:module document="m65352"/>
+        <col:module document="m64943"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>How We See the Invisible World</md:title>
+      <col:content>
+        <col:module document="m65390"/>
+        <col:module document="m65466"/>
+        <col:module document="m65421"/>
+        <col:module document="m65393"/>
+        <col:module document="m65430"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The Cell</md:title>
+      <col:content>
+        <col:module document="m65460"/>
+        <col:module document="m65425"/>
+        <col:module document="m65376"/>
+        <col:module document="m65467"/>
+        <col:module document="m65424"/>
+        <col:module document="m65423"/>
+        <col:module document="m58793"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Microbial Biochemistry</md:title>
+      <col:content>
+        <col:module document="m65399"/>
+        <col:module document="m65484"/>
+        <col:module document="m65482"/>
+        <col:module document="m65483"/>
+        <col:module document="m65486"/>
+        <col:module document="m65472"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Microbial Metabolism</md:title>
+      <col:content>
+        <col:module document="m58818"/>
+        <col:module document="m65375"/>
+        <col:module document="m65637"/>
+        <col:module document="m58821"/>
+        <col:module document="m64915"/>
+        <col:module document="m58822"/>
+        <col:module document="m58823"/>
+        <col:module document="m58824"/>
+        <col:module document="m58825"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Microbial Growth</md:title>
+      <col:content>
+        <col:module document="m65401"/>
+        <col:module document="m65380"/>
+        <col:module document="m65485"/>
+        <col:module document="m65461"/>
+        <col:module document="m65458"/>
+        <col:module document="m65411"/>
+        <col:module document="m58833"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Biochemistry of the Genome</md:title>
+      <col:content>
+        <col:module document="m65366"/>
+        <col:module document="m58835"/>
+        <col:module document="m65431"/>
+        <col:module document="m65433"/>
+        <col:module document="m65432"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Microbial Genetics</md:title>
+      <col:content>
+        <col:module document="m65398"/>
+        <col:module document="m65462"/>
+        <col:module document="m65370"/>
+        <col:module document="m65372"/>
+        <col:module document="m65457"/>
+        <col:module document="m65410"/>
+        <col:module document="m65379"/>
+        <col:module document="m65389"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Biotechnology</md:title>
+      <col:content>
+        <col:module document="m58847"/>
+        <col:module document="m58848"/>
+        <col:module document="m58849"/>
+        <col:module document="m58850"/>
+        <col:module document="m58851"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Eukaryotic Cells in Microbiology</md:title>
+      <col:content>
+        <col:module document="m58801"/>
+        <col:module document="m58802"/>
+        <col:module document="m58805"/>
+        <col:module document="m58806"/>
+        <col:module document="m58804"/>
+        <col:module document="m58803"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Virus, Viroids, and Prions</md:title>
+      <col:content>
+        <col:module document="m65479"/>
+        <col:module document="m65480"/>
+        <col:module document="m65477"/>
+        <col:module document="m65394"/>
+        <col:module document="m65478"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Control of Microbial Growth</md:title>
+      <col:content>
+        <col:module document="m65367"/>
+        <col:module document="m65369"/>
+        <col:module document="m65475"/>
+        <col:module document="m65474"/>
+        <col:module document="m65459"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Antimicrobial Drugs</md:title>
+      <col:content>
+        <col:module document="m65365"/>
+        <col:module document="m65378"/>
+        <col:module document="m65377"/>
+        <col:module document="m65397"/>
+        <col:module document="m58861"/>
+        <col:module document="m65438"/>
+        <col:module document="m58864"/>
+        <col:module document="m65374"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Microbial Pathogenesis</md:title>
+      <col:content>
+        <col:module document="m65402"/>
+        <col:module document="m65385"/>
+        <col:module document="m65382"/>
+        <col:module document="m65476"/>
+        <col:module document="m58869"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Disease and Epidemiology</md:title>
+      <col:content>
+        <col:module document="m65388"/>
+        <col:module document="m65464"/>
+        <col:module document="m65470"/>
+        <col:module document="m65407"/>
+        <col:module document="m58874"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Innate Immunity</md:title>
+      <col:content>
+        <col:module document="m65392"/>
+        <col:module document="m65395"/>
+        <col:module document="m65422"/>
+        <col:module document="m65387"/>
+        <col:module document="m65384"/>
+        <col:module document="m65418"/>
+        <col:module document="m65391"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Adaptive Immunity</md:title>
+      <col:content>
+        <col:module document="m65383"/>
+        <col:module document="m65417"/>
+        <col:module document="m58885"/>
+        <col:module document="m58886"/>
+        <col:module document="m58887"/>
+        <col:module document="m58888"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Laboratory Analysis of the Immune Response</md:title>
+      <col:content>
+        <col:module document="m58899"/>
+        <col:module document="m58900"/>
+        <col:module document="m58901"/>
+        <col:module document="m58902"/>
+        <col:module document="m58903"/>
+        <col:module document="m58904"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Environmental Microbiology</md:title>
+      <col:content>
+        <col:module document="m65636"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Applied &amp; Industrial Microbiology</md:title>
+      <col:content>
+        <col:module document="m65638"/>
+        <col:module document="m65639"/>
+      </col:content>
+    </col:subcollection>
+    <col:module document="m58946"/>
+    <col:module document="m58947"/>
+    <col:module document="m58948"/>
+    <col:module document="m58949"/>
+    <col:module document="m58950"/>
+  </col:content>
+</col:collection>

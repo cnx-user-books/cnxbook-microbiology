@@ -1,16 +1,16 @@
 <document xmlns="http://cnx.rice.edu/cnxml">
 
-<title>Parasitic Helminths</title>
+<title>Helminths</title>
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m58803</md:content-id>
-  <md:title>Parasitic Helminths</md:title>
+  <md:title>Helminths</md:title>
   <md:abstract/>
   <md:uuid>8ec4f2c3-afa2-40f9-b3ad-a85afbaa19ea</md:uuid>
 </metadata>
 
 <content>
 <section id="fs-id1172101896895" class="learning-objectives">
-<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<title>Learning Objectives</title>
 <list id="fs-id1172099603040">
 <item>Explain why we include the study of parasitic worms within the discipline of microbiology</item>
 <item>Compare the basic morphology of the major groups of parasitic helminthes</item>
@@ -75,7 +75,7 @@
 </figure>
 <figure id="OSC_Microbio_05_02_tapewormLC">
 <media id="fs-id1172101804803" alt="Eggs or gravid proplottidis from an infected individual are passed into the environment; this is the diagnostic stage. Cattle (T. saginata) and pigs (T. solium) become infected by ingesting vegetation contaminated by eggs or gravid proglottids. Oncospheres hatch, penetrating intestinal wall and circulate to musculature. The oncospheres develop into cysticerci in muscles and become infective. Humans are infected by ingesting raw or undercooked infected meat. The scolex attaches to intestine and adults are found in the small intestine.">
-<image mime-type="image/jpeg" src="../../media/OSC_Microbio_05_02_tapewormLC-58e4.jpg"/>
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_05_02_tapewormLC.jpg"/>
 </media>
 <caption>Life cycle of a tapeworm. (credit “illustration”: modification of work by Centers for Disease Control and Prevention; credit “step 3 micrographs”: modification of work by American Society for Microbiology)</caption>
 </figure>
@@ -189,5 +189,5 @@
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 </document>

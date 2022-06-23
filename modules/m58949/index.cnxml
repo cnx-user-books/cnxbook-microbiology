@@ -1,4 +1,4 @@
-<document xmlns="http://cnx.rice.edu/cnxml" class="appendix">
+<document xmlns="http://cnx.rice.edu/cnxml">
 
 <title>Taxonomy of Clinically Relevant Microorganisms</title>
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
@@ -8,7 +8,7 @@
   <md:uuid>c7f8fe6b-50e6-49a3-84b1-13c90c9684b6</md:uuid>
 </metadata>
 
-<content class="appendix">
+<content>
 <section id="fs-id1167660217218">
 <title>Bacterial Pathogens</title>
 <para id="fs-id1167662501968">The following tables list the species, and some higher groups, of pathogenic Eubacteria mentioned in the text. The classification of Bacteria, one of the three domains of life, is in constant flux as relationships become clearer through sampling of genetic sequences. Many groups at all taxonomic levels still have an undetermined relationship with other members of the phylogenetic tree of Bacteria. <emphasis effect="italics">Bergey’s Manual of Systematics of Archaea and Bacteria</emphasis> maintains a published list and descriptions of prokaryotic species. The tables here follow the taxonomic organization in the <emphasis effect="italics">Bergey’s Manual</emphasis> Taxonomic Outline.<footnote id="fs-id1167662773138">Bergey’s Manual Trust. <emphasis effect="italics">Bergey’s Manual of Systematics of Archaea and Bacteria, Taxonomic Outline</emphasis>. 2012. http://www.bergeys.org/outlines.html</footnote></para>
@@ -1076,5 +1076,5 @@
 </tgroup>
 </table>
 </section>
- </content>
+</content>
 </document>

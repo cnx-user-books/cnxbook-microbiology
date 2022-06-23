@@ -10,7 +10,7 @@
 
 <content>
 <section id="fs-id1167660674281" class="learning-objectives">
-<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<title>Learning Objectives</title>
 <list id="fs-id1167662570832">
 <item>Describe the entities involved in international public health and their activities</item>
 <item>Identify and differentiate between emerging and reemerging infectious diseases</item>
@@ -114,17 +114,13 @@
 <note id="fs-id1167660178916" class="microbiology micro-connection">
 <title>SARS Outbreak and Identification</title>
 <para id="fs-id1167662425626">On November 16, 2002, the first case of a <term class="no-emphasis">SARS</term> outbreak was reported in Guangdong Province, China. The patient exhibited influenza-like symptoms such as fever, cough, myalgia, sore throat, and shortness of breath. As the number of cases grew, the Chinese government was reluctant to openly communicate information about the epidemic with the World Health Organization (WHO) and the international community. The slow reaction of Chinese public health officials to this new disease contributed to the spread of the epidemic within and later outside China. In April 2003, the Chinese government finally responded with a huge public health effort involving quarantines, medical checkpoints, and massive cleaning projects. Over 18,000 people were quarantined in Beijing alone. Large funding initiatives were created to improve health-care facilities, and dedicated outbreak teams were created to coordinate the response. By August 16, 2003, the last SARS patients were released from a hospital in Beijing nine months after the first case was reported in China.</para>
-<para id="fs-id1167662472077">In the meantime, SARS spread to other countries on its way to becoming a global <term class="no-emphasis">pandemic</term>. Though the infectious agent had yet to be identified, it was thought to be an influenza virus. The disease was named SARS, an acronym for severe acute respiratory syndrome, until the etiologic agent could be identified. Travel restrictions to Southeast Asia were enforced by many countries. By the end of the outbreak, there were 8,098 cases and 774 deaths worldwide. China and Hong Kong were hit hardest by the epidemic, but Taiwan, Singapore, and Toronto, Canada, also saw significant numbers of <link target-id="sarsjpg">cases</link>.</para><para id="fs-id1167658400561">Fortunately, timely public health responses in many countries effectively suppressed the outbreak and led to its eventual containment. For example, the disease was introduced to Canada in February 2003 by an infected traveler from Hong Kong, who died shortly after being hospitalized. By the end of March, hospital isolation and home quarantine procedures were in place in the Toronto area, stringent anti-infection protocols were introduced in hospitals, and the media were actively reporting on the disease. Public health officials tracked down contacts of infected individuals and quarantined them. A total of 25,000 individuals were quarantined in the city. Thanks to the vigorous response of the Canadian public health community, SARS was brought under control in Toronto by June, a mere four months after it was introduced.</para>
+<para id="fs-id1167662472077">In the meantime, SARS spread to other countries on its way to becoming a global <term class="no-emphasis">pandemic</term>. Though the infectious agent had yet to be identified, it was thought to be an influenza virus. The disease was named SARS, an acronym for severe acute respiratory syndrome, until the etiologic agent could be identified. Travel restrictions to Southeast Asia were enforced by many countries. By the end of the outbreak, there were 8,098 cases and 774 deaths worldwide. China and Hong Kong were hit hardest by the epidemic, but Taiwan, Singapore, and Toronto, Canada, also saw significant numbers of cases.</para><para id="fs-id1167658400561">Fortunately, timely public health responses in many countries effectively suppressed the outbreak and led to its eventual containment. For example, the disease was introduced to Canada in February 2003 by an infected traveler from Hong Kong, who died shortly after being hospitalized. By the end of March, hospital isolation and home quarantine procedures were in place in the Toronto area, stringent anti-infection protocols were introduced in hospitals, and the media were actively reporting on the disease. Public health officials tracked down contacts of infected individuals and quarantined them. A total of 25,000 individuals were quarantined in the city. Thanks to the vigorous response of the Canadian public health community, SARS was brought under control in Toronto by June, a mere four months after it was introduced.</para>
 <para id="fs-id1167662462061">In 2003, WHO established a collaborative effort to identify the causative agent of SARS, which has now been identified as a <term class="no-emphasis">coronavirus</term> that was associated with horseshoe bats. The genome of the SARS virus was sequenced and published by researchers at the CDC and in Canada in May 2003, and in the same month researchers in the Netherlands confirmed the etiology of the disease by fulfilling Koch’s postulates for the SARS coronavirus. The last known case of SARS worldwide was reported in 2004.</para>
-<figure id="sarsjpg">
-<media id="sarsimg" alt="This map shows the spread of SARS as of March 28, 2003. Ireland had 1 case, Canada had 29 cases, the United States had 1 case, Hong Kong had 195 cases, Singapore had 71 cases, and Vietnam has 58 cases."><image mime-type="image/jpg" src="../../media/OSC_Microbio_16_04_SARS.jpg"/></media>
-<caption>This map shows the spread of SARS as of March 28, 2003. (credit: modification of work by Central Intelligence Agency)
-</caption>
-
-</figure>
 </note>
 <note id="fs-id1167662794706" class="microbiology link-to-learning">
-
+<media id="fs-id1167660185734" alt="Link to learning graphic">
+<image mime-type="image/jpeg" src="../../media/CNX_Interactive_200DPI.png"/>
+</media>
 <para id="fs-id1167662494496">This <link url="https://openstax.org/l/22dataoutinfdis">database</link> of reports chronicles outbreaks of infectious disease around the world. It was on this system that the first information about the SARS outbreak in China emerged.</para>
 <para id="fs-id1167658078456">The CDC publishes <emphasis effect="italics"><link url="https://openstax.org/l/22CDCEmerinfdis">Emerging Infectious Diseases</link></emphasis>, a monthly journal available online.</para>
 </note>
@@ -214,6 +210,6 @@
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 
 </document>

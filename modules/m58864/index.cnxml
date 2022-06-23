@@ -10,7 +10,7 @@
 
 <content>
 <section id="fs-id1167663662208" class="learning-objectives">
-<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<title>Learning Objectives</title>
 <list id="fs-id1167661553185">
 <item>Describe how the Kirby-Bauer disk diffusion test determines the susceptibility of a microbe to an antibacterial drug.</item>
 <item>Explain the significance of the minimal inhibitory concentration and the minimal bactericidal concentration relative to the effectiveness of an antimicrobial drug.</item>
@@ -32,7 +32,9 @@
 <para id="fs-id1167663900541">Recently, studies have shown that antibiograms are useful tools in the decision-making process of selecting appropriate empiric therapy. An <term>antibiogram</term> is a compilation of local antibiotic susceptibility data broken down by bacterial pathogen. In a November 2014 study published in the journal <emphasis effect="italics">Infection Control and Hospital Epidemiology</emphasis>, researchers determined that 85% of the prescriptions ordered in skilled nursing facilities were decided upon empirically, but only 35% of those prescriptions were deemed appropriate when compared with the eventual pathogen identification and susceptibility profile obtained from the clinical laboratory. However, in one nursing facility where use of antibiograms was implemented to direct selection of empiric therapy, appropriateness of empiric therapy increased from 32% before antibiogram implementation to 45% after implementation of antibiograms.<footnote id="fs-id1167663573727">J.P. Furuno et al. “Using Antibiograms to Improve Antibiotic Prescribing in Skilled Nursing Facilities.” <emphasis effect="italics">Infection Control and Hospital Epidemiology</emphasis> 35 no. Suppl S3 (2014):S56–61.</footnote> Although these data are preliminary, they do suggest that health-care facilities can reduce the number of inappropriate prescriptions by using antibiograms to select empiric therapy, thus benefiting patients and minimizing opportunities for antimicrobial resistance to develop.</para>
 </note>
 <note id="fs-id1167661440368" class="microbiology link-to-learning">
-
+<media id="fs-id1167661256805" alt="Link to learning graphic">
+<image mime-type="image/jpeg" src="../../media/CNX_Interactive_200DPI.png"/>
+</media>
 <para id="fs-id1167661399500">Visit this website to view an <link url="https://openstax.org/l/22StanUnintanti">interactive antibiogram</link> provided by Stanford University.</para>
 </note>
 </section>
@@ -169,5 +171,5 @@
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 </document>
