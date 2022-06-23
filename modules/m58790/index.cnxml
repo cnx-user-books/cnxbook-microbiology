@@ -10,13 +10,13 @@
 
 <content>
 <section id="fs-id1172100850965" class="learning-objectives">
-<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<title>Learning Objectives</title>
 <list id="fs-id1172100972301">
 <item>Explain the theory of spontaneous generation and why people once accepted it as an explanation for the existence of certain types of organisms</item>
 <item>Explain how certain individuals (van Helmont, Redi, Needham, Spallanzani, and Pasteur) tried to prove or disprove spontaneous generation</item>
 </list>
 </section>
-<note id="fs-id1172100625585" class="microbiology clinical-focus">
+<note id="fs-id1172100625585" class="microbiology clinical-focus-opener">
 <title>Part 1</title>
 <para id="fs-id1172100576735">Barbara is a 19-year-old college student living in the dormitory. In January, she came down with a sore throat, headache, mild fever, chills, and a violent but unproductive (i.e., no mucus) cough. To treat these symptoms, Barbara began taking an over-the-counter cold medication, which did not seem to work. In fact, over the next few days, while some of Barbara’s symptoms began to resolve, her cough and fever persisted, and she felt very tired and weak.</para>
 <list id="fs-id1172100835578" list-type="bulleted" bullet-style="bullet">
@@ -57,7 +57,7 @@
 <para id="fs-id1172100911791">Later, Pasteur made a series of flasks with long, twisted necks (“swan-neck” flasks), in which he boiled broth to sterilize it (<link target-id="OSC_Microbio_03_01_Pasteur"/>). His design allowed air inside the flasks to be exchanged with air from the outside, but prevented the introduction of any airborne microorganisms, which would get caught in the twists and bends of the flasks’ necks. If a life force besides the airborne microorganisms were responsible for microbial growth within the sterilized flasks, it would have access to the broth, whereas the microorganisms would not. He correctly predicted that sterilized broth in his swan-neck flasks would remain sterile as long as the swan necks remained intact. However, should the necks be broken, microorganisms would be introduced, contaminating the flasks and allowing microbial growth within the broth.</para>
 <para id="fs-id1172100979964">Pasteur’s set of experiments irrefutably disproved the theory of spontaneous generation and earned him the prestigious Alhumbert Prize from the Paris Academy of Sciences in 1862. In a subsequent lecture in 1864, Pasteur articulated “<emphasis effect="italics">Omne vivum ex vivo</emphasis>” (“Life only comes from life”). In this lecture, Pasteur recounted his famous swan-neck flask experiment, stating that “…life is a germ and a germ is life. Never will the doctrine of spontaneous generation recover from the mortal blow of this simple experiment.”<footnote id="fs-id1172100623992">R. Vallery-Radot. <emphasis effect="italics">The Life of Pasteur</emphasis>, trans. R.L. Devonshire. New York: McClure, Phillips and Co, 1902, 1:142.</footnote> To Pasteur’s credit, it never has.</para>
 <figure id="OSC_Microbio_03_01_Pasteur">
-<media id="fs-id1172100989931" alt="a) Photo of Louis Pasteur b) Photo of Pasteur’s flask – a round flask that is only opened to the outside through a long S-shaped tube. c) A drawing of Pasteur’s experiment. The top diagram shows the swan-neck flask from (b) containing broth that is being boiled to kill microorganisms in the broth. Dust, particles, and bacteria settle in the bend of the flask. After the boiling process the cooled flask remains sterile because the curve of the bend of the flask prevents bacteria and particles in air from entering the main reservoir and contaminating the broth. So, no contamination occurs. The bottom diagram shows the same flask being boiled. Next, the swan-neck is removed and the flask is opened to the environment. When the neck of the flask is broken off, bacteria reach the sterile broth and organism growth occurs. This is seen as cloudiness in the broth.">
+<media id="fs-id1172100989931" alt="a) Photo of Louis Pasteur b) Photo of Pasteur’s flask – a round flask that is only opened to the outside through a long S-shaped tube. c) A drawing of Pasteur’s experiment. The top diagram shows the swan-neck flask from (b) containing broth that is being boiled to kill microorganisms in the broth. After the boiling process the cooled flask remains sterile because the curve of the flask prevents outside air from entering the flask. So, no contamination occurs. The bottom diagram shows the same flask being boiled. Next, the swan-neck is removed and the flask is opened to the environment. When the neck of the flask is broken off, bacteria reach the sterile broth and organism growth occurs. This is seen as cloudiness in the broth.">
 <image mime-type="image/jpeg" src="../../media/OSC_Microbio_03_01_Pasteur.jpg"/>
 </media>
 <caption>(a) French scientist Louis Pasteur, who definitively refuted the long-disputed theory of spontaneous generation. (b) The unique swan-neck feature of the flasks used in Pasteur’s experiment allowed air to enter the flask but prevented the entry of bacterial and fungal spores. (c) Pasteur’s experiment consisted of two parts. In the first part, the broth in the flask was boiled to sterilize it. When this broth was cooled, it remained free of contamination. In the second part of the experiment, the flask was boiled and then the neck was broken off. The broth in this flask became contaminated. (credit b: modification of work by “Wellcome Images”/Wikimedia Commons)</caption>
@@ -163,5 +163,5 @@
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 </document>

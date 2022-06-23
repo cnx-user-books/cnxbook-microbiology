@@ -10,7 +10,7 @@
 
 <content>
 <section id="fs-id1167662472323" class="learning-objectives">
-<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<title>Learning Objectives</title>
 <list id="fs-id1167662570135">
 <item>Define and describe the importance of microorganisms in the biogeochemical cycles of carbon, nitrogen, and sulfur</item>
 <item>Define and give an example of bioremediation</item>
@@ -45,7 +45,7 @@
 
 <caption>This figure summarizes the nitrogen cycle. Note that specific groups of prokaryotes each participate in every step in the cycle. (credit: modification of work by NOAA)</caption></figure><note id="fs-id1167660292209" class="microbiology check-your-understanding">
 <list id="fs-id1167659405491" list-type="bulleted" bullet-style="bullet">
-<item>What are the four steps of the nitrogen cycle?</item>
+<item>What are the three steps of the nitrogen cycle?</item>
 </list>
 </note>
 <note id="fs-id1167660253596" class="microbiology link-to-learning">
@@ -219,5 +219,5 @@
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 </document>

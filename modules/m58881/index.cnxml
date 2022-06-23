@@ -10,7 +10,7 @@
 
 <content>
 <section id="fs-id1172098522481" class="learning-objectives">
-<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<title>Learning Objectives</title>
 <list id="fs-id1172098617045">
 <item>Identify the signs of inflammation and fever and explain why they occur</item>
 <item>Explain the advantages and risks posed by inflammatory responses</item>
@@ -31,7 +31,7 @@
 <section id="fs-id1172096170123">
 <title>Chronic Inflammation</title>
 <para id="fs-id1172100743755">When acute inflammation is unable to clear an infectious pathogen, <term class="no-emphasis">chronic inflammation</term> may occur. This often results in an ongoing (and sometimes futile) lower-level battle between the host organism and the pathogen. The wounded area may heal at a superficial level, but pathogens may still be present in deeper tissues, stimulating ongoing inflammation. Additionally, chronic inflammation may be involved in the progression of degenerative neurological diseases such as Alzheimer’s and Parkinson’s, heart disease, and metastatic cancer.</para>
-<para id="fs-id1172101036716">Chronic inflammation may lead to the formation of <term>granuloma</term><emphasis effect="bold">s</emphasis>, pockets of infected tissue walled off and surrounded by WBCs. Macrophages and other phagocytes wage an unsuccessful battle to eliminate the pathogens and dead cellular materials within a granuloma. One example of a disease that produces chronic inflammation is <term class="no-emphasis">tuberculosis</term>, which results in the formation of granulomas in lung tissues. A tubercular granuloma is called a tubercle (<link target-id="OSC_Microbio_17_06_Granuloma"/>). Tuberculosis will be covered in more detail in <link document="m58913">Bacterial Infections of the Respiratory Tract</link>.</para>
+<para id="fs-id1172101036716">Chronic inflammation may lead to the formation of <term>granuloma</term><emphasis effect="bold">s</emphasis>, pockets of infected tissue walled off and surrounded by WBCs. Macrophages and other phagocytes wage an unsuccessful battle to eliminate the pathogens and dead cellular materials within a granuloma. One example of a disease that produces chronic inflammation is <term class="no-emphasis">tuberculosis</term>, which results in the formation of granulomas in lung tissues. A tubercular granuloma is called a tubercle (<link target-id="OSC_Microbio_17_06_Granuloma"/>). Tuberculosis will be covered in more detail in <link class="target-chapter" document="m58913">Bacterial Infections of the Respiratory Tract</link>.</para>
 <para id="fs-id1172100985194">Chronic inflammation is not just associated with bacterial infections. Chronic inflammation can be an important cause of tissue damage from viral infections. The extensive scarring observed with hepatitis C infections and liver cirrhosis is the result of chronic inflammation.</para>
 <figure id="OSC_Microbio_17_06_Granuloma">
 <media id="fs-id1172098775811" alt="A micrograph of a tubercle which consists of many darkly staining cells that form a circular structure.">
@@ -174,6 +174,6 @@
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 
 </document>
