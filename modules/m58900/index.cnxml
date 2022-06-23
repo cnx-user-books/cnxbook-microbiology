@@ -10,13 +10,13 @@
 
 <content>
 <section id="fs-id1167662427683" class="learning-objectives">
-<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<title>Learning Objectives</title>
 <list id="fs-id1167662495074">
 <item>Compare the method of development, use, and characteristics of monoclonal and polyclonal antibodies</item>
 <item>Explain the nature of antibody cross-reactivity and why this is less of a problem with monoclonal antibodies</item>
 </list>
 </section>
-<note id="fs-id1167662756934" class="microbiology clinical-focus">
+<note id="fs-id1167662756934" class="microbiology clinical-focus-opener">
 <title>Part 1</title>
 <para id="fs-id1167662506383">In an unfortunate incident, a healthcare worker struggling with addiction was caught stealing syringes of painkillers and replacing them with syringes filled with unknown substances. The hospital immediately fired the employee and had him arrested; however, two patients that he had worked with later tested positive for HIV.</para>
 <para id="fs-id1167662746794">While there was no proof that the infections originated from the tainted syringes, the hospital’s public health physician took immediate steps to determine whether any other patients had been put at risk. Although the worker had only been employed for a short time, it was determined that he had come into contact with more than 1300 patients. The hospital decided to contact all of these patients and have them tested for HIV.</para>
@@ -226,6 +226,6 @@
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 
 </document>

@@ -10,7 +10,7 @@
 
 <content>
 <section id="fs-id1167663885045" class="learning-objectives">
-<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<title>Learning Objectives</title>
 <list id="fs-id1167663970659">
 <item>Explain the concept of drug resistance</item>
 <item>Describe how microorganisms develop or acquire drug resistance</item>
@@ -18,7 +18,7 @@
 </list>
 </section>
 <para id="fs-id1167659067625">Antimicrobial resistance is not a new phenomenon. In nature, microbes are constantly evolving in order to overcome the antimicrobial compounds produced by other microorganisms. Human development of antimicrobial drugs and their widespread clinical use has simply provided another selective pressure that promotes further evolution. Several important factors can accelerate the evolution of <term>drug resistance</term>. These include the overuse and misuse of antimicrobials, inappropriate use of antimicrobials, subtherapeutic dosing, and patient noncompliance with the recommended course of treatment.</para>
-<para id="fs-id1167663588468">Exposure of a pathogen to an antimicrobial compound can select for chromosomal mutations conferring resistance, which can be transferred vertically to subsequent microbial generations and eventually become predominant in a microbial population that is repeatedly exposed to the antimicrobial. Alternatively, many genes responsible for drug resistance are found on <term class="no-emphasis">plasmids</term> or in <term class="no-emphasis">transposons</term> that can be transferred easily between microbes through <term class="no-emphasis">horizontal gene transfer</term> (see <link document="m58845">How Asexual Prokaryotes Achieve Genetic Diversity</link>). Transposons also have the ability to move resistance genes between plasmids and chromosomes to further promote the spread of resistance.</para>
+<para id="fs-id1167663588468">Exposure of a pathogen to an antimicrobial compound can select for chromosomal mutations conferring resistance, which can be transferred vertically to subsequent microbial generations and eventually become predominant in a microbial population that is repeatedly exposed to the antimicrobial. Alternatively, many genes responsible for drug resistance are found on <term class="no-emphasis">plasmids</term> or in <term class="no-emphasis">transposons</term> that can be transferred easily between microbes through <term class="no-emphasis">horizontal gene transfer</term> (see <link class="target-chapter" document="m58845">How Asexual Prokaryotes Achieve Genetic Diversity</link>). Transposons also have the ability to move resistance genes between plasmids and chromosomes to further promote the spread of resistance.</para>
 <section id="fs-id1167663662186">
 <title>Mechanisms for Drug Resistance</title>
 <para id="fs-id1167661430578">There are several common mechanisms for drug resistance, which are summarized in <link target-id="OSC_Microbio_14_06_Resistance"/>. These mechanisms include enzymatic modification of the drug, modification of the antimicrobial target, and prevention of drug penetration or accumulation.</para>
@@ -54,9 +54,7 @@
 </section>
 <section id="fs-id1167663484536">
 <title>Target Mimicry</title>
-<para id="fs-id1167661354437">
-A recently discovered mechanism of resistance called <term class="no-emphasis">target mimicry</term> involves the production of proteins that prevent drugs from binding to their bacterial cellular targets. For example, <emphasis effect="italics">fluoroquinolone</emphasis> resistance by <term class="no-emphasis"><emphasis effect="italics">Mycobacterium tuberculosis</emphasis></term> can involve the production of a protein that resembles DNA. This protein is called MfpA (Mycobacterium fluoroquinolone resistance protein A). The mimicry of DNA by MfpA results in DNA gyrase binding to MfpA, preventing the binding of fluoroquinolones to DNA gyrase.
-</para>
+<para id="fs-id1167661354437">A recently discovered mechanism of resistance called <term class="no-emphasis">target mimicry</term> involves the production of proteins that bind and sequester drugs, preventing the drugs from binding to their target. For example, <term class="no-emphasis"><emphasis effect="italics">Mycobacterium tuberculosis</emphasis></term> produces a protein with regular pentapeptide repeats that appears to mimic the structure of DNA. This protein binds <term class="no-emphasis">fluoroquinolones</term>, sequestering them and keeping them from binding to DNA, providing <emphasis effect="italics">M. tuberculosis</emphasis> resistance to fluoroquinolones. Proteins that mimic the A-site of the bacterial ribosome have been found to contribute to <term class="no-emphasis">aminoglycoside resistance</term> as well.<footnote id="fs-id1167663648123">D.H. Fong, A.M. Berghuis. “Substrate Promiscuity of an Aminoglycoside Antibiotic Resistance Enzyme Via Target Mimicry.” <emphasis effect="italics">EMBO Journal</emphasis> 21 no. 10 (2002):2323–2331.</footnote></para>
 <note id="fs-id1167663608436" class="microbiology check-your-understanding">
 <list id="fs-id1167659072331" list-type="bulleted" bullet-style="bullet">
 <item>List several mechanisms for drug resistance.</item>
@@ -211,5 +209,5 @@ A recently discovered mechanism of resistance called <term class="no-emphasis">t
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 </document>

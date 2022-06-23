@@ -10,7 +10,7 @@
 
 <content>
 <section id="fs-id1172100578072" class="learning-objectives">
-<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<title>Learning Objectives</title>
 <list id="fs-id1172100986629">
 <item>Describe the unique features of nonproteobacteria gram-negative bacteria</item>
 <item>Give an example of a nonproteobacteria bacterium in each category</item>
@@ -18,12 +18,8 @@
 <item>Identify phototrophic bacteria</item>
 </list>
 </section>
-<para id="fs-id1172100999839">The majority of the gram-negative bacteria belong to the phylum Proteobacteria, discussed in the previous section. Those that do not are called the <term class="no-emphasis">nonproteobacteria</term>. In this section, we will describe four classes of gram-negative nonproteobacteria: <emphasis effect="italics">Chlamydia</emphasis>, the spirochetes, the CFB group, and the Planctomycetes. A diverse group of phototrophic bacteria that includes Proteobacteria and nonproteobacteria will be discussed at the end of this section.</para><section id="eip-510"><title>Chlamydia</title><para id="eip-908">
-<emphasis effect="italics">Chlamydia</emphasis> is another taxon of the Alphaproteobacteria. Members of this genus are gram-negative, obligate intracellular pathogens that are extremely resistant to the cellular defenses, giving them the ability to spread from host to host rapidly via elementary bodies. The metabolically and reproductively inactive <term>elementary bodies</term> are the endospore-like form of intracellular bacteria that enter an epithelial cell, where they become active. <link target-id="OSC_Microbio_04_02_Chlamydia"/> illustrates the life cycle of <emphasis effect="italics">Chlamydia</emphasis>.
-</para><para id="eip-157"><figure id="OSC_Microbio_04_02_Chlamydia"><media id="fs-id1172100769678" alt="A diagram showing the life cycle of Chlamydia. An epithelial cell is infected by small spheres labeldd elementary bodies. Within 12 hours, these form into reticulate bodies which divide  to form inclusions within 24 hours. Within the inclusions more elementary bodies are formed and within 72 hours these are released when the cell ruptures.">
-<image mime-type="image/jpeg" src="../../media/OSC_Microbio_04_02_Chlamydia.jpg"/>
-</media>
-<caption><emphasis effect="italics">Chlamydia</emphasis> begins infection of a host when the metabolically inactive elementary bodies enter an epithelial cell. Once inside the host cell, the elementary bodies turn into active reticulate bodies. The reticulate bodies multiply and release more elementary bodies when the cell dies after the <emphasis effect="italics">Chlamydia</emphasis> uses all of the host cell’s ATP. (credit: modification of work by Centers for Disease Control and Prevention)</caption></figure></para></section><section id="fs-id1172100989404">
+<para id="fs-id1172100999839">The majority of the gram-negative bacteria belong to the phylum Proteobacteria, discussed in the previous section. Those that do not are called the <term class="no-emphasis">nonproteobacteria</term>. In this section, we will describe three classes of gram-negative nonproteobacteria: the spirochetes, the <term class="no-emphasis">CFB group</term>, and the <term class="no-emphasis">Planctomycetes</term>. A diverse group of phototrophic bacteria that includes Proteobacteria and nonproteobacteria will be discussed at the end of this section.</para>
+<section id="fs-id1172100989404">
 <title>Spirochetes</title>
 <para id="fs-id1172100727135">Spirochetes are characterized by their long (up to 250 μm), spiral-shaped bodies. Most <term>spirochetes</term> are also very thin, which makes it difficult to examine gram-stained preparations under a conventional brightfield microscope. Darkfield fluorescent microscopy is typically used instead. Spirochetes are also difficult or even impossible to culture. They are highly motile, using their axial filament to propel themselves. The <term class="no-emphasis">axial filament</term> is similar to a flagellum, but it wraps around the cell and runs inside the cell body of a spirochete in the periplasmic space between the outer membrane and the plasma membrane (<link target-id="OSC_Microbio_04_03_spirochete"/>).</para>
 <figure id="OSC_Microbio_04_03_spirochete">
@@ -82,11 +78,6 @@
 </row>
 </thead>
 <tbody>
-  <row valign="top">
-    <entry valign="top" align="left"><term class="no-emphasis"><emphasis effect="italics">Chlamydia</emphasis></term></entry>
-    <entry valign="top" align="left">Gram-negative, coccoid or ovoid bacterium</entry>
-    <entry valign="top" align="left">Obligatory intracellular bacteria; some cause chlamydia, trachoma, and pneumonia</entry>
-  </row>
 <row valign="top">
 <entry valign="top" align="left"><term class="no-emphasis"><emphasis effect="italics">Bacteroides</emphasis></term></entry>
 <entry valign="top" align="left">Gram-negative bacillus</entry>
@@ -117,9 +108,7 @@
 <entry valign="top" align="left">Gram-negative-like spirochete; very thin; better viewed by darkfield microscopy</entry>
 <entry valign="top" align="left">Motile; do not grow in culture; <emphasis effect="italics">T. pallidum</emphasis> (subspecies <emphasis effect="italics">T. pallidum pallidum</emphasis>) causes syphilis</entry>
 </row>
-
 </tbody>
-
 
 </tgroup>
 </table><note id="fs-id1172100648509" class="microbiology check-your-understanding">
@@ -234,7 +223,7 @@
 <section id="fs-id1172100640319" class="summary">
 <title>Key Concepts and Summary</title>
 <list id="fs-id1172098311422" list-type="bulleted" bullet-style="bullet">
-<item>Gram-negative nonproteobacteria include the taxa <emphasis effect="bold">spirochetes</emphasis>; the <emphasis effect="italics">Chlamydia</emphasis>, <emphasis effect="italics">Cytophaga</emphasis>, <emphasis effect="italics">Fusobacterium</emphasis>, <emphasis effect="italics">Bacteroides</emphasis> group; Planctomycetes; and many representatives of <emphasis effect="bold">phototrophic bacteria.</emphasis></item>
+<item>Gram-negative nonproteobacteria include the taxa <emphasis effect="bold">spirochetes</emphasis>; the <emphasis effect="italics">Cytophaga</emphasis>, <emphasis effect="italics">Fusobacterium</emphasis>, <emphasis effect="italics">Bacteroides</emphasis> group; Planctomycetes; and many representatives of <emphasis effect="bold">phototrophic bacteria.</emphasis></item>
 <item>Spirochetes are motile, spiral bacteria with a long, narrow body; they are difficult or impossible to culture.</item>
 <item>Several genera of spirochetes contain human pathogens that cause such diseases as syphilis and Lyme disease.</item>
 <item><emphasis effect="italics">Cytophaga</emphasis>, <emphasis effect="italics">Fusobacterium</emphasis>, and <emphasis effect="italics">Bacteroides</emphasis> are classified together as a phylum called the <emphasis effect="bold">CFB group</emphasis>. They are rod-shaped anaerobic organoheterotrophs and avid fermenters. <emphasis effect="italics">Cytophaga</emphasis> are aquatic bacteria with the gliding motility. <emphasis effect="italics">Fusobacteria</emphasis> inhabit the human mouth and may cause severe infectious diseases. <emphasis effect="italics">Bacteroides</emphasis> are present in vast numbers in the human gut, most of them being mutualistic but some are pathogenic.</item>
@@ -327,5 +316,5 @@
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 </document>

@@ -10,14 +10,14 @@
 
 <content>
 <section id="fs-id1172101792451" class="learning-objectives">
-<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<title>Learning Objectives</title>
 <list id="fs-id1172099753340">
 <item>Illustrate and briefly describe minimum, optimum, and maximum pH requirements for growth</item>
 <item>Identify and describe the different categories of microbes with pH requirements for growth: acidophiles, neutrophiles, and alkaliphiles</item>
 <item>Give examples of microorganisms for each category of pH requirement</item>
 </list>
 </section>
-<para id="fs-id1172099577397">Yogurt, pickles, sauerkraut, and lime-seasoned dishes all owe their tangy taste to a high acid content (<link target-id="OSC_Microbio_09_03_yogurt"/>). Recall that acidity is a function of the concentration of hydrogen ions [H<sup>+</sup>] and is measured as pH. Environments with pH values below 7.0 are considered acidic, whereas those with pH values above 7.0 are considered basic. Extreme pH affects the structure of all macromolecules. The hydrogen bonds holding together strands of DNA break up at high pH. Lipids are hydrolyzed by an extremely basic pH. The proton motive force responsible for production of ATP in cellular respiration depends on the concentration gradient of H<sup>+</sup> across the plasma membrane (see <link document="m58821">Cellular Respiration</link>). If H<sup>+</sup> ions are neutralized by hydroxide ions, the concentration gradient collapses and impairs energy production. But the component most sensitive to pH in the cell is its workhorse, the protein. Moderate changes in pH modify the ionization of amino-acid functional groups and disrupt hydrogen bonding, which, in turn, promotes changes in the folding of the molecule, promoting denaturation and destroying activity.</para>
+<para id="fs-id1172099577397">Yogurt, pickles, sauerkraut, and lime-seasoned dishes all owe their tangy taste to a high acid content (<link target-id="OSC_Microbio_09_03_yogurt"/>). Recall that acidity is a function of the concentration of hydrogen ions [H<sup>+</sup>] and is measured as pH. Environments with pH values below 7.0 are considered acidic, whereas those with pH values above 7.0 are considered basic. Extreme pH affects the structure of all macromolecules. The hydrogen bonds holding together strands of DNA break up at high pH. Lipids are hydrolyzed by an extremely basic pH. The proton motive force responsible for production of ATP in cellular respiration depends on the concentration gradient of H<sup>+</sup> across the plasma membrane (see <link class="target-chapter" document="m58821">Cellular Respiration</link>). If H<sup>+</sup> ions are neutralized by hydroxide ions, the concentration gradient collapses and impairs energy production. But the component most sensitive to pH in the cell is its workhorse, the protein. Moderate changes in pH modify the ionization of amino-acid functional groups and disrupt hydrogen bonding, which, in turn, promotes changes in the folding of the molecule, promoting denaturation and destroying activity.</para>
 <figure id="OSC_Microbio_09_03_yogurt">
 <media id="fs-id1172102071160" alt="Photo of yogurt and strawberries. Photo of pickes in home canning jars. Photo of sauerkraut. Photo of pico de gallo.">
 <image mime-type="image/jpeg" src="../../media/OSC_Microbio_09_03_yogurt.jpg"/>
@@ -145,5 +145,5 @@
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 </document>

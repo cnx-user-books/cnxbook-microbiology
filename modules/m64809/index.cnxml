@@ -1,0 +1,84 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Fungal virulence</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m64809</md:content-id>
+  <md:title>Fungal virulence</md:title>
+  <md:abstract/>
+  <md:uuid>817062df-1092-4780-9f9f-69111c767105</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id1167583730738">Although fungi and parasites are important pathogens causing infectious diseases, their pathogenic mechanisms and virulence factors are not as well characterized as those of bacteria. Despite the relative lack of detailed mechanisms, the stages of pathogenesis and general mechanisms of virulence involved in disease production by these pathogens are similar to those of bacteria.</para>
+<section id="fs-id1167583832130">
+<title>Fungal Virulence</title>
+<para id="fs-id1167584986872">Pathogenic fungi can produce virulence factors that are similar to the bacterial virulence factors that have been discussed earlier in this chapter. In this section, we will look at the virulence factors associated with species of <emphasis effect="italics">Candida</emphasis>, <emphasis effect="italics">Cryptococcus, Claviceps,</emphasis> and <emphasis effect="italics">Aspergillus</emphasis>.</para>
+<para id="fs-id1167584696103"><term class="no-emphasis"><emphasis effect="italics">Candida albicans</emphasis></term> is an opportunistic fungal pathogen and causative agent of oral thrush, vaginal yeast infections, and cutaneous candidiasis. <emphasis effect="italics">Candida</emphasis> produces adhesins (surface glycoproteins) that bind to the phospholipids of epithelial and endothelial cells. To assist in spread and tissue invasion, <emphasis effect="italics">Candida</emphasis> produces proteases and phospholipases (i.e., exoenzymes). One of these proteases degrades keratin, a structural protein found on epithelial cells, enhancing the ability of the fungus to invade host tissue. In animal studies, it has been shown that the addition of a protease inhibitor led to attenuation of <emphasis effect="italics">Candida</emphasis> infection.<footnote id="fs-id1167585106858">K. Fallon et al. “Role of Aspartic Proteases in Disseminated <emphasis effect="italics">Candida albicans</emphasis> Infection in Mice.” <emphasis effect="italics">Infection and Immunity</emphasis> 65 no. 2 (1997):551–556.</footnote> Similarly, the phospholipases can affect the integrity of host cell membranes to facilitate invasion.</para>
+<para id="fs-id1167583568975">The main virulence factor for <term class="no-emphasis"><emphasis effect="italics">Cryptococcus</emphasis></term>, a fungus that causes pneumonia and meningitis, is capsule production. The polysaccharide glucuronoxylomannan is the principal constituent of the <emphasis effect="italics">Cryptococcus</emphasis> capsule. Similar to encapsulated bacterial cells, encapsulated <emphasis effect="italics">Cryptococcus</emphasis> cells are more resistant to phagocytosis than nonencapsulated <emphasis effect="italics">Cryptococcus</emphasis>, which are effectively phagocytosed and, therefore, less virulent.</para>
+<para id="fs-id1167585106906">Like some bacteria, many fungi produce exotoxins. Fungal toxins are called <term>mycotoxin</term><emphasis effect="bold">s</emphasis>. <emphasis effect="italics">Claviceps purpurea</emphasis>, a fungus that grows on rye and related grains, produces a mycotoxin called ergot toxin, an alkaloid responsible for the disease known as <term class="no-emphasis">ergotism</term>. There are two forms of ergotism: gangrenous and convulsive. In <term class="no-emphasis">gangrenous ergotism</term>, the ergot toxin causes vasoconstriction, resulting in improper blood flow to the extremities, eventually leading to gangrene. A famous outbreak of gangrenous ergotism occurred in Eastern Europe during the 5th century AD due to the consumption of rye contaminated with <emphasis effect="italics">C. purpurea</emphasis>. In <term class="no-emphasis">convulsive ergotism</term>, the toxin targets the central nervous system, causing mania and hallucinations.</para>
+<para id="fs-id1167585000206">The mycotoxin <term class="no-emphasis">aflatoxin</term> is a virulence factor produced by the fungus <term class="no-emphasis"><emphasis effect="italics">Aspergillus</emphasis></term>, an <term class="no-emphasis">opportunistic pathogen</term> that can enter the body via contaminated food or by inhalation. Inhalation of the fungus can lead to the chronic pulmonary disease <term class="no-emphasis">aspergillosis</term>, characterized by fever, bloody sputum, and/or asthma. Aflatoxin acts in the host as both a <term class="no-emphasis">mutagen</term> (a substance that causes mutations in DNA) and a <term>carcinogen</term> (a substance involved in causing cancer), and has been associated with the development of <term class="no-emphasis">liver cancer</term>. Aflatoxin has also been shown to cross the blood-placental barrier.<footnote id="fs-id1167583578402">C.P. Wild et al. “In-utero exposure to aflatoxin in west Africa.” <emphasis effect="italics">Lancet</emphasis> 337 no. 8757 (1991):1602.</footnote> A second mycotoxin produced by <emphasis effect="italics">Aspergillus</emphasis> is <term class="no-emphasis">gliotoxin</term>. This toxin promotes virulence by inducing host cells to self-destruct and by evading the host’s immune response by inhibiting the function of phagocytic cells as well as the pro-inflammatory response. Like <emphasis effect="italics">Candida</emphasis>, <emphasis effect="italics">Aspergillus</emphasis> also produces several proteases. One is <term class="no-emphasis">elastase</term>, which breaks down the protein elastin found in the connective tissue of the lung, leading to the development of lung disease. Another is <term class="no-emphasis">catalase</term>, an enzyme that protects the fungus from hydrogen peroxide produced by the immune system to destroy pathogens.</para>
+<note id="fs-id1167585021061" class="microbiology check-your-understanding">
+<list id="fs-id1167583710859" list-type="bulleted" bullet-style="bullet">
+<item>List virulence factors common to bacteria and fungi.</item>
+<item>What functions do mycotoxins perform to help fungi survive in the host?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167585136722" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1167585015466" list-type="bulleted" bullet-style="bullet"><item>Fungal and parasitic pathogens use pathogenic mechanisms and virulence factors that are similar to those of bacterial pathogens</item>
+<item>Fungi initiate infections through the interaction of adhesins with receptors on host cells. Some fungi produce toxins and exoenzymes involved in disease production and capsules that provide protection of phagocytosis.</item>
+
+</list></section>
+<section id="fs-id1167584893851" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1167584953385">
+<problem id="fs-id1167584857208">
+<para id="fs-id1167583551341">Which of the following is a major virulence factor for the fungal pathogen <emphasis effect="italics">Cryptococcus?</emphasis></para>
+<list id="fs-id1167585148384" list-type="enumerated" number-style="upper-alpha">
+<item>hemolysin</item>
+<item>capsule</item>
+<item>collagenase</item>
+<item>fimbriae</item>
+</list>
+</problem>
+<solution id="fs-id1167585016715">
+<para id="fs-id1167583567643">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167583620629">
+<problem id="fs-id1167584655662">
+<para id="fs-id1167583648213">Which of the following pathogens undergoes antigenic variation to avoid immune defenses?</para>
+<list id="fs-id1167583757985" list-type="enumerated" number-style="upper-alpha">
+<item><emphasis effect="italics">Candida</emphasis></item>
+<item><emphasis effect="italics">Cryptococcus</emphasis></item>
+<item><emphasis effect="italics">Plasmodium</emphasis></item>
+<item><emphasis effect="italics">Giardia</emphasis></item>
+</list>
+</problem>
+<solution id="fs-id1167584727589">
+<para id="fs-id1167585118202">C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167585065198" class="fill-in-the-blank">
+<title>Fill in the Blank</title>
+<exercise id="fs-id1167583625948">
+<problem id="fs-id1167583532067">
+<para id="fs-id1167584857108"><emphasis effect="italics">Candida</emphasis> can invade tissue by producing the exoenzymes __________ and __________.</para>
+</problem>
+<solution id="fs-id1167584897267">
+<para id="fs-id1167583640665">protease and phospholipase</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167583609920" class="short-answer">
+<title>Short Answer</title>
+<exercise id="fs-id1167583508510">
+<problem id="fs-id1167584822721">
+<para id="fs-id1167584997327">Describe the virulence factors associated with the fungal pathogen <emphasis effect="italics">Aspergillus.</emphasis></para>
+</problem>
+</exercise>
+</section>
+</content>
+</document>

@@ -1,0 +1,29 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Soy sauce</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m64900</md:content-id>
+  <md:title>Soy sauce</md:title>
+  <md:abstract/>
+  <md:uuid>041570f3-d38f-4806-bb6f-aa822fb8e2ae</md:uuid>
+</metadata>
+
+<content>
+    <para id="import-auto-idm767154192">Soy Sauce</para>
+    <para id="import-auto-idm607902672">Soy sauce is a popular condiment used in Asian cooking.  Although it may seem very simple and inexpensive, its production requires careful manipulation of microbes and a lot of patience.  Soy sauce is made by first combining soy beans and usually wheat or some other grain.  It is critical to understand that microbes in the first stage prepare the soy and wheat for microbial metabolism in the subsequent stage.  In the first stage known as koji (Figure 1), fungi including <emphasis effect="italics">Aspergillus oryzae</emphasis> is added to the soy beans and wheat to digest complex carbohydrates, proteins and other large molecules for about two to three days under aerobic conditions.  </para>
+    <figure id="import-auto-idm382951600">
+      <media id="import-auto-idm444280176" alt="">
+        <image mime-type="image/png" src="../../media/Picture 1-da88.png" height="468" width="624"/>
+      </media>
+    </figure>
+    <para id="import-auto-idm927634928">Figure 1.  Soy beans and wheat inoculated with the fungi to make the koji (https://commons.wikimedia.org/w/index.php?curid=17684565).</para>
+    <para id="import-auto-idm460228352">After this time period, the moromi stage (Figure 2) begins as the fermentable sugars, amino acids and other hydrolyzed components of the soy and wheat are added to a high salt solution. Salt tolerant microbes, including lactobacilli and yeasts, grow in the moromi and carry out anaerobic fermentation to produce acids and alcohols, which both preserve the mixture and add flavors, for up to a year or longer. After this maturation, the liquid, now called soy sauce, is finally filtered, pasteurized and packaged.</para>
+    <para id="import-auto-idm342458720">
+      <figure id="import-auto-idm471759536">
+        <media id="import-auto-idm451038592" alt="">
+          <image mime-type="image/png" src="../../media/Picture 3.png" height="415" width="624"/>
+        </media>
+      </figure>
+    </para>
+    <para id="import-auto-idm472301200">Figure 2. The moromi stage involves bacteria and yeast carrying out fermentation in a brine solution (www.japantimes.co)</para>
+  </content>
+</document>

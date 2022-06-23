@@ -1,0 +1,100 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Koch's postulates</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m64811</md:content-id>
+  <md:title>Koch's postulates</md:title>
+  <md:abstract/>
+  <md:uuid>0bbc1b92-59bd-4e0f-9abd-5f78dcea6a6e</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167586145704" class="learning-objectives">
+<title>Learning Objectives</title>
+<list id="fs-id1167582489529"><item>Summarize Koch’s postulates and molecular Koch’s postulates, respectively, and explain their significance and limitations</item>
+
+</list></section>
+<para id="fs-id1167586268563">For most infectious diseases, the ability to accurately identify the causative pathogen is a critical step in finding or prescribing effective treatments. Today’s physicians, patients, and researchers owe a sizable debt to the physician Robert Koch (1843–1910), who devised a systematic approach for confirming causative relationships between diseases and specific pathogens.</para>
+<section id="fs-id1167582412427">
+<title>Koch’s Postulates</title>
+<para id="fs-id1167582463417">In 1884, Koch published four postulates (<link target-id="fs-id1167586048013"/>) that summarized his method for determining whether a particular microorganism was the cause of a particular disease. Each of <term class="no-emphasis">Koch’s postulates</term> represents a criterion that must be met before a disease can be positively linked with a pathogen. In order to determine whether the criteria are met, tests are performed on laboratory animals and cultures from healthy and diseased animals are compared (<link target-id="OSC_Microbio_15_01_Koch"/>).</para>
+<table id="fs-id1167586048013" summary="A table labeled Koch’s postulates. (1) The suspected pathogen must be found in every case of disease and not be found in healthy individuals. (2) The suspected pathogen can be isolated and grown in pure culture. (3) A healthy test subject infected with the suspected pathogen must develop the same signs and symptoms of disease as seen in postulate 1. (4) The pathogen must be re-isolated from the new host and must be identical to the pathogen from postulate 2." class="span-all">
+<tgroup cols="1">
+<thead>
+<row>
+<entry align="center">Koch’s Postulates</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">(1) The suspected pathogen must be found in every case of disease and not be found in healthy individuals.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">(2) The suspected pathogen can be isolated and grown in pure culture.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">(3) A healthy test subject infected with the suspected pathogen must develop the same signs and symptoms of disease as seen in postulate 1.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">(4) The pathogen must be re-isolated from the new host and must be identical to the pathogen from postulate 2.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<figure id="OSC_Microbio_15_01_Koch">
+<media id="fs-id1167586262698" alt="A diagram Koch’s postulates. 1 – The suspected causative agent must be absent from all healthy organisms but present in all diseased organisms. This is demonstrated by looking at slides under a microscope from a sick mouse and seeing the suspected agent. A slide from a healthy mouse only shows healthy red blood cells. 2 – The causative agent must be isolated from the diseased organism and grown in pure culture. This is demonstrated by showing grown on a petri plate from the sick mouse and no growth from the healthy mouse.  3 – The cultured agend must cause the same disease when inoculated into a healthy, susceptible organism. This is demonstrated by injecting a healthy mouse with the cultured agent and having that mouse get sick. 4 – The same causative agent must then be reisolated from the inoculated diseased organism. This is demonstrated by a petri plate from this last mouse showing growth of the causative agent.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_15_01_Koch.jpg"/>
+</media>
+<caption>The steps for confirming that a pathogen is the cause of a particular disease using Koch’s postulates.</caption>
+</figure>
+<para id="fs-id1167586273632">In many ways, Koch’s postulates are still central to our current understanding of the causes of disease. However, advances in microbiology have revealed some important limitations in Koch’s criteria. Koch made several assumptions that we now know are untrue in many cases. The first relates to postulate 1, which assumes that pathogens are only found in diseased, not healthy, individuals. This is not true for many pathogens. For example, <emphasis effect="italics">H. pylori</emphasis>, described earlier in this chapter as a pathogen causing chronic gastritis, is also part of the normal microbiota of the stomach in many healthy humans who never develop gastritis. It is estimated that upwards of 50% of the human population acquires <emphasis effect="italics">H. pylori</emphasis> early in life, with most maintaining it as part of the normal microbiota for the rest of their life without ever developing disease.</para>
+<para id="fs-id1167586022361">Koch’s second faulty assumption was that all healthy test subjects are equally susceptible to disease. We now know that individuals are not equally susceptible to disease. Individuals are unique in terms of their microbiota and the state of their immune system at any given time. The makeup of the resident microbiota can influence an individual’s susceptibility to an infection. Members of the normal microbiota play an important role in immunity by inhibiting the growth of transient pathogens. In some cases, the microbiota may prevent a pathogen from establishing an infection; in others, it may not prevent an infection altogether but may influence the severity or type of signs and symptoms. As a result, two individuals with the same disease may not always present with the same signs and symptoms. In addition, some individuals have stronger immune systems than others. Individuals with immune systems weakened by age or an unrelated illness are much more susceptible to certain infections than individuals with strong immune systems.</para>
+<para id="fs-id1167586258336">Koch also assumed that all pathogens are microorganisms that can be grown in pure culture (postulate 2) and that animals could serve as reliable models for human disease. However, we now know that not all pathogens can be grown in pure culture, and many human diseases cannot be reliably replicated in animal hosts. Viruses and certain bacteria, including <term class="no-emphasis"><emphasis effect="italics">Rickettsia</emphasis></term> and <term class="no-emphasis"><emphasis effect="italics">Chlamydia</emphasis></term>, are obligate intracellular pathogens that can grow only when inside a host cell. If a microbe cannot be cultured, a researcher cannot move past postulate 2. Likewise, without a suitable nonhuman host, a researcher cannot evaluate postulate 2 without deliberately infecting humans, which presents obvious ethical concerns. AIDS is an example of such a disease because the human immunodeficiency virus (HIV) only causes disease in humans.</para>
+<note id="fs-id1167582647620" class="microbiology check-your-understanding">
+<list id="fs-id1167586257908" list-type="bulleted" bullet-style="bullet">
+<item>Briefly summarize the limitations of Koch’s postulates.</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167585925929">
+<title>Molecular Koch’s Postulates</title>
+<para id="fs-id1167586009072">In 1988, Stanley <term class="no-emphasis">Falkow</term> (1934–) proposed a revised form of Koch’s postulates known as <term class="no-emphasis">molecular Koch’s postulates</term>. These are listed in the left column of <link target-id="fs-id1167582747952"/>. The premise for molecular Koch’s postulates is not in the ability to isolate a particular pathogen but rather to identify a gene that may cause the organism to be pathogenic.</para>
+<para id="fs-id1167582784227">Falkow’s modifications to Koch’s original postulates explain not only infections caused by intracellular pathogens but also the existence of pathogenic strains of organisms that are usually nonpathogenic. For example, the predominant form of the bacterium <term class="no-emphasis"><emphasis effect="italics">Escherichia coli</emphasis></term> is a member of the normal microbiota of the human intestine and is generally considered harmless. However, there are pathogenic strains of <emphasis effect="italics">E. coli</emphasis> such as enterotoxigenic <emphasis effect="italics">E. coli</emphasis> (<term class="no-emphasis">ETEC</term>) and <term class="no-emphasis">enterohemorrhagic <emphasis effect="italics">E. coli</emphasis> (O157:H7)</term> (EHEC). We now know ETEC and <term class="no-emphasis">EHEC</term> exist because of the acquisition of new genes by the once-harmless <emphasis effect="italics">E. coli</emphasis>, which, in the form of these pathogenic strains, is now capable of producing toxins and causing illness. The pathogenic forms resulted from minor genetic changes. The right-side column of <link target-id="fs-id1167582747952"/> illustrates how molecular Koch’s postulates can be applied to identify EHEC as a pathogenic bacterium.</para>
+<table id="fs-id1167582747952" summary="A table titled Molecular Koch’s postulates applied to EHEC; two columns: molecular Koch’s postulates and application to EHEC.  (1) The phenotype (sign or symptom of disease) should be associated only with pathogenic strains of a species. The application: EHEC causes intestinal inflammation and diarrhea, whereas nonpathogenic strains of E. coli do not. (2) Inactivation of the suspected gene(s) associated with pathogenicity should result in a measurable loss of pathogenicity. The application: One of the genes in EHEC encodes for Shiga toxin, a bacterial toxin (poison) that inhibits protein synthesis. Inactivating this gene reduces the bacteria’s ability to cause disease. (3) Reversion of the inactive gene should restore the disease phenotype. The application: By adding the gene that encodes the toxin back into the genome (e.g., with a phage or plasmid), EHEC’s ability to cause disease is restored." class="span-all">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row>
+<entry align="center" namest="c1" nameend="c2">Molecular Koch’s Postulates Applied to EHEC</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Molecular Koch’s Postulates</entry>
+<entry valign="top" align="left">Application to EHEC</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">(1) The phenotype (sign or symptom of disease) should be associated only with pathogenic strains of a species.</entry>
+<entry valign="top" align="left">EHEC causes intestinal inflammation and diarrhea, whereas nonpathogenic strains of <emphasis effect="italics">E. coli</emphasis> do not.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">(2) Inactivation of the suspected gene(s) associated with pathogenicity should result in a measurable loss of pathogenicity.</entry>
+<entry valign="top" align="left">One of the genes in EHEC encodes for Shiga toxin, a bacterial toxin (poison) that inhibits protein synthesis. Inactivating this gene reduces the bacteria’s ability to cause disease.</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">(3) Reversion of the inactive gene should restore the disease phenotype.</entry>
+<entry valign="top" align="left">By adding the gene that encodes the toxin back into the genome (e.g., with a phage or plasmid), EHEC’s ability to cause disease is restored.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-id1167582924537">As with Koch’s original postulates, the molecular Koch’s postulates have limitations. For example, genetic manipulation of some pathogens is not possible using current methods of molecular genetics. In a similar vein, some diseases do not have suitable animal models, which limits the utility of both the original and molecular postulates.</para>
+<note id="fs-id1167586025918" class="microbiology check-your-understanding">
+<list id="fs-id1167585877896" list-type="bulleted" bullet-style="bullet">
+<item>Explain the differences between Koch’s original postulates and the molecular Koch’s postulates.</item>
+</list>
+</note>
+</section>
+</content>
+</document>

@@ -1,0 +1,36 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Cheese production</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m64902</md:content-id>
+  <md:title>Cheese production</md:title>
+  <md:abstract/>
+  <md:uuid>4c388bae-603e-4740-96b3-36b3583921b9</md:uuid>
+</metadata>
+
+<content>
+    <para id="import-auto-idm1166690608">
+      <emphasis effect="bold">Cheese making</emphasis>
+    </para>
+    <para id="import-auto-idm156357920">For a true microbiologist, the process of cheese making may be the most amazing phenomenon ever witnessed; solar eclipses and childbirth pale in comparison.  The major event in this process is the conversion of liquid milk to a solid consisting mainly of casein protein and fat, which is the foundation of young cheese. The key step in this conversion is the denaturation of casein, which changes it from a dissolved protein in milk to an insoluble component of a solid (curd) that separates from the watery portion of the milk (whey).  Two factors help trigger this denaturation.  First of all, good bacteria or “starter cultures” are added to the milk to ferment the lactose, milk’s natural sugar, into lactic acid, which causes a pH change to help start denaturation of casein.  Different types of starter cultures also produce other metabolites besides lactic acid, which create different types of cheese flavors. For example, Swiss cheese uses one type of culture, while brie and blue cheese use others. Second, rennin, an enzyme originally isolated from calf stomachs, also help denature casein by proteolyzing it.  Upon denaturation, the casein unfolds and then aggregates with fat in the milk, forming the curd, which separates from the liquid whey (Figure 1).  This process is known as coagulation or curdling.  Whey contains mainly water, salts and other milk proteins.</para>
+    <figure id="import-auto-idm1594462800">
+      <media id="import-auto-idm188482656" alt="">
+        <image mime-type="image/png" src="../../media/Picture 4.png" height="298" width="400"/>
+      </media>
+    </figure>
+    <para id="import-auto-idm1118786048">Figure 1. White curd has separated from the yellow whey after curdling.</para>
+    <para id="import-auto-idm1578268800">Once the curd starts to gel, the cheesemakers cut it up, which allows the whey to come out (Figure 2). Drier cheeses are often cut more to form smaller curds, so more of the moisture comes out. Once the curds are cut, they are stirred and heated to release even more whey and further denature the casein. At this point, the curd is separated from the whey and is salted.  Then the cheese is pressed and eventually becomes the shape and consistency of recognizable cheeses.</para>
+    <figure id="import-auto-idm1233158400">
+      <media id="import-auto-idm1585941136" alt="">
+        <image mime-type="image/png" src="../../media/Picture 5-c17c.png" height="361" width="541"/>
+      </media>
+    </figure>
+    <para id="import-auto-idm1301438624">Figure 2. Curd being broken up by mixers in industrial scale production. (<link url="https://commons.wikimedia.org/w/index.php?curid=246468">https://commons.wikimedia.org/w/index.php?curid=246468</link>)</para>
+    <para id="import-auto-idm1150745424">Once the cheese is shaped, it may be aged a while, allowing the bacteria and/or fungi in the starter cultures to produce different fermentation products and other flavorings for the cheese (termed ripening).  For instance, for Swiss cheese, <emphasis effect="italics">Propionibacterium</emphasis> create propionic acid via fermentation to give it a nutty flavor. Also, other types of microbes can be added at this later time to the young cheeses to help produce more flavors. Some cheeses are aged for years before serving. However, a small taste of a properly aged Parmesan or Gorgonzola will justify the wait and further help you appreciate the splendor of this process! The major steps in this process are summarized in Figure 3.</para>
+    <figure id="import-auto-idm182728848">
+      <media id="import-auto-idm1162941136" alt="">
+        <image mime-type="image/png" src="../../media/Picture 6-194c.png" height="449" width="612"/>
+      </media>
+    </figure>
+    <para id="import-auto-idm205540432">Figure 3. The basic steps in the cheese making process (www.Encyclopaedia Britannica.com)</para>
+  </content>
+</document>

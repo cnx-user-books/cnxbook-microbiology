@@ -1,0 +1,123 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Antiprotozoal Drugs</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m64726</md:content-id>
+  <md:title>Antiprotozoal Drugs</md:title>
+  <md:abstract/>
+  <md:uuid>be01afc3-90cc-4740-8d5c-ba9df1256461</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167661442950" class="learning-objectives">
+<title>Learning Objective</title>
+<list id="fs-id1167661329398"><item>Explain the differences between modes of action of drugs that target protozoa</item>
+</list></section>
+<para id="fs-id1167663960293">Because protozoa are eukaryotic, their cells are very similar to human cells, making it more difficult to develop drugs with selective toxicity. Despite these challenges, there are antiprotozoal drugs. <link target-id="fs-id1167661428546"/> provides examples for antiprotozoal drugs.</para><section id="fs-id1167663968059">
+<title>Antiprotozoan Drugs</title>
+<para id="fs-id1167663741367">There are a few mechanisms by which antiprotozoan drugs target infectious protozoans (<link target-id="fs-id1167663731038"/>). Some are <term class="no-emphasis">antimetabolites</term>, such as <term class="no-emphasis">atovaquone</term>, <term class="no-emphasis">proguanil</term>, and artemisinins. Atovaquone, in addition to being antifungal, blocks electron transport in protozoans and is used for the treatment of protozoan infections including <term class="no-emphasis">malaria</term>, <term class="no-emphasis">babesiosis</term>, and <term class="no-emphasis">toxoplasmosis</term>. Proguanil is another synthetic antimetabolite that is processed in parasitic cells into its active form, which inhibits protozoan folic acid synthesis. It is often used in combination with atovaquone, and the combination is marketed as <term class="no-emphasis">Malarone</term> for both malaria treatment and prevention.</para>
+<para id="fs-id1167661292501">Artemisinin, a plant-derived antifungal first discovered by Chinese scientists in the 1970s, is quite effective against malaria. Semisynthetic derivatives of <term>artemisinin</term> are more water soluble than the natural version, which makes them more bioavailable. Although the exact mechanism of action is unclear, artemisinins appear to act as prodrugs that are metabolized by target cells to produce <term class="no-emphasis">reactive oxygen species (ROS)</term> that damage target cells. Due to the rise in resistance to antimalarial drugs, artemisinins are also commonly used in combination with other antimalarial compounds in artemisinin-based combination therapy (ACT).</para>
+<para id="fs-id1167661280383">Several antimetabolites are used for the treatment of toxoplasmosis caused by the parasite <term class="no-emphasis"><emphasis effect="italics">Toxoplasma gondii</emphasis></term>. The synthetic sulfa drug <term class="no-emphasis">sulfadiazine</term> competitively inhibits an enzyme in <term class="no-emphasis">folic acid</term> production in parasites and can be used to treat malaria and toxoplasmosis. Pyrimethamine is a synthetic drug that inhibits a different enzyme in the folic acid production pathway and is often used in combination with <term class="no-emphasis">sulfadoxine</term> (another sulfa drug) for the treatment of <term class="no-emphasis">malaria</term> or in combination with sulfadiazine for the treatment of <term class="no-emphasis">toxoplasmosis</term>. Side effects of <term class="no-emphasis">pyrimethamine</term> include decreased bone marrow activity that may cause increased bruising and low red blood cell counts. When toxicity is a concern, <term class="no-emphasis">spiramycin</term>, a macrolide protein synthesis inhibitor, is typically administered for the treatment of toxoplasmosis.</para>
+<para id="fs-id1167659397707">Two classes of antiprotozoan drugs interfere with nucleic acid synthesis: <term class="no-emphasis">nitroimidazoles</term> and <term class="no-emphasis">quinolines</term>. Nitroimidazoles, including semisynthetic <term class="no-emphasis">metronidazole</term>, which was discussed previously as an antibacterial drug, and synthetic <term class="no-emphasis">tinidazole</term>, are useful in combating a wide variety of protozoan pathogens, such as <term class="no-emphasis"><emphasis effect="italics">Giardia lamblia</emphasis></term>, <term class="no-emphasis"><emphasis effect="italics">Entamoeba histolytica</emphasis></term>, and <term class="no-emphasis"><emphasis effect="italics">Trichomonas vaginalis</emphasis></term>. Upon introduction into these cells in low-oxygen environments, nitroimidazoles become activated and introduce DNA strand breakage, interfering with DNA replication in target cells. Unfortunately, metronidazole is associated with <term class="no-emphasis">carcinogenesis</term> (the development of cancer) in humans.</para>
+<para id="fs-id1167661506634">Another type of synthetic antiprotozoan drug that has long been thought to specifically interfere with DNA replication in certain pathogens is <term>pentamidine</term>. It has historically been used for the treatment of <term class="no-emphasis">African sleeping sickness</term> (caused by the protozoan <term class="no-emphasis"><emphasis effect="italics">Trypanosoma brucei</emphasis></term>) and <term class="no-emphasis">leishmaniasis</term> (caused by protozoa of the genus <term class="no-emphasis"><emphasis effect="italics">Leishmania</emphasis></term>), but it is also an alternative treatment for the fungus <term class="no-emphasis"><emphasis effect="italics">Pneumocystis</emphasis></term>. Some studies indicate that it specifically binds to the DNA found within <term class="no-emphasis">kinetoplasts</term> (kDNA; long mitochondrion-like structures unique to <term class="no-emphasis">trypanosomes</term>), leading to the cleavage of kDNA. However, nuclear DNA of both the parasite and host remain unaffected. It also appears to bind to tRNA, inhibiting the addition of amino acids to tRNA, thus preventing protein synthesis. Possible side effects of pentamidine use include pancreatic dysfunction and liver damage.</para>
+<para id="fs-id1167663919800">The <term>quinolines</term> are a class of synthetic compounds related to <term class="no-emphasis">quinine</term>, which has a long history of use against malaria. Quinolines are thought to interfere with heme detoxification, which is necessary for the parasite’s effective breakdown of hemoglobin into amino acids inside red blood cells. The synthetic derivatives chloroquine, <term class="no-emphasis">quinacrine</term> (also called <term class="no-emphasis">mepacrine</term>), and <term class="no-emphasis">mefloquine</term> are commonly used as antimalarials, and chloroquine is also used to treat amebiasis typically caused by <term class="no-emphasis"><emphasis effect="italics">Entamoeba histolytica</emphasis></term>. Long-term prophylactic use of chloroquine or mefloquine may result in serious side effects, including hallucinations or cardiac issues. Patients with glucose-6-phosphate dehydrogenase deficiency experience severe <term class="no-emphasis">anemia</term> when treated with chloroquine.</para>
+<table id="fs-id1167661428546" summary="Table titled: Common Antiprotozoan Drugs. Columns: Mechanism of Action; Drug Class; Specific Drugs; Clinical Uses. Mechanism: Inhibit electron transport in mitochondria; Naphthoquinone; Atovaquone; Malaria, babesiosis, and toxoplasmosis. Mechanism: Inhibit folic acid synthesis. Class: Not applicable; Proquanil; Combination therapy with atovaquone for malaria treatment and prevention. Class: Sulfonamide; Sulfadiazine; Malaria and toxoplasmosis. Class: Not applicable; Pyrimethamine; Combination therapy with sulfadoxine (sulfa drug) for malaria. Mechanism: Produces damaging reactive oxygen species; Not applicable; Artemisinin; Combination therapy to treat malaria. Mechanism: Inhibit DNA synthesis. Class: Nitroimidazoles; Metronidazole, tinidazole; Infections caused by Giardia lamblia, Entamoeba histolytica, and Trichomonas vaginalis. Class: Not applicable; Pentamidine; African sleeping sickness and leishmaniasis. Mechanism: Inhibit heme detoxification. Class: Quinolines. Chloroquine; Malaria and infections with E. histolytica. Mepacrine, mefloquine; Malaria." class="span-all">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row>
+<entry align="center" namest="c1" nameend="c4">Common Antiprotozoan Drugs</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Mechanism of Action</entry>
+<entry valign="top" align="left">Drug Class</entry>
+<entry valign="top" align="left">Specific Drugs</entry>
+<entry valign="top" align="left">Clinical Uses</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Inhibit electron transport in mitochondria</entry>
+<entry valign="top" align="left">Naphthoquinone</entry>
+<entry valign="top" align="left">Atovaquone</entry>
+<entry valign="top" align="left">Malaria, babesiosis, and toxoplasmosis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left" morerows="2">Inhibit folic acid synthesis</entry>
+<entry valign="top" align="left">Not applicable</entry>
+<entry valign="top" align="left">Proquanil</entry>
+<entry valign="top" align="left">Combination therapy with atovaquone for malaria treatment and prevention</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Sulfonamide</entry>
+<entry valign="top" align="left">Sulfadiazine</entry>
+<entry valign="top" align="left">Malaria and toxoplasmosis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Not applicable</entry>
+<entry valign="top" align="left">Pyrimethamine</entry>
+<entry valign="top" align="left">Combination therapy with sulfadoxine (sulfa drug) for malaria</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Produces damaging reactive oxygen species</entry>
+<entry valign="top" align="left">Not applicable</entry>
+<entry valign="top" align="left">Artemisinin</entry>
+<entry valign="top" align="left">Combination therapy to treat malaria</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left" morerows="1">Inhibit DNA synthesis</entry>
+<entry valign="top" align="left">Nitroimidazoles</entry>
+<entry valign="top" align="left">Metronidazole, tinidazole</entry>
+<entry valign="top" align="left">Infections caused by <emphasis effect="italics">Giardia lamblia, Entamoeba histolytica,</emphasis> and <emphasis effect="italics">Trichomonas vaginalis</emphasis></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Not applicable</entry>
+<entry valign="top" align="left">Pentamidine</entry>
+<entry valign="top" align="left">African sleeping sickness and leishmaniasis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left" morerows="1">Inhibit heme detoxification</entry>
+<entry valign="top" align="left" morerows="1">Quinolines</entry>
+<entry valign="top" align="left">Chloroquine</entry>
+<entry valign="top" align="left">Malaria and infections with <emphasis effect="italics">E. histolytica</emphasis></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Mepacrine, mefloquine</entry>
+<entry valign="top" align="left">Malaria</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<note id="fs-id1167661343938" class="microbiology check-your-understanding">
+<list id="fs-id1167659288025" list-type="bulleted" bullet-style="bullet">
+<item>List two modes of action for antiprotozoan drugs.</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167663628736" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1167661433781" list-type="bulleted" bullet-style="bullet"><item>Because protozoans are eukaryotic organisms like human cells, it is more challenging to develop antimicrobial drugs that specifically target them. </item>
+<item><emphasis effect="bold">Antiprotozoan drugs</emphasis> increase cellular levels of reactive oxygen species, interfere with protozoal DNA replication (nuclear versus kDNA, respectively), and disrupt heme detoxification.</item>
+</list></section>
+<section id="fs-id1167659283006" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1167659329127">
+<problem id="fs-id1167661749959">
+<para id="fs-id1167661749961">Which of the following is an antimalarial drug that is thought to increase ROS levels in target cells?</para>
+<list id="fs-id1167661519425" list-type="enumerated" number-style="upper-alpha">
+<item>artemisinin</item>
+<item>amphotericin b</item>
+<item>praziquantel</item>
+<item>pleconaril</item>
+</list>
+</problem>
+<solution id="fs-id1167663931672">
+<para id="fs-id1167663731935">A</para>
+</solution>
+</exercise>
+</section>
+</content>
+</document>

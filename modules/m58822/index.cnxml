@@ -10,7 +10,7 @@
 
 <content>
 <section id="fs-id1167662487697" class="learning-objectives">
-<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<title>Learning Objectives</title>
 <list id="fs-id1167662446599">
 <item>Define fermentation and explain why it does not require oxygen</item>
 <item>Describe the fermentation pathways and their end products and give examples of microorganisms that use these pathways</item>
@@ -47,7 +47,7 @@
 <tbody>
 <row valign="top">
 <entry valign="top" align="left" morerows="1">Aerobic respiration</entry>
-<entry valign="top" align="center" morerows="1"><emphasis effect="italics">Staphylococcus aureus</emphasis></entry>
+<entry valign="top" align="center" morerows="1"><emphasis effect="italics">Pseudomonas aeruginosa</emphasis></entry>
 <entry valign="top" align="center" morerows="1"><m:math><m:mrow><m:msub><m:mrow><m:mtext>O</m:mtext></m:mrow><m:mn>2</m:mn></m:msub></m:mrow></m:math></entry>
 <entry valign="top" align="center">EMP glycolysis (SLP)<newline/>Krebs cycle (SLP)<newline/>Electron transport and chemiosmosis (OP):</entry>
 <entry valign="top" align="center">2<newline/>2<newline/>34</entry>
@@ -318,7 +318,7 @@
 </table>
 </problem>
 <solution id="fs-id1167660358606">
-<para id="fs-id1167660358609">1. e; 2. a; 3. d; 4. b; 5. c</para>
+<para id="fs-id1167660358609">e; 2. a; 3. d; 4. b; 5. c</para>
 </solution>
 </exercise>
 </section>
@@ -343,5 +343,5 @@
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 </document>

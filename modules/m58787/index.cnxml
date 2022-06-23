@@ -9,7 +9,7 @@
 
 <content>
 <section id="fs-id1171357962003" class="learning-objectives">
-<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<title>Learning Objectives</title>
 <list id="fs-id1171361653133">
 <item>Identify and describe the parts of a brightfield microscope</item>
 <item>Calculate total magnification for a compound microscope</item>
@@ -59,9 +59,10 @@
 </note>
 <note id="fs-id1167793593508" class="microbiology link-to-learning">
 
-<para id="fs-id1167794053619">Visit the online resource linked below for simulations and demonstrations involving the use of microscopes. Keep in mind that execution of specific techniques and procedures can vary depending on the specific instrument you are using. Thus, it is important to learn and practice with an actual microscope in a laboratory setting under expert supervision.</para>
+<para id="fs-id1167794053619">Visit the online resources linked below for simulations and demonstrations involving the use of microscopes. Keep in mind that execution of specific techniques and procedures can vary depending on the specific instrument you are using. Thus, it is important to learn and practice with an actual microscope in a laboratory setting under expert supervision.</para>
 <list id="fs-id1167793469167" list-type="bulleted" bullet-style="bullet">
 <item>University of Delaware’s <link url="https://www.openstax.org/l/22virtualsim">Virtual Microscope</link></item>
+<item>St. John’s University <link url="https://www.openstax.org/l/22microtut">Microscope Tutorials</link></item>
 </list>
 </note>
 </section>
@@ -258,7 +259,7 @@ electrons that are knocked off of specimens by a beam of electrons. This can cre
 </figure>
 <figure id="OSC_Microbio_02_03_ElecMicTb">
 <media id="fs-id1167793640508" alt="Table of electron microscopes which use electron beams focused with magnets to produce an image. Magnification: 20–100,000 x or more. Transmission electron microscopes (TEM) use electron means that pass through a specimen to visual small images; useful to observe small, thin specimens such as tissue sections and subcellular structures. The sample image (Ebola virus) shows a tube shaped into a letter d at one end. Scanning electron microscopes (SEM) use electron beams to visualize surfaces; useful to observe the three-dimensional surface details of specimens. The sample image (Campylobactor jejuni) shows thick three-dimensional spirals.">
-<image mime-type="image/jpeg" src="../../media/OSC_Microbio_02_03_ElecMicTb-c3a9.jpg"/>
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_02_03_ElecMicTb.jpg"/>
 </media>
 <caption>(credit “TEM”: modification of work by American Society for Microbiology; credit “SEM”: modification of work by American Society for Microbiology)</caption>
 </figure>
@@ -409,5 +410,5 @@ electrons that are knocked off of specimens by a beam of electrons. This can cre
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 </document>

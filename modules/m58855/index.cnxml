@@ -10,7 +10,7 @@
 
 <content>
 <section id="fs-id1167583626599" class="learning-objectives">
-<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<title>Learning Objectives</title>
 <list id="fs-id1167585111676">
 <item>Understand and compare various chemicals used to control microbial growth, including their uses, advantages and disadvantages, chemical structure, and mode of action</item>
 </list>
@@ -18,7 +18,7 @@
 <para id="fs-id1167584938570">In addition to physical methods of microbial control, chemicals are also used to control microbial growth. A wide variety of chemicals can be used as disinfectants or antiseptics. When choosing which to use, it is important to consider the type of microbe targeted; how clean the item needs to be; the disinfectant’s effect on the item’s integrity; its safety to animals, humans, and the environment; its expense; and its ease of use. This section describes the variety of chemicals used as disinfectants and antiseptics, including their mechanisms of action and common uses.</para>
 <section id="fs-id1167585147987">
 <title>Phenolics</title>
-<para id="fs-id1167584969693">In the 1800s, scientists began experimenting with a variety of chemicals for disinfection. In the 1860s, British surgeon Joseph <term class="no-emphasis">Lister</term> (1827–1912) began using carbolic acid, known as <term class="no-emphasis">phenol</term>, as a disinfectant for the treatment of surgical wounds (see <link document="m58791">Foundations of Modern Cell Theory</link>). In 1879, Lister’s work inspired the American chemist Joseph <term class="no-emphasis">Lawrence</term> (1836–1909) to develop Listerine, an alcohol-based mixture of several related compounds that is still used today as an oral antiseptic. Today, carbolic acid is no longer used as a surgical disinfectant because it is a skin irritant, but the chemical compounds found in antiseptic mouthwashes and throat lozenges are called <term>phenolics</term>.</para>
+<para id="fs-id1167584969693">In the 1800s, scientists began experimenting with a variety of chemicals for disinfection. In the 1860s, British surgeon Joseph <term class="no-emphasis">Lister</term> (1827–1912) began using carbolic acid, known as <term class="no-emphasis">phenol</term>, as a disinfectant for the treatment of surgical wounds (see <link class="target-chapter" document="m58791">Foundations of Modern Cell Theory</link>). In 1879, Lister’s work inspired the American chemist Joseph <term class="no-emphasis">Lawrence</term> (1836–1909) to develop Listerine, an alcohol-based mixture of several related compounds that is still used today as an oral antiseptic. Today, carbolic acid is no longer used as a surgical disinfectant because it is a skin irritant, but the chemical compounds found in antiseptic mouthwashes and throat lozenges are called <term>phenolics</term>.</para>
 <para id="fs-id1167584948269">Chemically, phenol consists of a benzene ring with an –OH group, and phenolics are compounds that have this group as part of their chemical structure (<link target-id="OSC_Microbio_13_01_Phenolcomp"/>). Phenolics such as <term class="no-emphasis">thymol</term> and <term class="no-emphasis">eucalyptol</term> occur naturally in plants. Other phenolics can be derived from creosote, a component of coal tar. Phenolics tend to be stable, persistent on surfaces, and less toxic than phenol. They inhibit microbial growth by denaturing proteins and disrupting membranes.</para>
 <figure id="OSC_Microbio_13_01_Phenolcomp">
 <media id="fs-id1167583983353" alt="A) a chemical structure with a carbon ring of 6 carbons with an OH group on one. B) A chemical structure with 2 carbon rings (6 carbons each) connected by a covalent bond; one carbon has an OH. C) Two carbon rings (6 carbons) connected a carbon. Each ring has an OH and 3 Cls.">
@@ -27,7 +27,7 @@
 <caption>Phenol and phenolic compounds have been used to control microbial growth. (a) Chemical structure of phenol, also known as carbolic acid. (b) o-Phenylphenol, a type of phenolic, has been used as a disinfectant as well as to control bacterial and fungal growth on harvested citrus fruits. (c) Hexachlorophene, another phenol, known as a bisphenol (two rings), is the active ingredient in pHisoHex.</caption>
 </figure>
 <para id="fs-id1167583581404">Since Lister’s time, several <term class="no-emphasis">phenolic compounds</term> have been used to control microbial growth. Phenolics like <term class="no-emphasis">cresols</term> (methylated phenols) and <term class="no-emphasis">o-phenylphenol</term> were active ingredients in various formulations of Lysol since its invention in 1889. o-Phenylphenol was also commonly used in agriculture to control bacterial and fungal growth on harvested crops, especially citrus fruits, but its use in the United States is now far more limited. The bisphenol <term class="no-emphasis">hexachlorophene</term>, a disinfectant, is the active ingredient in pHisoHex, a topical cleansing detergent widely used for handwashing in hospital settings. pHisoHex is particularly effective against gram-positive bacteria, including those causing staphylococcal and streptococcal skin infections. pHisoHex was formerly used for bathing infants, but this practice has been discontinued because it has been shown that exposure to hexachlorophene can lead to neurological problems.</para>
-<para id="fs-id1167584771521">Triclosan is another bisphenol compound that has seen widespread application in antibacterial products over the last several decades. Initially used in toothpastes, <term class="no-emphasis">triclosan</term> has also been used in hand soaps and impregnated into a wide variety of other products, including cutting boards, knives, shower curtains, clothing, and concrete, to make them antimicrobial. However, in 2016 the FDA banned the marketing of over-the-counter antiseptic products containing triclosan and 18 other chemicals. This ruling was based on the lack of evidence of safety or efficacy, as well as concerns about the health risks of long-term exposure (See Micro Connections below). In 2019 the FDA issued an updated ban ruling to included 28 chemicals. Rulings on benzalkonium chloride, ethyl alcohol, and isopropyl alcohol have been deferred to allow for the submission of additional safety and efficacy data.<footnote id="fs-id1167583904817">US Food and Drug Administration. "FDA Issues Final Rule on Safety and Effectiveness of Antibacterial Soaps." 2016. https://www.fda.gov/news-events/press-announcements/fda-issues-final-rule-safety-and-effectiveness-antibacterial-soaps. Accessed October 29, 2020.</footnote></para>
+<para id="fs-id1167584771521">Triclosan is another bisphenol compound that has seen widespread application in antibacterial products over the last several decades. Initially used in toothpastes, <term class="no-emphasis">triclosan</term> is now commonly used in hand soaps and is frequently impregnated into a wide variety of other products, including cutting boards, knives, shower curtains, clothing, and concrete, to make them antimicrobial. It is particularly effective against gram-positive bacteria on the skin, as well as certain gram-negative bacteria and yeasts.<footnote id="fs-id1167583904817">US Food and Drug Administration. “Triclosan: What Consumers Should Know.” 2015. http://www.fda.gov/ForConsumers/ConsumerUpdates/ucm205999.htm. Accessed June 9, 2016.</footnote></para>
 <note id="fs-id1167584735157" class="microbiology micro-connection">
 <title>Triclosan: Antibacterial Overkill?</title>
 <para id="fs-id1167583850472">Hand soaps and other cleaning products are often marketed as “antibacterial,” suggesting that they provide a level of cleanliness superior to that of conventional soaps and cleansers. But are the antibacterial ingredients in these products really safe and effective?</para>
@@ -37,9 +37,9 @@
 <para id="fs-id1167583937408">In December 2013, the FDA gave soap manufacturers until 2016 to prove that antibacterial soaps provide a significant benefit over traditional soaps; if unable to do so, manufacturers will be forced to remove these products from the market.</para>
 <figure id="OSC_Microbio_13_03_Triclosan">
 <media id="fs-id1167583536327" alt="A chemical structure of triclosan. Two carbon rings (6 carbons) connected by an oxygen; each ring has 2 more oxygens bound to it. A photo of someone washing their hands.">
-<image mime-type="image/png" src="../../media/OSC_Microbio_13_03_Triclosan.png"/>
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_13_03_Triclosan.jpg"/>
 </media>
-<caption>Triclosan is a common ingredient in antibacterial soaps despite evidence that it poses environmental and health risks and offers no significant health benefit compared to conventional soaps. (credit b: modification of work by FDA; c: Michelle Gigante/US Air Force; Public Domain.)</caption>
+<caption>Triclosan is a common ingredient in antibacterial soaps despite evidence that it poses environmental and health risks and offers no significant health benefit compared to conventional soaps. (credit b, c: modification of work by FDA)</caption>
 </figure>
 </note>
 <note id="fs-id1167583510009" class="microbiology check-your-understanding">
@@ -149,9 +149,9 @@
 <para id="fs-id1167585012602">There is no single widely accepted protocol for surgical scrubbing. Protocols for length of time spent scrubbing may depend on the antimicrobial used; health-care workers should always check the manufacturer’s recommendations. According to the Association of Surgical Technologists (AST), surgical scrubs may be performed with or without the use of brushes (<link target-id="OSC_Microbio_13_03_HandwashAB"/>).</para>
 <figure id="OSC_Microbio_13_03_HandwashAB">
 <media id="fs-id1167583560894" alt="a) CDC handwashing recommendations for the general public. 1 – wet your hands with clean, running water (warm or cold). Turn off the tap and apply soap. 2 – Lather your hands by rubbing them together with the soap. Be sure to lather the backs of your hands, between your fingers and under your nails. 3 – Scrub your hands for at least 20 seconds. Need a timer? Hum the “Happy birthday” song from beginning to end twice. 4 – Rinse your hands well under clean, running water. 5 – Dry your hands using a clean towel or air-dry them. B) A photo of a person washing their hands.">
-<image mime-type="image/png" src="../../media/OSC_Microbio_13_03_HandwashAB.png"/>
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_13_03_HandwashAB.jpg"/>
 </media>
-<caption>(a) The CDC recommends five steps as part of typical handwashing for the general public. (b) Surgical scrubbing is more extensive, requiring scrubbing starting from the fingertips, extending to the hands and forearms, and then up beyond the elbows, as shown here. (credit a: modification of work by World Health Organization; credit b: b: Staff Sgt. Kevin Iinuma / US Air Force; Public Domain)</caption>
+<caption>(a) The CDC recommends five steps as part of typical handwashing for the general public. (b) Surgical scrubbing is more extensive, requiring scrubbing starting from the fingertips, extending to the hands and forearms, and then up beyond the elbows, as shown here. (credit a: modification of work by World Health Organization)</caption>
 </figure>
 </note>
 <note id="fs-id1167583871109" class="microbiology link-to-learning">
@@ -195,13 +195,13 @@
 </note>
 <note id="fs-id1167583689614" class="microbiology micro-connection">
 <title>Diehard Prions</title>
-<para id="fs-id1167581340939">Prions, the acellular, misfolded proteins responsible for incurable and fatal diseases such as kuru and Creutzfeldt-Jakob disease (see <link document="m58811">Viroids, Virusoids, and Prions</link>), are notoriously difficult to destroy. Prions are extremely resistant to heat, chemicals, and radiation. They are also extremely infectious and deadly; thus, handling and disposing of prion-infected items requires extensive training and extreme caution.</para>
+<para id="fs-id1167581340939">Prions, the acellular, misfolded proteins responsible for incurable and fatal diseases such as kuru and Creutzfeldt-Jakob disease (see <link class="target-chapter" document="m58811">Viroids, Virusoids, and Prions</link>), are notoriously difficult to destroy. Prions are extremely resistant to heat, chemicals, and radiation. They are also extremely infectious and deadly; thus, handling and disposing of prion-infected items requires extensive training and extreme caution.</para>
 <para id="fs-id1167584632745">Typical methods of disinfection can reduce but not eliminate the infectivity of prions. Autoclaving is not completely effective, nor are chemicals such as phenol, alcohols, formalin, and β-propiolactone. Even when fixed in formalin, affected brain and spinal cord tissues remain infectious.</para>
 <para id="fs-id1167583883543">Personnel who handle contaminated specimens or equipment or work with infected patients must wear a protective coat, face protection, and cut-resistant gloves. Any contact with skin must be immediately washed with detergent and warm water without scrubbing. The skin should then be washed with 1 N NaOH or a 1:10 dilution of bleach for 1 minute. Contaminated waste must be incinerated or autoclaved in a strong basic solution, and instruments must be cleaned and soaked in a strong basic solution.</para>
 </note>
 <note id="fs-id1167585039817" class="microbiology link-to-learning">
 
-<para id="fs-id1167583509632">For more information on the handling of animals and prion-contaminated materials, visit the guidelines published on the <link url="https://openstax.org/l/22WHOhandanipri">WHO</link> website.</para>
+<para id="fs-id1167583509632">For more information on the handling of animals and prion-contaminated materials, visit the guidelines published on the <link url="https://openstax.org/l/22CDChandanipri">CDC</link> and <link url="https://openstax.org/l/22WHOhandanipri">WHO</link> websites.</para>
 </note>
 </section>
 <section id="fs-id1167585099009">
@@ -627,6 +627,6 @@ Preservation of dairy products, meats, and beverages </entry> </row>
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 
 </document>

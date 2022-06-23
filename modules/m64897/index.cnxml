@@ -1,0 +1,44 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Oral Thrush: Candidiasis</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m64897</md:content-id>
+  <md:title>Oral Thrush: Candidiasis</md:title>
+  <md:abstract/>
+  <md:uuid>e9cb5d5e-fcbb-492d-913a-5ef05fc8a637</md:uuid>
+</metadata>
+
+<content>
+    <para id="import-auto-idm268894160">
+      <emphasis effect="bold">Oral Thrush</emphasis>
+    </para>
+    <para id="import-auto-idm978589440">The yeast <emphasis effect="italics">Candida </emphasis>is part of the normal human microbiota, but overgrowths, especially of <emphasis effect="italics">Candida albicans</emphasis>, can lead to infections in several parts of the body. When <emphasis effect="italics">Candida</emphasis> infection develops in the oral cavity, it is called oral thrush. Oral thrush is most common in infants because they do not yet have well developed immune systems and have not acquired the robust normal microbiota that keeps<emphasis effect="italics">Candida</emphasis> in check in adults. Oral thrush is also common in immunodeficient patients and is a common infection in patients with AIDS.</para>
+    <para id="import-auto-idm258720256">The fungus has an interesting pathogenic mechanism. Being dimorphic, it transitions from yeast to mold in the pharyx region due to environmental cues, especially changes in pH.  After adhering to host cells the mold-like cells grow using thigmotropism to guide their directional growth, and then express exotoxins like proteases to help penetrate the host cells.  The mold then helps create a biofilm in the colonized area</para>
+    <para id="import-auto-idm1011633584">Oral thrush is characterized by the appearance of white patches and pseudomembranes in the mouth and can be associated with bleeding. The infection may be treated topically with nystatinorclotrimazole oral suspensions, although systemic treatment is sometimes needed. In serious cases, systemic azoles such asfluconazole or itraconazole, may be used. Amphotericin B can also be used if the infection is severe or if the <emphasis effect="italics">Candida</emphasis>species is azole-resistant.</para>
+    <figure id="import-auto-idm978903744">
+      <media id="import-auto-idm221642480" alt="">
+        <image mime-type="image/jpg" src="../../media/Image1-5f4e.jpg" height="206" width="306"/>
+      </media>
+    </figure>
+    <table id="import-auto-idm259360688" summary="">
+      <tgroup cols="1">
+        <colspec colnum="1" colname="c1"/>
+        <thead>
+          <row>
+            <entry/>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry><emphasis effect="bold">Figure </emphasis>Overgrowth of <emphasis effect="italics">Candida</emphasis> in the mouth is called thrush. It often appears as white patches. (credit: modification of work by Centers for Disease Control and Prevention)</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <figure id="import-auto-idm943728208">
+      <media id="import-auto-idm303782368" alt="">
+        <image mime-type="image/png" src="../../media/Picture 6-a8a6.png" height="485" width="576"/>
+      </media>
+    </figure>
+    <para id="import-auto-idm501351072"><emphasis effect="bold">Figure </emphasis>Pathogenic mechanism of <emphasis effect="italics">Candida albicans </emphasis>(credit: https://openi.nlm.nih.gov/detailedresult.php?img=PMC3654610_viru-4-119-g1&amp;req=4)</para>
+  </content>
+</document>

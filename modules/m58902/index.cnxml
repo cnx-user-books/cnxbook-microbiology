@@ -10,7 +10,7 @@
 
 <content>
 <section id="fs-id1167661260908" class="learning-objectives">
-<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<title>Learning Objectives</title>
 <list id="fs-id1167663929131">
 <item>Compare direct and indirect agglutination</item>
 <item>Identify various uses of hemagglutination in the diagnosis of disease</item>
@@ -70,7 +70,7 @@
 </media>
 <caption>The steps in direct and indirect Coombs’ tests are shown in the illustration.</caption>
 </figure>
-<para id="fs-id1167661437787">Antibodies that bind to red blood cells are not the only cause of hemagglutination. Some viruses also bind to red blood cells, and this binding can cause agglutination when the viruses cross-link the red blood cells. For example, <term class="no-emphasis">influenza viruses</term> have two different types of viral spikes called <term class="no-emphasis">neuraminidase</term> (N) and <term class="no-emphasis">hemagglutinin</term> (H), the latter named for its ability to agglutinate red blood cells (see <link document="m58808">Viruses</link>). Thus, we can use red blood cells to detect the presence of influenza virus by <term>direct hemagglutination assays</term> (HA), in which the virus causes visible agglutination of red blood cells. The <term class="no-emphasis">mumps</term> and <term class="no-emphasis">rubella</term> viruses can also be detected using HA.</para>
+<para id="fs-id1167661437787">Antibodies that bind to red blood cells are not the only cause of hemagglutination. Some viruses also bind to red blood cells, and this binding can cause agglutination when the viruses cross-link the red blood cells. For example, <term class="no-emphasis">influenza viruses</term> have two different types of viral spikes called <term class="no-emphasis">neuraminidase</term> (N) and <term class="no-emphasis">hemagglutinin</term> (H), the latter named for its ability to agglutinate red blood cells (see <link class="target-chapter" document="m58808">Viruses</link>). Thus, we can use red blood cells to detect the presence of influenza virus by <term>direct hemagglutination assays</term> (HA), in which the virus causes visible agglutination of red blood cells. The <term class="no-emphasis">mumps</term> and <term class="no-emphasis">rubella</term> viruses can also be detected using HA.</para>
 <para id="fs-id1167661351536">Most frequently, a <term class="no-emphasis">serial dilution</term> viral agglutination assay is used to measure the <term class="no-emphasis">titer</term> or estimate the amount of virus produced in cell culture or for vaccine production. A viral titer can be determined using a direct HA by making a serial dilution of the sample containing the virus, starting with a high concentration of sample that is then diluted in a series of wells. The highest dilution producing visible agglutination is the titer. The assay is carried out in a microtiter plate with V- or round-bottomed wells. In the presence of agglutinating viruses, the red blood cells and virus clump together and produce a diffuse mat over the bottom of the well. In the absence of virus, the red blood cells roll or sediment to the bottom of the well and form a dense pellet, which is why flat-bottomed wells cannot be used (<link target-id="OSC_Microbio_20_03_HA"/>).</para>
 <para id="fs-id1167661617576">A modification of the HA assay can be used to determine the titer of antiviral antibodies. The presence of these antibodies in a patient’s serum or in a lab-produced antiserum will neutralize the virus and block it from agglutinating the red cells, making this a <term>viral hemagglutination inhibition assay</term> (HIA). In this assay, patient serum is mixed with a standardized amount of virus. After a short incubation, a standardized amount of red blood cells is added and hemagglutination is observed. The titer of the patient’s serum is the highest dilution that blocks agglutination (<link target-id="OSC_Microbio_20_03_HIA"/>).</para>
 <figure id="OSC_Microbio_20_03_HA">
@@ -80,10 +80,10 @@
 <caption>A viral suspension is mixed with a standardized amount of red blood cells. No agglutination of red blood cells is visible when the virus is absent, and the cells form a compact pellet at the bottom of the well. In the presence of virus, a diffuse pink precipitate forms in the well. (credit bottom: modification of work by American Society for Microbiology)</caption>
 </figure>
 <figure id="OSC_Microbio_20_03_HIA">
-<media id="fs-id1167661303855" alt="A drawing of a well plate. The label at the top reads: Dilution. The rows are labeled: 1:1, 1:2, 1:4, 1:8, 1:16, 1:32, 1:64, 1:128. The columns are labeled: Sample A, titer = 64 (this spans columns 1 and 2). Sample B, no neutralizing antibody (spans columns 3 and 4). Sample C, titer = 32 spans columns 5 and 6.). Columns 1 and 2 have red dots in all rows but the bottom one. Columns 3 and 4 have no red dots. Columns 5 and 6 have red dots in all rows but the bottom two.">
+<media id="fs-id1167661303855" alt="A drawing of a well plate. The label at the top reads: Dilution. The rows are labeled: 1:1, 1:2, 1:4, 1:8, 1:16, 1:32, 1:64, 1:128. The columns are labeled: Sample A, titer = 128 (this spans columns 1 and 2). Sample B, no neutralizing antibody (spans columns 3 and 4). Sample C, titer = 64 spans columns 5 and 6.). Columns 1 and 2 have red dots in all rows but the bottom one. Columns 3 and 4 have no red dots. Columns 5 and 6 have red dots in all rows but the bottom two.">
 <image mime-type="image/jpeg" src="../../media/OSC_Microbio_20_03_HIA.jpg"/>
 </media>
-<caption>In this HIA, serum containing antibodies to influenzavirus underwent serial two-fold dilutions in a microtiter plate. Red blood cells were then added to the wells. Agglutination only occurred in those wells where the antibodies were too dilute to neutralize the virus. The highest dilution of patient serum that blocks agglutination is the titer of antibody  in the patient’s serum. In the case of this test, Sample A shows a titer of 64, and Sample C shows a titer of 32. (credit: modification of work by Evan Burkala)</caption>
+<caption>In this HIA, serum containing antibodies to influenzavirus underwent serial two-fold dilutions in a microtiter plate. Red blood cells were then added to the wells. Agglutination only occurred in those wells where the antibodies were too dilute to neutralize the virus. The highest concentration at which agglutination occurs is the titer of the antibodies in the patient’s serum. In the case of this test, Sample A shows a titer of 128, and Sample C shows a titer of 64. (credit: modification of work by Evan Burkala)</caption>
 </figure>
 <note id="fs-id1167663969544" class="microbiology check-your-understanding">
 <list id="fs-id1167663969547" list-type="bulleted" bullet-style="bullet">
@@ -302,6 +302,6 @@
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 
 </document>

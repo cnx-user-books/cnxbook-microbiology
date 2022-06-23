@@ -10,7 +10,7 @@
 
 <content>
 <section id="fs-id1167663662208" class="learning-objectives">
-<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<title>Learning Objectives</title>
 <list id="fs-id1167661553185">
 <item>Describe how the Kirby-Bauer disk diffusion test determines the susceptibility of a microbe to an antibacterial drug.</item>
 <item>Explain the significance of the minimal inhibitory concentration and the minimal bactericidal concentration relative to the effectiveness of an antimicrobial drug.</item>
@@ -169,5 +169,5 @@
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 </document>

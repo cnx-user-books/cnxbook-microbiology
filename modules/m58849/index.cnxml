@@ -10,7 +10,7 @@
 
 <content>
 <section id="fs-id1167740781557" class="learning-objectives">
-<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<title>Learning Objectives</title>
 <list id="fs-id1167740783177">
 <item>Explain the use of nucleic acid probes to visualize specific DNA sequences</item>
 <item>Explain the use of gel electrophoresis to separate DNA fragments</item>
@@ -366,5 +366,5 @@
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 </document>

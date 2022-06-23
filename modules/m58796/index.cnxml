@@ -10,17 +10,18 @@
 
 <content>
 <section id="fs-id1172098316315" class="learning-objectives">
-<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<title>Learning Objectives</title>
 <list id="fs-id1172100528185">
 <item>Describe the unique features of each class within the phylum Proteobacteria: Alphaproteobacteria, Betaproteobacteria, Gammaproteobacteria, Deltaproteobacteria, and Epsilonproteobacteria</item>
 <item>Give an example of a bacterium in each class of Proteobacteria</item>
 </list>
 </section>
-<para id="fs-id1172100551255">In 1987, the American microbiologist Carl <term class="no-emphasis">Woese</term> (1928–2012) suggested that a large and diverse group of bacteria that he called “purple bacteria and their relatives” should be defined as a separate phylum within the domain <term class="no-emphasis">Bacteria</term> based on the similarity of the nucleotide sequences in their genome.<footnote id="fs-id1172100840224">C.R. Woese. “Bacterial Evolution.” <emphasis effect="italics">Microbiological Review</emphasis> 51 no. 2 (1987):221–271.</footnote> This phylum of gram-negative bacteria subsequently received the name <term>Proteobacteria</term>. It includes many bacteria that are part of the normal human microbiota as well as many pathogens. The Proteobacteria are further divided into five classes: Alphaproteobacteria, Betaproteobacteria, Gammaproteobacteria, Deltaproteobacteria, and Epsilonproteobacteria (<link document="m58949">Appendix D</link>).</para>
+<para id="fs-id1172100551255">In 1987, the American microbiologist Carl <term class="no-emphasis">Woese</term> (1928–2012) suggested that a large and diverse group of bacteria that he called “purple bacteria and their relatives” should be defined as a separate phylum within the domain <term class="no-emphasis">Bacteria</term> based on the similarity of the nucleotide sequences in their genome.<footnote id="fs-id1172100840224">C.R. Woese. “Bacterial Evolution.” <emphasis effect="italics">Microbiological Review</emphasis> 51 no. 2 (1987):221–271.</footnote> This phylum of gram-negative bacteria subsequently received the name <term>Proteobacteria</term>. It includes many bacteria that are part of the normal human microbiota as well as many pathogens. The Proteobacteria are further divided into five classes: Alphaproteobacteria, Betaproteobacteria, Gammaproteobacteria, Deltaproteobacteria, and Epsilonproteobacteria (<link class="target-chapter" document="m58949">Appendix D</link>).</para>
 <section id="fs-id1172100912475">
 <title>Alphaproteobacteria</title>
-<para id="fs-id1172100585380">The first class of Proteobacteria is the <term>Alphaproteobacteria</term>, many of which are obligate or facultative intracellular bacteria. Some species are characterized as <term>oligotroph</term>s, organisms capable of living in low-nutrient environments such as deep oceanic sediments, glacial ice, or deep undersurface soil.</para>
-<para id="fs-id1172098257984">Among the Alphaproteobacteria are rickettsias, <term>obligate intracellular pathogen</term>s, that require part of their life cycle to occur inside other cells called host cells. When not growing inside a host cell, <term class="no-emphasis"><emphasis effect="italics">Rickettsia</emphasis></term> are metabolically inactive outside the host cell. They cannot synthesize their own adenosine triphosphate (ATP), and, therefore, rely on cells for their energy needs.</para><para id="fs-id1172101036746"><emphasis effect="italics">Rickettsia</emphasis> spp. include a number of serious human pathogens. For example, <term class="no-emphasis"><emphasis effect="italics">R. rickettsii</emphasis></term> causes <term class="no-emphasis">Rocky Mountain spotted fever</term>, a life-threatening form of meningoencephalitis (inflammation of the membranes that wrap the brain). <emphasis effect="italics">R. rickettsii</emphasis> infects ticks and can be transmitted to humans via a bite from an infected tick (<link target-id="OSC_Microbio_04_02_RRicketsii"/>).</para>
+<para id="fs-id1172100585380">The first class of Proteobacteria is the <term>Alphaproteobacteria</term>. The unifying characteristic of this class is that they are <term>oligotroph</term>s, organisms capable of living in low-nutrient environments such as deep oceanic sediments, glacial ice, or deep undersurface soil.</para>
+<para id="fs-id1172098257984">Among the Alphaproteobacteria are two taxa, chlamydias and rickettsias, that are <term>obligate intracellular pathogen</term>s, meaning that part of their life cycle must occur inside other cells called host cells. When not growing inside a host cell, <term class="no-emphasis"><emphasis effect="italics">Chlamydia</emphasis></term> and <term class="no-emphasis"><emphasis effect="italics">Rickettsia</emphasis></term> are metabolically inactive outside of the host cell. They cannot synthesize their own adenosine triphosphate (ATP), and, therefore, rely on cells for their energy needs.</para>
+<para id="fs-id1172101036746"><emphasis effect="italics">Rickettsia</emphasis> spp. include a number of serious human pathogens. For example, <term class="no-emphasis"><emphasis effect="italics">R. rickettsii</emphasis></term> causes <term class="no-emphasis">Rocky Mountain spotted fever</term>, a life-threatening form of meningoencephalitis (inflammation of the membranes that wrap the brain). <emphasis effect="italics">R. rickettsii</emphasis> infects ticks and can be transmitted to humans via a bite from an infected tick (<link target-id="OSC_Microbio_04_02_RRicketsii"/>).</para>
 <figure id="OSC_Microbio_04_02_RRicketsii">
 <media id="fs-id1172100923920" alt="A micrograph of blue cells labeled tick hemolymph cells. Inside of these cells are small red cells labeled R. rickettsia.">
 <image mime-type="image/jpeg" src="../../media/OSC_Microbio_04_02_RRicketsii.jpg"/>
@@ -28,11 +29,17 @@
 <caption>Rickettsias require special staining methods to see them under a microscope. Here, <emphasis effect="italics">R. rickettsii</emphasis>, which causes Rocky Mountain spotted fever, is shown infecting the cells of a tick. (credit: modification of work by Centers for Disease Control and Prevention)</caption>
 </figure>
 <para id="fs-id1172098449454">Another species of <emphasis effect="italics">Rickettsia</emphasis>, <emphasis effect="italics">R.</emphasis> <emphasis effect="italics">prowazekii</emphasis>, is spread by lice. It causes <term class="no-emphasis">epidemic typhus</term>, a severe infectious disease common during warfare and mass migrations of people. <emphasis effect="italics">R. prowazekii</emphasis> infects human endothelium cells, causing inflammation of the inner lining of blood vessels, high fever, abdominal pain, and sometimes delirium. A relative, <emphasis effect="italics">R. typhi</emphasis>, causes a less severe disease known as murine or endemic typhus, which is still observed in the southwestern United States during warm seasons.</para>
-
+<para id="fs-id1172100905107"><emphasis effect="italics">Chlamydia</emphasis> is another taxon of the Alphaproteobacteria. Members of this genus are gram-negative, obligate intracellular pathogens that are extremely resistant to the cellular defenses, giving them the ability to spread from host to host rapidly via elementary bodies. The metabolically and reproductively inactive <term>elementary bodies</term> are the endospore-like form of intracellular bacteria that enter an epithelial cell, where they become active. <link target-id="OSC_Microbio_04_02_Chlamydia"/> illustrates the life cycle of <emphasis effect="italics">Chlamydia</emphasis>.</para><para id="fs-id1172098308031"><emphasis effect="italics">C. trachomatis</emphasis> is a human pathogen that causes <term class="no-emphasis">trachoma</term>, a disease of the eyes, often leading to blindness. <emphasis effect="italics">C. trachomatis</emphasis> also causes the sexually transmitted disease <term class="no-emphasis">lymphogranuloma venereum</term> (LGV). This disease is often mildly symptomatic, manifesting as regional lymph node swelling, or it may be asymptomatic, but it is extremely contagious and is common on college campuses.</para>
 <para id="fs-id1172100639144"><link target-id="fs-id1172100936505"/> summarizes the characteristics of important genera of Alphaproteobacteria.</para>
-<para id="fs-id1172098308031"><emphasis effect="italics">C. trachomatis</emphasis> is a human pathogen that causes <term class="no-emphasis">trachoma</term>, a disease of the eyes, often leading to blindness. <emphasis effect="italics">C. trachomatis</emphasis> also causes the sexually transmitted disease <term class="no-emphasis">lymphogranuloma venereum</term> (LGV). This disease is often mildly symptomatic, manifesting as regional lymph node swelling, or it may be asymptomatic, but it is extremely contagious and is common on college campuses.</para>
-<table id="fs-id1172100936505" summary="Table titled Class Alphaproteobacteria. Three columns: Genus, Microscopic Morphology and Unique Characteristics. Genus Agrobacterium: gram-negative bacillus; characteristics: plant pathogen with one species, A. tumefaciens, that causes tumors in plants. Genus Bartonella: gram-negative, pleomorphic, flagellated coccobacllus; characteristics: facultative intracellular bacteria, transmitted by lice and fleas, cause trench fever and cat scratch disease in humans. Genus Brucella: gram-negative, small, flagellated coccobacillus; charactersitics: facultative intracellular bacteria, transmitted by contaminated milk from infected cows, cause brucellosis in cattle and humans. Genus Caulobacter: gram-negative bacillus; characteristics: us ed in studies on cellular adaptation and differentiation because of its peculiar life cycle (during cell division, forms “swarm” cells and “stalked” cells). Genus chlamydia: Gram-negative, coccoid or ovoid bacterium; characteristics: Obligatory intracellular bacteria; some cause chlamydia, trachoma, and pneumonia. Genus Coxiella: Small, gram-negative bacillus; characteristics: Obligatory intracellular bacteria; cause Q fever; potential for use as biological weapon. Genus Ehrlichia: very small, gram-negative, coccoid or ovoid bacteria; characteristics: Obligatory intracellular bacteria; can be transported from cell to cell; transmitted by ticks; cause ehrlichiosis (destruction of white blood cells and inflammation) in humans and dogs. Genus Hyphomicrogium: Gram-negative bacilli; grows from a stalk; characteristics Similar to Caulobacter. Genus Methylocystis is Gram-negative, coccoid or short bacilli; characteristics: nitrogen-fixing aerobic bacteria. Genus Rhizobium: Gram-negative, rectangular bacilli with rounded ends forming clusters; characteristics: Nitrogen-fixing bacteria that live in soil and form symbiotic relationship with roots of legumes (e.g., clover, alfalfa, and beans). Genus Rickettsia: Gram-negative, highly pleomorphic bacteria (may be cocci, rods, or threads); characteristics: Obligate intracellular bacteria; transmitted by ticks; may cause Rocky Mountain spotted fever and typhus." class="span-all">
-<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+<figure id="OSC_Microbio_04_02_Chlamydia">
+<media id="fs-id1172100769678" alt="A diagram showing the life cycle of Chlamydia. An epithelial cell is infected by small spheres labeldd elementary bodies. Within 12 hours, these form into reticulate bodies which divide  to form inclusions within 24 hours. Within the inclusions more elementary bodies are formed and within 72 hours these are released when the cell ruptures.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_04_02_Chlamydia.jpg"/>
+</media>
+<caption><emphasis effect="italics">Chlamydia</emphasis> begins infection of a host when the metabolically inactive elementary bodies enter an epithelial cell. Once inside the host cell, the elementary bodies turn into active reticulate bodies. The reticulate bodies multiply and release more elementary bodies when the cell dies after the <emphasis effect="italics">Chlamydia</emphasis> uses all of the host cell’s ATP. (credit: modification of work by Centers for Disease Control and Prevention)</caption>
+</figure>
+<table id="fs-id1172100936505" summary="Table titled Class Alphaproteobacteria. Three columns: Genus, Microscopic Morphology and Unique Characteristics. Genus Agrobacterium: gram-negative bacillus; characteristics: plant pathogen with one species, A. tumefaciens, that causes tumors in plants. Genus Bartonella: gram-negative, pleomorphic, flagellated coccobacllus; characteristics: facultative intracellular bacteria, transmitted by lice and fleas, cause trench fever and cat scratch disease in humans. Genus Brucella: gram-negative, small, flagellated coccobacillus; charactersitics: facultative intracellular bacteria, transmitted by contaminated milk from infected cows, cause brucellosis in cattle and humans. Genus Caulobacter: gram-negative bacillus; characteristics: us ed in studies on cellular adaptation and differentiation because of its peculiar life cycle (during cell division, forms “swarm” cells and “stalked” cells). Genus chlamydia: Gram-negative, coccoid or ovoid bacterium; characteristics: Obligatory intracellular bacteria; some cause chlamydia, trachoma, and pneumonia. Genus Coxiella: Small, gram-negative bacillus; characteristics: Obligatory intracellular bacteria; cause Q fever; potential for use as biological weapon. Genus Ehrlichia: very small, gram-negative, coccoid or ovoid bacteria; characteristics: Obligatory intracellular bacteria; can be transported from cell to cell; transmitted by ticks; cause ehrlichiosis (destruction of white blood cells and inflammation) in humans and dogs. Genus Hyphomicrogium: Gram-negative bacilli; grows from a stalk;  characteristics Similar to Caulobacter. Genus Methylocystis is Gram-negative, coccoid or short bacilli; characteristics: nitrogen-fixing aerobic bacteria. Genus Rhizobium: Gram-negative, rectangular bacilli with rounded ends forming clusters; characteristics: Nitrogen-fixing bacteria that live in soil and form symbiotic relationship with roots of legumes (e.g., clover, alfalfa, and beans). Genus Rickettsia: Gram-negative, highly pleomorphic bacteria (may be cocci, rods, or threads); characteristics: Obligate intracellular bacteria; transmitted by ticks; may cause Rocky Mountain spotted fever and typhus." class="span-all">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
 <colspec colnum="2" colname="c2"/>
 <colspec colnum="3" colname="c3"/>
 <thead>
@@ -66,7 +73,11 @@
 <entry valign="top" align="left">Gram-negative bacillus</entry>
 <entry valign="top" align="left">Used in studies on cellular adaptation and differentiation because of its peculiar life cycle (during cell division, forms “swarm” cells and “stalked” cells)</entry>
 </row>
-
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis"><emphasis effect="italics">Chlamydia</emphasis></term></entry>
+<entry valign="top" align="left">Gram-negative, coccoid or ovoid bacterium</entry>
+<entry valign="top" align="left">Obligatory intracellular bacteria; some cause chlamydia, trachoma, and pneumonia</entry>
+</row>
 <row valign="top">
 <entry valign="top" align="left"><term class="no-emphasis"><emphasis effect="italics">Coxiella</emphasis></term></entry>
 <entry valign="top" align="left">Small, gram-negative bacillus</entry>
@@ -98,17 +109,17 @@
 <entry valign="top" align="left">Obligate intracellular bacteria; transmitted by ticks; may cause Rocky Mountain spotted fever and typhus</entry>
 </row>
 </tbody>
-
 </tgroup>
-</table><note id="fs-id1172098458544" class="microbiology check-your-understanding">
+</table>
+<note id="fs-id1172098458544" class="microbiology check-your-understanding">
 <list id="fs-id1167661483338" list-type="bulleted" bullet-style="bullet">
-<item>What is a common characteristic among the human pathogenic Alphaproteobacteria?</item>
+<item>What characteristic do all Alphaproteobacteria share?</item>
 </list>
 </note>
 </section>
 <section id="fs-id1172100921608">
 <title>Betaproteobacteria</title>
-<para id="fs-id1172098435134"><term>Betaproteobacteria</term> are a diverse group of bacteria. The different bacterial species within this group utilize a wide range of metabolic strategies and can survive in a range of environments. Some genera include species that are human pathogens, able to cause severe, sometimes life-threatening disease. The genus <term class="no-emphasis"><emphasis effect="italics">Neisseria</emphasis></term>, for example, includes the bacteria <emphasis effect="italics">N. gonorrhoeae,</emphasis> the causative agent of the STI <term class="no-emphasis">gonorrhea</term>, and <emphasis effect="italics">N. meningitides</emphasis>, the causative agent of <term class="no-emphasis">bacterial meningitis</term>.</para>
+<para id="fs-id1172098435134">Unlike Alphaproteobacteria, which survive on a minimal amount of nutrients, the class <term>Betaproteobacteria</term> are <term>eutroph</term>s (or copiotrophs), meaning that they require a copious amount of organic nutrients. Betaproteobacteria often grow between aerobic and anaerobic areas (e.g., in mammalian intestines). Some genera include species that are human pathogens, able to cause severe, sometimes life-threatening disease. The genus <term class="no-emphasis"><emphasis effect="italics">Neisseria</emphasis></term>, for example, includes the bacteria <emphasis effect="italics">N. gonorrhoeae,</emphasis> the causative agent of the STI <term class="no-emphasis">gonorrhea</term>, and <emphasis effect="italics">N. meningitides</emphasis>, the causative agent of <term class="no-emphasis">bacterial meningitis</term>.</para>
 <para id="fs-id1172100635980"><emphasis effect="italics">Neisseria</emphasis> are cocci that live on mucosal surfaces of the human body. They are fastidious, or difficult to culture, and they require high levels of moisture, nutrient supplements, and carbon dioxide. Also, <emphasis effect="italics">Neisseria</emphasis> are microaerophilic, meaning that they require low levels of oxygen. For optimal growth and for the purposes of identification, <emphasis effect="italics">Neisseria</emphasis> spp. are grown on chocolate agar (i.e., agar supplemented by partially hemolyzed red blood cells). Their characteristic pattern of growth in culture is diplococcal: pairs of cells resembling coffee beans (<link target-id="OSC_Microbio_04_02_Neisseria"/>).</para>
 <figure id="OSC_Microbio_04_02_Neisseria">
 <media id="fs-id1172100560227" alt="A photograph showing round domes on a brown background.">
@@ -164,7 +175,7 @@
 </table>
 <note id="fs-id1172098509430" class="microbiology check-your-understanding">
 <list id="fs-id1167663529377" list-type="bulleted" bullet-style="bullet">
-<item>Why are <emphasis effect="italics">Neisseria</emphasis> classified as microaerophilic?</item>
+<item>What characteristic do all Betaproteobacteria share?</item>
 </list>
 </note>
 <note id="fs-id1172100550618" class="microbiology clinical-focus">
@@ -407,8 +418,8 @@
 <list id="fs-id1172100972707" list-type="bulleted" bullet-style="bullet">
 <item><emphasis effect="bold">Proteobacteria</emphasis> is a phylum of gram-negative bacteria discovered by Carl Woese in the 1980s based on nucleotide sequence homology.</item>
 <item>Proteobacteria are further classified into the classes alpha-, beta-, gamma-, delta- and epsilonproteobacteria, each class having separate orders, families, genera, and species.</item>
-<item><emphasis effect="bold">Alphaproteobacteria</emphasis> include several obligate and facultative intracellular pathogens, including the rickettsias. Some Alphaproteobacteria can convert atmospheric nitrogen to nitrites, making nitrogen usable for other forms of life.</item>
-<item><emphasis effect="bold">Betaproteobacteria</emphasis> are a diverse group of bacteria that include human pathogens of the genus <emphasis effect="italics">Neisseria</emphasis> and the species <emphasis effect="italics">Bordetella pertussis</emphasis>.</item>
+<item><emphasis effect="bold">Alphaproteobacteria</emphasis> are <emphasis effect="bold">oligotrophs</emphasis>. The taxa chlamydias and rickettsias are <emphasis effect="bold">obligate intracellular pathogens,</emphasis> feeding on cells of host organisms; they are metabolically inactive outside of the host cell. Some Alphaproteobacteria can convert atmospheric nitrogen to nitrites, making nitrogen usable by other forms of life.</item>
+<item><emphasis effect="bold">Betaproteobacteria</emphasis> are <emphasis effect="bold">eutrophs</emphasis>. They include human pathogens of the genus <emphasis effect="italics">Neisseria</emphasis> and the species <emphasis effect="italics">Bordetella pertussis</emphasis>.</item>
 <item><emphasis effect="bold">Gammaproteobacteria</emphasis> are the largest and the most diverse group of Proteobacteria. Many are human pathogens that are aerobes or facultative anaerobes. Some Gammaproteobacteria are <emphasis effect="bold">enteric</emphasis> bacteria that may be coliform or noncoliform. <emphasis effect="italics">Escherichia coli</emphasis>, a member of Gammaproteobacteria, is perhaps the most studied bacterium.</item>
 <item><emphasis effect="bold">Deltaproteobacteria</emphasis> make up a small group able to reduce sulfate or elemental sulfur. Some are scavengers and form myxospores, with multicellular fruiting bodies.</item>
 <item><emphasis effect="bold">Epsilonproteobacteria</emphasis> make up the smallest group of Proteobacteria. The genera <emphasis effect="italics">Campylobacter</emphasis> and <emphasis effect="italics">Helicobacter</emphasis> are human pathogens.</item>
@@ -432,13 +443,13 @@
 </exercise>
 <exercise id="fs-id1172098544345">
 <problem id="fs-id1172098544348">
-<para id="fs-id1172100921686">Which of the following Alphaproteobacteria is the cause of Rocky Mountain spotted fever and typhus?</para>
+<para id="fs-id1172100921686">All Alphaproteobacteria are which of the following?</para>
 <list id="fs-id1172100921689" list-type="enumerated" number-style="upper-alpha">
-<item>Bartonella</item>
-<item>Coxiella</item>
-<item>Rickettsia</item>
-<item>Ehrlichia</item>
-<item>Brucella</item>
+<item>oligotrophs</item>
+<item>intracellular</item>
+<item>pathogenic</item>
+<item>all of the above</item>
+<item>none of the above</item>
 </list>
 </problem>
 <solution id="fs-id1172100585678">
@@ -528,5 +539,5 @@
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 </document>

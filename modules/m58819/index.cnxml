@@ -10,7 +10,7 @@
 
 <content>
 <section id="fs-id1167660342095" class="learning-objectives">
-<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<title>Learning Objectives</title>
 <list id="fs-id1167658043455">
 <item>Define and describe metabolism</item>
 <item>Compare and contrast autotrophs and heterotrophs</item>
@@ -20,7 +20,7 @@
 <item>Describe the differences between competitive and noncompetitive enzyme inhibitors</item>
 </list>
 </section>
-<note id="fs-id1167662371112" class="microbiology clinical-focus">
+<note id="fs-id1167662371112" class="microbiology clinical-focus-opener">
 <title>Part 1</title>
 <para id="fs-id1167660311671">Hannah is a 15-month-old girl from Washington state. She is spending the summer in Gambia, where her parents are working for a nongovernmental organization. About 3 weeks after her arrival in Gambia, Hannah’s appetite began to diminish and her parents noticed that she seemed unusually sluggish, fatigued, and confused. She also seemed very irritable when she was outdoors, especially during the day. When she began vomiting, her parents figured she had caught a 24-hour virus, but when her symptoms persisted, they took her to a clinic. The local physician noticed that Hannah’s reflexes seemed abnormally slow, and when he examined her eyes with a light, she seemed unusually light sensitive. She also seemed to be experiencing a stiff neck.</para>
 <list id="fs-id1167660146587" list-type="bulleted" bullet-style="bullet">
@@ -113,7 +113,7 @@
 <media id="fs-id1167662799603" alt="A diagram showing how ATP relates to both endergonic and exergonic reactions. Exergonic reactions such as the reaction that breaks glucose into carbon dioxide, water and heat is exergonic and builds ATP from ADP + Pi. This process involves glycolysis, Krebs cycle, and oxidative phosphorylation. Endergonic reactions, such as building glucose into polysaccharides (a process of bond formation) use the energy released when ATP is converted into ADP and P.">
 <image mime-type="image/jpeg" src="../../media/OSC_Microbio_08_01_EndoExo.jpg"/>
 </media>
-<caption>Exergonic reactions are coupled to endergonic ones, making the combination favorable. Here, the endergonic reaction of ATP phosphorylation is coupled to the exergonic reactions of catabolism. Similarly, the exergonic reaction of ATP dephosphorylation is coupled to the endergonic reaction of polysaccharide formation, an example of anabolism.</caption>
+<caption>Exergonic reactions are coupled to endergonic ones, making the combination favorable. Here, the endergonic reaction of ATP phosphorylation is coupled to the exergonic reactions of catabolism. Similarly, the exergonic reaction of ATP dephosphorylation is coupled to the endergonic reaction of polypeptide formation, an example of anabolism.</caption>
 </figure>
 <note id="fs-id1167662552007" class="microbiology check-your-understanding">
 <list id="fs-id1167655789345" list-type="bulleted" bullet-style="bullet">
@@ -318,5 +318,5 @@
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 </document>

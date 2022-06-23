@@ -10,13 +10,13 @@
 
 <content>
 <section id="fs-id1172098448487" class="learning-objectives">
-<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<title>Learning Objectives</title>
 <list id="fs-id1172101003084">
 <item>Describe the unique features of deeply branching bacteria</item>
 <item>Give examples of significant deeply branching bacteria</item>
 </list>
 </section>
-<para id="fs-id1172098446606">On a <term class="no-emphasis">phylogenetic tree</term> (see <link document="m58782">A Systematic Approach</link>), the trunk or root of the tree represents a common ancient evolutionary ancestor, often called the <term class="no-emphasis">last universal common ancestor (LUCA)</term>, and the branches are its evolutionary descendants. Scientists consider the <term>deeply branching bacteria</term>, such as the genus <term class="no-emphasis"><emphasis effect="italics">Acetothermus</emphasis></term>, to be the first of these non-LUCA forms of life produced by evolution some 3.5 billion years ago. When placed on the phylogenetic tree, they stem from the common root of life, deep and close to the <term class="no-emphasis">LUCA</term> root—hence the name “deeply branching” (<link target-id="OSC_Microbio_04_05_DeepBranch"/>).</para>
+<para id="fs-id1172098446606">On a <term class="no-emphasis">phylogenetic tree</term> (see <link class="target-chapter" document="m58782">A Systematic Approach</link>), the trunk or root of the tree represents a common ancient evolutionary ancestor, often called the <term class="no-emphasis">last universal common ancestor (LUCA)</term>, and the branches are its evolutionary descendants. Scientists consider the <term>deeply branching bacteria</term>, such as the genus <term class="no-emphasis"><emphasis effect="italics">Acetothermus</emphasis></term>, to be the first of these non-LUCA forms of life produced by evolution some 3.5 billion years ago. When placed on the phylogenetic tree, they stem from the common root of life, deep and close to the <term class="no-emphasis">LUCA</term> root—hence the name “deeply branching” (<link target-id="OSC_Microbio_04_05_DeepBranch"/>).</para>
 <figure id="OSC_Microbio_04_05_DeepBranch">
 <media id="fs-id1172098316181" alt="A diagram of a phylogenetic tree. At the base is the label LUCA This branches into two branches. The branch on the left is the bacteria, the branch to the right branches again to form the archaea and Eukarya. The lowest branch of the bacteria is the acetothermus (which is starred). Branches above that include (from bottom to top): aquifex, thermotoga, green filamentous bacteria, bacteroides, cytophaga, planctomyces, gram positives, cyanobacteria, porteiobacteria and spirochetes. Branches of the arcaea from bottom to top: pyrodicticum, thermoproteus, Thermococcus, methanococcus, methanobacterium, methanosarcina, and halophies. Branches of the Eukarya from bottom to top: diplomonads, microsporidia, trichomonads, flagellates, entamoebae, slime molds, ciliates, plants, animals, and fungi.">
 <image mime-type="image/jpeg" src="../../media/OSC_Microbio_04_05_DeepBranch.jpg"/>
@@ -120,5 +120,5 @@
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 </document>

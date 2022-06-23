@@ -10,7 +10,7 @@
 
 <content>
 <section id="fs-id1171359018648" class="learning-objectives">
-<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<title>Learning Objectives</title>
 <list id="fs-id1171360169554">
 <item>Describe how microorganisms are classified and distinguished as unique species</item>
 <item>Compare historical and current systems of taxonomy used to classify microorganisms</item>
@@ -84,7 +84,7 @@
 </section>
 <section id="fs-id1171360404117">
 <title>Bergey’s Manuals</title>
-<para id="fs-id1171360346467">Whether in a tree or a web, microbes can be difficult to identify and classify. Without easily observable macroscopic features like feathers, feet, or fur, scientists must capture, grow, and devise ways to study their biochemical properties to differentiate and classify microbes. Despite these hurdles, a group of microbiologists created and updated a set of manuals for identifying and classifying microorganisms. First published in 1923 and since updated many times, <term class="no-emphasis"><emphasis effect="italics">Bergey’s Manual</emphasis></term> <emphasis effect="italics">of Determinative Bacteriology</emphasis> and <emphasis effect="italics">Bergey’s Manual of Systematic Bacteriology</emphasis> are the standard references for identifying and classifying different prokaryotes. (<link document="m58949">Appendix D</link> of this textbook is partly based on Bergey’s manuals; it shows how the organisms that appear in this textbook are classified.) Because so many bacteria look identical, methods based on nonvisual characteristics must be used to identify them. For example, biochemical tests can be used to identify chemicals unique to certain species. Likewise, serological tests can be used to identify specific antibodies that will react against the proteins found in certain species. Ultimately, DNA and rRNA sequencing can be used both for identifying a particular bacterial species and for classifying newly discovered species.</para>
+<para id="fs-id1171360346467">Whether in a tree or a web, microbes can be difficult to identify and classify. Without easily observable macroscopic features like feathers, feet, or fur, scientists must capture, grow, and devise ways to study their biochemical properties to differentiate and classify microbes. Despite these hurdles, a group of microbiologists created and updated a set of manuals for identifying and classifying microorganisms. First published in 1923 and since updated many times, <term class="no-emphasis"><emphasis effect="italics">Bergey’s Manual</emphasis></term> <emphasis effect="italics">of Determinative Bacteriology</emphasis> and <emphasis effect="italics">Bergey’s Manual of Systematic Bacteriology</emphasis> are the standard references for identifying and classifying different prokaryotes. (<link class="target-chapter" document="m58949">Appendix D</link> of this textbook is partly based on Bergey’s manuals; it shows how the organisms that appear in this textbook are classified.) Because so many bacteria look identical, methods based on nonvisual characteristics must be used to identify them. For example, biochemical tests can be used to identify chemicals unique to certain species. Likewise, serological tests can be used to identify specific antibodies that will react against the proteins found in certain species. Ultimately, DNA and rRNA sequencing can be used both for identifying a particular bacterial species and for classifying newly discovered species.</para>
 <note id="fs-id1171359199455" class="microbiology check-your-understanding">
 <list id="fs-id1171360357431" list-type="bulleted" bullet-style="bullet">
 <item>What is binomial nomenclature and why is it a useful tool for naming organisms?</item>
@@ -262,5 +262,5 @@
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 </document>

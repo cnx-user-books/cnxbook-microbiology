@@ -10,7 +10,7 @@
 
 <content>
 <section id="fs-id1168329295462" class="learning-objectives">
-<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<title>Learning Objectives</title>
 <list id="fs-id1168329492688">
 <item>Describe the lytic and lysogenic life cycles</item>
 <item>Describe the replication process of animal viruses</item>
@@ -20,7 +20,7 @@
 <item>Describe the replication process of plant viruses</item>
 </list>
 </section>
-<para id="fs-id1168329336621">All viruses depend on cells for reproduction and metabolic processes. By themselves, viruses do not encode for all of the enzymes necessary for viral replication. But within a host cell, a virus can commandeer cellular machinery to produce more viral particles. Bacteriophages replicate only in the cytoplasm, since prokaryotic cells do not have a nucleus or organelles. In eukaryotic cells, most DNA viruses can replicate inside the nucleus, with an exception observed in the large DNA viruses, such as the poxviruses, that can replicate in the cytoplasm. With a few exceptions, RNA viruses that infect animal cells replicate in the cytoplasm. An important exception that will be highlighted later is Influenza virus.</para>
+<para id="fs-id1168329336621">All viruses depend on cells for reproduction and metabolic processes. By themselves, viruses do not encode for all of the enzymes necessary for viral replication. But within a host cell, a virus can commandeer cellular machinery to produce more viral particles. Bacteriophages replicate only in the cytoplasm, since prokaryotic cells do not have a nucleus or organelles. In eukaryotic cells, most DNA viruses can replicate inside the nucleus, with an exception observed in the large DNA viruses, such as the poxviruses, that can replicate in the cytoplasm. RNA viruses that infect animal cells often replicate in the cytoplasm.</para>
 <section id="fs-id1168326822668">
 <title>The Life Cycle of Viruses with Prokaryote Hosts</title>
 <para id="fs-id1168329491716">The life cycle of bacteriophages has been a good model for understanding how viruses affect the cells they infect, since similar processes have been observed for eukaryotic viruses, which can cause immediate death of the cell or establish a latent or chronic infection. <term>Virulent phages</term> typically lead to the death of the cell through cell lysis. <term>Temperate phages</term>, on the other hand, can become part of a host chromosome and are replicated with the cell genome until such time as they are induced to make newly assembled viruses, or <term>progeny virus</term><emphasis effect="bold">es</emphasis>.</para>
@@ -46,7 +46,7 @@
 </figure>
 <note id="fs-id1168329489674" class="microbiology link-to-learning">
 
-<para id="fs-id1168326787315">This <link url="https://www.openstax.org/l/22lyticcycle">video</link> illustrates the lytic cycle.</para>
+<para id="fs-id1168326787315">This <link url="https://www.openstax.org/l/22lysogeniclife">video</link> illustrates the stages of the lysogenic life cycle of a bacteriophage and the transition to a lytic phase.</para>
 </note>
 <note id="fs-id1168329155866" class="microbiology check-your-understanding">
 <list id="fs-id1168329443123">
@@ -77,7 +77,7 @@
 <media id="fs-id1168326822638" alt="Steps of influenza infection. Step 1 is attachment when the influenza virus becomes attached to a target epithelial cell. This image shows a spherical virus binding to the surface of a host cell. Step 2 is penetration when the cell engulfs the virus by endocytosis; this shows the virus within a vacuole. Step 3 is uncoating when the viral contents are released; the image shows the virus being released from the vacuole. Step 4 is biosynthesis when the viral RNA enters the nucleus where it is replicated by RNA polymerase. Step 5 is assembly when the new phage particles are assembled. Step 6 is release when new viral particles are made and released into the extracellular fluid. The cell, which is not killed in the process continues to make new viruses.">
 <image mime-type="image/jpeg" src="../../media/OSC_Microbio_06_02_RepAnVirus.jpg"/>
 </media>
-<caption>Influenza virus is one of the few RNA viruses that replicates in the nucleus of cells. In influenza virus infection, viral glycoproteins attach the virus to a host epithelial cell. As a result, the virus is engulfed. Viral RNA and viral proteins are made and assembled into new virions that are released by budding.</caption>
+<caption>In influenza virus infection, viral glycoproteins attach the virus to a host epithelial cell. As a result, the virus is engulfed. Viral RNA and viral proteins are made and assembled into new virions that are released by budding.</caption>
 </figure>
 <para id="fs-id1168326793121">Animal viruses do not always express their genes using the normal flow of genetic information—from DNA to RNA to protein. Some viruses have a <term class="no-emphasis">dsDNA</term> genome like cellular organisms and can follow the normal flow. However, others may have <term class="no-emphasis">ssDNA</term>, <term class="no-emphasis">dsRNA</term>, or <term class="no-emphasis">ssRNA</term> genomes. The nature of the genome determines how the genome is replicated and expressed as viral proteins. If a genome is ssDNA, host enzymes will be used to synthesize a second strand that is complementary to the genome strand, thus producing dsDNA. The dsDNA can now be replicated, transcribed, and translated similar to host DNA.</para>
 <para id="fs-id1168326905294">If the viral genome is RNA, a different mechanism must be used. There are three types of RNA genome: dsRNA, <term>positive (+) single-strand (+ssRNA)</term> or <term>negative (−) single-strand RNA (−ssRNA)</term>. If a virus has a +ssRNA genome, it can be translated directly to make viral proteins. Viral genomic +ssRNA acts like cellular mRNA. However, if a virus contains a −ssRNA genome, the host ribosomes cannot translate it until the −ssRNA is replicated into +ssRNA by viral <term class="no-emphasis">RNA-dependent RNA polymerase (RdRP)</term> (see <link target-id="OSC_Microbio_06_02_RNAvirus"/>). The RdRP is brought in by the virus and can be used to make +ssRNA from the original −ssRNA genome. The RdRP is also an important enzyme for the replication of dsRNA viruses, because it uses the negative strand of the double-stranded genome as a template to create +ssRNA. The newly synthesized +ssRNA copies can then be translated by cellular ribosomes.</para>
@@ -108,10 +108,10 @@
 <para id="fs-id1168328990524">Not all animal viruses undergo replication by the lytic cycle. There are viruses that are capable of remaining hidden or dormant inside the cell in a process called latency. These types of viruses are known as <term>latent virus</term><emphasis effect="bold">es</emphasis> and may cause latent infections. Viruses capable of latency may initially cause an acute infection before becoming dormant.</para>
 <para id="fs-id1168329089696">For example, the varicella-zoster virus infects many cells throughout the body and causes <term class="no-emphasis">chickenpox</term>, characterized by a rash of blisters covering the skin. About 10 to 12 days postinfection, the disease resolves and the virus goes dormant, living within nerve-cell ganglia for years. During this time, the virus does not kill the nerve cells or continue replicating. It is not clear why the virus stops replicating within the nerve cells and expresses few viral proteins but, in some cases, typically after many years of dormancy, the virus is reactivated and causes a new disease called <term class="no-emphasis">shingles</term> (<link target-id="OSC_Microbio_06_02_latency"/>). Whereas chickenpox affects many areas throughout the body, shingles is a nerve cell-specific disease emerging from the ganglia in which the virus was dormant.</para>
 <figure id="OSC_Microbio_06_02_latency">
-<media id="fs-id1168329033189" alt="Figure a is an electron micrograph that shows a a shpere within a larger blob-shaped structure. Figure b shows raised red dots on a person’s face.">
-<image mime-type="image/png" src="../../media/OSC_Microbio_06_02_latency.png"/>
+<media id="fs-id1168329033189" alt="Figure a is an electron micrograph that shows a a shpere within a larger blob-shaped structure. Figure b shows raised red dots on a person’s back.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_06_02_latency.jpg"/>
 </media>
-<caption>(a) Varicella-zoster, the virus that causes chickenpox, has an enveloped icosahedral capsid visible in this transmission electron micrograph. Its double-stranded DNA genome becomes incorporated in the host DNA. (b) After a period of latency, the virus can reactivate in the form of shingles, usually manifesting as a painful, localized rash on one side of the body. (credit a: modification of work by Erskine Palmer and B.G. Partin—scale-bar data from Matt Russell; credit b: Paulo O / Flickr (CC-BY)</caption>
+<caption>(a) Varicella-zoster, the virus that causes chickenpox, has an enveloped icosahedral capsid visible in this transmission electron micrograph. Its double-stranded DNA genome becomes incorporated in the host DNA. (b) After a period of latency, the virus can reactivate in the form of shingles, usually manifesting as a painful, localized rash on one side of the body. (credit a: modification of work by Erskine Palmer and B.G. Partin—scale-bar data from Matt Russell; credit b: modification of work by Rosmarie Voegtli)</caption>
 </figure>
 <para id="fs-id1168329051690">Latent viruses may remain dormant by existing as circular viral genome molecules outside of the host chromosome. Others become proviruses by integrating into the host genome. During dormancy, viruses do not cause any symptoms of disease and may be difficult to detect. A patient may be unaware that he or she is carrying the virus unless a viral diagnostic test has been performed.</para>
 </section>
@@ -328,5 +328,5 @@
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 </document>

@@ -1,0 +1,47 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Beer making</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m64901</md:content-id>
+  <md:title>Beer making</md:title>
+  <md:abstract/>
+  <md:uuid>fe9394f4-dfe3-4c81-84dd-4d9343c78056</md:uuid>
+</metadata>
+
+<content>
+    <para id="import-auto-idm1203356976">Beer</para>
+    <para id="import-auto-idm1252839712">Beer making is combination of science and art.  Beer requires only 4 ingredients in its simplest form: barley, water, hops and yeast.  It relies on enzymes provided by both the barley and yeast for the conversion from complex plant starches to alcohol.  Hops mainly play a flavoring role along with other purposes. There is an art to how these components are brought together.  If you have ever tasted a friend’s home brew, you understand the difference of science going right versus it going very wrong.</para>
+    <para id="import-auto-idm1130395824">When done correctly, beer making can take on great levels of complexity depending on the brewer; however, the basic process is shown in Figure 1. This process can be thought of in the following steps: </para>
+    <figure id="import-auto-idm1080625840">
+      <media id="import-auto-idm365303280" alt="">
+        <image mime-type="image/png" src="../../media/Picture 5-8e4f.png" height="341" width="624"/>
+      </media>
+    </figure>
+    <para id="import-auto-idm1091940288">Figure 1. The beer making process (By J.P.Lon at English Wikipedia, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7161486)</para>
+    <para id="import-auto-idm390201680">1. Malting.  Malting the first step, is the pivotal process of preparing barley, a grain, for the next steps. Barley contains starch, which is insoluble in water and inaccessible to yeasts, at the beginning in the kernel. Each step of the malting process helps break the starches as well as other nutrients of the kernel (protein, fats) down. Steeping is the first step in malting, where the grain is steeped (soaked) in water for about 40 hours. The next step is germination of the barley grain. To germinate the barley, the grain is spread out on the floor of the germination room where rootlets begin to form. Upon germination, the barley seed starts to activate its own enzymes to break down the starch into sugars and its proteins into amino acids. The barley plant wants to use that sugar, for instance, as energy to grow into a sprout. The germination process produces the enzymes which break down the starches within the grain into shorter length polysaccharides. At the end of the germination process, about three days, the starch has become partially converted to short chain sugars but not completely. The barley grain is called green malt at this point and has developed small roots (Figure 2).</para>
+    <figure id="import-auto-idm1097319904">
+      <media id="import-auto-idm1142838112" alt="">
+        <image mime-type="image/png" src="../../media/Picture 6-acb2.png" height="272" width="630"/>
+      </media>
+    </figure>
+    <para id="import-auto-idm1091348480">Figure 2. Green malt before kilning</para>
+    <para id="import-auto-idm1172149696">2. Kilning.  The germination is halted by drying the green malt on metal racks in the kiln house. The temperature is then raised to 85°C for a light malt or higher for a dark malt. It is important that temperature increases are gradual so that the enzymes in the grain are not denatured but the sprouting is stopped. The malt roots are removed, and the dried malt (which look like seeds) is stored. Although malted barley is the primary ingredient, unmalted corn, rice or wheat (termed adjuncts)<emphasis effect="bold"/>are sometimes added, to impart different beer flavors.  The differences in the way the barley is kilned will affect the flavor, color and aroma of the beer. If you kiln the barley longer and at higher temperatures, the darker and more chocolate-flavored the beer will be.  The strongly roasted malt will be used for stout beer while less roasted malt, called pale malt, can be used in lighter colored beers like pilsners.</para>
+    <para id="import-auto-idm1195793856">3. Mashing. <emphasis effect="bold"/>Milling is the cracking of the grain before mashing. Milling the grain allows it to absorb the water it will eventually be mixed with in order for the water to extract sugars from the malt. Mashing is the process of turning the finely-ground malt, called the grist, into a sweetened liquid called wort. During mashing, the milled grain is added to warm water in a large cooking vessel called the mash tun (Figure 3). In this mash tun, the grain and heated water mix creating a cereal-like mash. The barley enzymes finish what they started in malting: they convert the starches and other shorter polysaccharides, which were released during the malting stage, to simple sugars that can be fermented. Other conversions, such as proteins to amino acids, also happen.  This sugar rich liquid is then strained through the bottom of the mash (a process called lautering) and is now called wort.</para>
+    <figure id="import-auto-idm1137672048">
+      <media id="import-auto-idm1259392400" alt="">
+        <image mime-type="image/png" src="../../media/Picture 10.png" height="333" width="445"/>
+      </media>
+    </figure>
+    <para id="import-auto-idm1259300816">Figure 3. A large mash tun with a rake implement for mixing the mash (https://commons.wikimedia.org/w/index.php?curid=97642)</para>
+    <para id="import-auto-idm1151337568">4. Boiling/hopping.  As the wort is heated, certain types of hops, which are flowers of the plant <emphasis effect="italics">Humulus lupulus</emphasis>, are added at different times during the boil for either bitterness or aroma and to help preserve it. The wort is boiled for one to two hours to concentrate it as well as extract the necessary essence from the hops. Hops also release compounds that inhibit the growth of bacteria that would spoil the beer later.</para>
+    <para id="import-auto-idm1082636496">5. Cooling. The wort is transferred quickly from the brew kettle through a device to filter out the hops and then onto a heat exchanger to be cooled. It is important to quickly cool the wort to a point where yeast can safely be added because yeast does not grow in high heat. Cooling also causes hop solids, known as the trub, to precipitate out of the wort.  The hopped wort is then saturated with air, essential for the growth of the yeast in the next stage. At this point, the wort can be considered a growth medium prepared for the yeast. </para>
+    <para id="import-auto-idm1262055136">6. Fermentation.<emphasis effect="bold"/>The cooled wort goes to the fermentation tank where the brewer adds a type of yeast. The yeasts ferment the sugar in the wort and turns it into alcohol and carbon dioxide via alcoholic fermentation (Figure 4).  This process of fermentation takes about ten days. Each brewery has its own strains of yeast, which largely determine the character of the beer. Most beers are either ales or lagers.  With ale yeast varieties (<emphasis effect="italics">Saccharomyces cerevisiae)</emphasis>, the cells ferment at higher temperatures and rise to the top at the end of fermentation.  On the other hand, lager yeast strains (<emphasis effect="italics">Saccharomyces carlsbergensis</emphasis>) ferment at lower temperatures and sink to the bottom.  Ales are generally more fruity flavored due to greater production of esters by the ale yeast at higher temperatures while lagers are more malty tasting because of a lower production rate of esters by the lager yeasts at the lower temperatures. </para>
+    <figure id="import-auto-idm1178445344">
+      <media id="import-auto-idm1247870560" alt="">
+        <image mime-type="image/png" src="../../media/Picture 1-f805.png" height="277" width="369"/>
+      </media>
+    </figure>
+    <para id="import-auto-idm1255790736">Figure 4. An open style fermenter containing fermenting wort covered with foam. (https://commons.wikimedia.org/w/index.php?curid=39527655)</para>
+    <para id="import-auto-idm1253796288">7. Maturation (also called racking). The beer has now been brewed, but it can still be improved through maturation. During this phase, the brewer moves, or racks, the beer into a new tank called the conditioning tank, which helps remove sediment. The brewer then waits for the beer to complete its aging process. The taste ripens as the liquid is clarified.  The brewer tries to prevent oxygen from entering the beer so that contamination microbes cannot grow in it.  The microbes would contribute lactic acid and other off-flavors to the beer.</para>
+    <para id="import-auto-idm1265157824">8. Finishing. Here the beer is pasteurized and/or filtered to give the beer clarity. The beer is moved to a holding tank where it stays until it is bottled, canned or put into kegs.  Finally it can be enjoyed!</para>
+  </content>
+</document>

@@ -1,0 +1,27 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Gas gangrene</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m64844</md:content-id>
+  <md:title>Gas gangrene</md:title>
+  <md:abstract/>
+  <md:uuid>c8cfc0c7-0f3b-4eb3-8b3b-8ae9c8dbe611</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167661755058">
+<title>Gas Gangrene</title>
+<para id="fs-id1167661539294">Traumatic injuries or certain medical conditions, such as diabetes, can cause damage to blood vessels that interrupts blood flow to a region of the body. When blood flow is interrupted, tissues begin to die, creating an anaerobic environment in which anaerobic bacteria can thrive. This condition is called <term class="no-emphasis">ischemia</term>. Endospores of the anaerobic bacterium <term class="no-emphasis"><emphasis effect="italics">Clostridium perfringens</emphasis></term> (along with a number of other <emphasis effect="italics">Clostridium</emphasis> spp. from the gut) can readily germinate in ischemic tissues and colonize the anaerobic tissues.</para>
+<para id="fs-id1167661443407">The resulting infection, called <term>gas gangrene</term>, is characterized by rapidly spreading myonecrosis (death of muscle tissue). The patient experiences a sudden onset of excruciating pain at the infection site and the rapid development of a foul-smelling wound containing gas bubbles and a thin, yellowish discharge tinged with a small amount of blood. As the infection progresses, edema and cutaneous blisters containing bluish-purple fluid form. The infected tissue becomes liquefied and begins sloughing off. The margin between necrotic and healthy tissue often advances several inches per hour even with antibiotic therapy. Septic shock and organ failure frequently accompany gas gangrene; when patients develop sepsis, the mortality rate is greater than 50%.</para>
+<para id="fs-id1167663643243"><term class="no-emphasis">α-Toxin</term> and <term class="no-emphasis">theta (θ) toxin</term> are the major virulence factors of <emphasis effect="italics">C. perfringens</emphasis> implicated in gas gangrene. α-Toxin is a lipase responsible for breaking down cell membranes; it also causes the formation of thrombi (blood clots) in blood vessels, contributing to the spread of ischemia. θ-Toxin forms pores in the patient’s cell membranes, causing cell lysis. The gas associated with gas gangrene is produced by <emphasis effect="italics">Clostridium</emphasis>’s fermentation of butyric acid, which produces hydrogen and carbon dioxide that are released as the bacteria multiply, forming pockets of gas in tissues (<link target-id="OSC_Microbio_25_02_Gangrene"/>).</para>
+<para id="fs-id1167663968660">Gas gangrene is initially diagnosed based on the presence of the clinical signs and symptoms described earlier in this section. Diagnosis can be confirmed through Gram stain and anaerobic cultivation of wound exudate (drainage) and tissue samples on blood agar. Treatment typically involves surgical debridement of any necrotic tissue; advanced cases may require <term class="no-emphasis">amputation</term>. Surgeons may also use <term class="no-emphasis">vacuum-assisted closure (VAC)</term>, a surgical technique in which vacuum-assisted drainage is used to remove blood or serous fluid from a wound or surgical site to speed recovery. The most common antibiotic treatments include <term class="no-emphasis">penicillin G</term> and <term class="no-emphasis">clindamycin</term>. Some cases are also treated with <term class="no-emphasis">hyperbaric oxygen therapy</term> because <emphasis effect="italics">Clostridium</emphasis> spp. are incapable of surviving in oxygen-rich environments.</para>
+<figure id="OSC_Microbio_25_02_Gangrene">
+<media id="fs-id1167663610079" alt="a) Photo of an arm with large purple and red regions. B) X-ray of an arm showing white muscles and cloudy skin. A dark black band cuts through the skin.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_25_02_Gangrene.jpg"/>
+</media>
+<caption>(a) In this image of a patient with gas gangrene, note the bluish-purple discoloration around the bicep and the irregular margin of the discolored tissue indicating the spread of infection. (b) A radiograph of the arm shows a darkening in the tissue, which indicates the presence of gas. (credit a, b: modification of work by Aggelidakis J, Lasithiotakis K, Topalidou A, Koutroumpas J, Kouvidis G, and Katonis P)</caption>
+</figure>
+</section>
+</content>
+
+</document>

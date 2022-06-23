@@ -1,0 +1,22 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>The Most Deadly Food Intoxication: Botulism</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m64830</md:content-id>
+  <md:title>The Most Deadly Food Intoxication: Botulism</md:title>
+  <md:abstract/>
+  <md:uuid>d8b1b6ab-88cc-458d-ba74-bc4fbb785f46</md:uuid>
+</metadata>
+
+<content>
+    <section id="import-auto-idm854997808">
+      <title>Botulism</title>
+      <para id="import-auto-idm614404320"><emphasis effect="bold">Botulism </emphasis>is a rare but frequently fatal illness caused by intoxication by botulism toxin (BoNT). It can occur either as the result of an infection by <emphasis effect="italics">C. botulinum</emphasis>, in which case the bacteria produce BoNT <emphasis effect="italics">in vivo</emphasis> (which is fairly rare) or as the result of a direct introduction of BoNT into the body. Our focus will be on botulism as a food intoxication.</para><para id="import-auto-idm476638240">Foodborne botulism, the most common of these forms, occurs when BoNT is produced in contaminated food and then ingested along with the food (recall <emphasis effect="bold">Case in Point: A Streak of Bad Potluck</emphasis>). BoNT is produced by the bacterium in an anerobic environment (possibly in cans or under oil). After being ingested in food, BoNT is not denatured by stomach acid and enters the small intestine, where it is absorbed into the blood. After BoNT enters the bloodstream, it is transferred to the neuromuscular junctions of motor neurons where it binds irreversibly to presynaptic membranes and prevents the release of acetylcholine from the presynaptic terminal of motor neurons into the neuromuscular junction. The consequence of preventing acetylcholine release is that the muscle fails to receive the acetylcholine, resulting in the loss of muscle contraction, leading to muscle relaxation and eventually paralysis.</para><para id="import-auto-idm751325296">If BoNT is absorbed through the gastrointestinal tract, early symptoms of botulism include blurred vision, drooping eyelids, difficulty swallowing, abdominal cramps, nausea, vomiting, constipation, or possibly diarrhea. This is followed by progressive flaccid paralysis, a gradual weakening and loss of control over the muscles. A patient’s experience can be particularly terrifying, because hearing remains normal, consciousness is not lost, and he or she is fully aware of the progression of his or her condition. Eventually, botulism ends in death from respiratory failure caused by the progressive paralysis of the muscles of the upper airway, diaphragm, and chest.</para>
+      <para id="import-auto-idm533392032">Botulism is treated with an antitoxin specific for BoNT. If administered in time, the antitoxin stops the progression of paralysis but does not reverse it. Once the antitoxin has been administered, the patient will slowly regain neurological function, but this may take several weeks or months, depending on the severity of the case. During recovery, patients generally must remain hospitalized and receive breathing assistance through a ventilator.</para>
+      <para id="import-auto-idm555690464">
+        <emphasis effect="bold">Medicinal Uses of Botulinum Toxin</emphasis>
+      </para>
+      <para id="import-auto-idm465833600">Although it is the most toxic biological material known to man, botulinum toxin is often intentionally injected into people to treat other conditions. Type A botulinum toxin is used cosmetically to reduce wrinkles. The injection of minute quantities of this toxin into the face causes the relaxation of facial muscles, thereby giving the skin a smoother appearance. Eyelid twitching and crossed eyes can also be treated with botulinum toxin injections.</para>
+      <para id="import-auto-idm767603920">Other uses of this toxin include the treatment of hyperhidrosis (excessive sweating). In fact, botulinum toxin can be used to moderate the effects of several other apparently nonmicrobial diseases involving inappropriate nerve function. Such diseases include cerebral palsy, multiple sclerosis, and Parkinson’s disease. Each of these diseases is characterized by a loss of control over muscle contractions; treatment with botulinum toxin serves to relax contracted muscles.</para>
+    </section>
+  </content>
+</document>

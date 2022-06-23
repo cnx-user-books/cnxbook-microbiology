@@ -1,0 +1,121 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Fungal Infections of the Respiratory  Tract</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m64861</md:content-id>
+  <md:title>Fungal Infections of the Respiratory  Tract</md:title>
+  <md:abstract/>
+  <md:uuid>007b52d2-b9bf-4150-8ff6-795f6611b696</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id1167663533877">Fungal pathogens are ubiquitous in the environment. Serological studies have demonstrated that most people have been exposed to fungal respiratory pathogens during their lives. Yet symptomatic infections by these microbes are rare in healthy individuals. This demonstrates the efficacy of the defenses of our respiratory system. In this section, we will examine some of the fungi that can cause respiratory infections.</para>
+<section id="fs-id1167663570532">
+<title>Mucormycosis</title>
+<para id="fs-id1167663588956">A variety of fungi in the order Mucorales cause <term>mucormycosis</term>, a rare fungal disease. These include bread molds, like <emphasis effect="italics">Rhizopus</emphasis> and <term class="no-emphasis"><emphasis effect="italics">Mucor</emphasis></term>; the most commonly associated species is <term class="no-emphasis"><emphasis effect="italics">Rhizopus arrhizus (oryzae)</emphasis></term> (see <link document="m58804" target-id="OSC_Microbio_05_03_spores"/>). These fungi can colonize many different tissues in immunocompromised patients, but often infect the skin, sinuses, or the lungs.</para>
+<para id="fs-id1167664004360">Although most people are regularly exposed to the causative agents of mucormycosis, infections in healthy individuals are rare. Exposure to spores from the environment typically occurs through inhalation, but the spores can also infect the skin through a wound or the gastrointestinal tract if ingested. Respiratory mucormycosis primarily affects immunocompromised individuals, such as patients with cancer or those who have had a transplant.<footnote id="fs-id1167663932184">Centers for Disease Control and Prevention. “Fungal Diseases. Definition of Mucormycosis.” 2015 http://www.cdc.gov/fungal/diseases/mucormycosis/definition.html. Accessed July 7, 2016.</footnote></para>
+<para id="fs-id1167663659365">After the spores are inhaled, the fungi grow by extending hyphae into the host’s tissues. Infections can occur in both the upper and lower respiratory tracts. Rhinocerebral mucormycosis is an infection of the sinuses and brain; symptoms include headache, fever, facial swelling, congestion, and tissue necrosis causing black lesions in the oral cavity. Pulmonary mucormycosis is an infection of the lungs; symptoms include fever, cough, chest pain, and shortness of breath. In severe cases, infections may become disseminated and involve the central nervous system, leading to coma and death.<footnote id="fs-id1167663902121">Centers for Disease Control and Prevention. “Fungal Diseases. Symptoms of Mucormycosis.” 2015 http://www.cdc.gov/fungal/diseases/mucormycosis/symptoms.html. Accessed July 7, 2016.</footnote></para>
+<para id="fs-id1167663970444">Diagnosing mucormycosis can be challenging. Currently, there are no serological or PCR-based tests available to identify these infections. Tissue biopsy specimens must be examined for the presence of the fungal pathogens. The causative agents, however, are often difficult to distinguish from other filamentous fungi. Infections are typically treated by the intravenous administration of <term class="no-emphasis">amphotericin B</term>, and superficial infections are removed by surgical debridement. Since the patients are often immunocompromised, viral and bacterial secondary infections commonly develop. Mortality rates vary depending on the site of the infection, the causative fungus, and other factors, but a recent study found an overall mortality rate of 54%.<footnote id="fs-id1167661338307">MM Roden et al. “Epidemiology and Outcome of Zygomycosis: A Review of 929 Reported Cases.” <emphasis effect="italics">Clinical Infectious Diseases</emphasis> 41 no. 5 (2005):634–653.</footnote></para>
+</section>
+<section id="fs-id1167661745783">
+<title><emphasis effect="italics">Cryptococcosis</emphasis></title>
+<para id="fs-id1167663663893">Infection by the encapsulated yeast <term class="no-emphasis"><emphasis effect="italics">Cryptococcus neoformans</emphasis></term> causes <term>cryptococcosis</term>. This fungus is ubiquitous in the soil and can be isolated from bird feces. Immunocompromised people are infected by inhaling basidiospores found in aerosols. The thick polysaccharide capsule surrounding these microbes enables them to avoid clearance by the alveolar macrophage. Initial symptoms of infection include fever, fatigue, and a dry cough. In immunocompromised patients, pulmonary infections often disseminate to the brain. The resulting <term class="no-emphasis">meningitis</term> produces headaches, sensitivity to light, and confusion. Left untreated, such infections are often fatal.</para>
+<para id="fs-id1167663966878"><emphasis effect="italics">Cryptococcus</emphasis> infections are often diagnosed based on microscopic examination of lung tissues or cerebrospinal fluids. India ink preparations (<link target-id="OSC_Microbio_22_04_Crypto"/>) can be used to visualize the extensive capsules that surround the yeast cells. Serological tests are also available to confirm the diagnosis. Amphotericin B, in combination with <term class="no-emphasis">flucytosine</term>, is typically used for the initial treatment of pulmonary infections. Amphotericin B is a broad-spectrum antifungal drug that targets fungal cell membranes. It can also adversely impact host cells and produce side effects. For this reason, clinicians must carefully balance the risks and benefits of treatments in these patients. Because it is difficult to eradicate cryptococcal infections, patients usually need to take <term class="no-emphasis">fluconazole</term> for up to 6 months after treatment with <term class="no-emphasis">amphotericin B</term> and flucytosine to clear the fungus. Cryptococcal infections are more common in immunocompromised people, such as those with AIDS. These patients typically require life-long suppressive therapy to control this fungal infection.</para>
+<figure id="OSC_Microbio_22_04_Crypto">
+<media id="fs-id1167663970521" alt="a) A micrograph with dark circles (some attached to form a figure 8) on a green background. The dark cells are labeled Cryptococcus. The figure 8 cells are labeled budding cells. b) a negative stain micrograph of cryptococcus neoformans is shown. It appears as green spots on a brown background.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_22_04_Crypto.jpg"/>
+</media>
+<caption>(a) The micrograph shows stained budding <emphasis effect="italics">Cryptococcus</emphasis> yeast cells from the lungs of a patient with AIDS. (b) The large capsule of <emphasis effect="italics">Cryptococcus neoformans</emphasis> is visible in this negative stain micrograph. (credit a, b: modification of work by Centers for Disease Control and Prevention)</caption>
+</figure>
+<note id="fs-id1167663623233" class="microbiology check-your-understanding">
+<list id="fs-id1167663588007" list-type="bulleted" bullet-style="bullet">
+<item>What populations are most at risk for developing <emphasis effect="italics">Pneumocystis</emphasis> pneumonia or cryptococcosis?</item>
+<item>Why are these infections fatal if left untreated?</item>
+</list>
+</note>
+<note id="fs-id1167661581886" class="microbiology disease-profile">
+<title>Fungal Diseases of the Respiratory Tract</title>
+<para id="fs-id1167663626185">Most respiratory mycoses are caused by fungi that inhabit the environment. Such infections are generally transmitted via inhalation of fungal spores and cannot be transmitted between humans. In addition, healthy people are generally not susceptible to infection even when exposed; the fungi are only virulent enough to establish infection in patients with HIV, AIDS, or another condition that compromises the immune defenses. <link target-id="OSC_Microbio_22_04_DisProfTabl"/> summarizes the features of important respiratory mycoses.</para>
+<figure id="OSC_Microbio_22_04_DisProfTabl">
+<media id="fs-id1167661271394" alt="Table titled: Fungal Infections of the Respiratory Tract. Columns: Disease, Pathogen, Signs and Symptoms, Diagnostic Tests, Antimicrobial Drugs. Aspergillosis; Aspergillus fumigatus; Shortness of breath, wheezing, coughing, runny nose, headaches; formation of aspergillomas causing severe pneumonia and pulmonary or brain hemorrhages; can be fatal; Chest radiograph, skin test, microscopic observation of sputum samples; Itraconazole, voriconazole. Blastomycosis; Blastomyces dermatitidis; Fever, chills, cough, headache, fatigue, chest pain, body aches; in disseminated infections, chronic, crusted lesions on face and hands with permanent scarring; can be fatal; Microscopic observation of sputum samples; urine antigen test; EIA; Amphotericin B, ketoconazole; Coccidioidomycosis (Valley fever); Coccidioides immitis; Granulomatous lesions on face and nose; may spread to organs or brain, causing fatal meningitis; Culture (in BSL-3 lab only), serological antibody tests; Amphotericin B. Cryptococcosis; Cryptococcus neoformans; Fever, cough, shortness of breath; can cause fatal meningitis if disseminated to brain; Microscopic examination of lung tissue or cerebrospinal fluid; Amphotericin B, fluconazole, flucytosine. Histoplasmosis; Histoplasma capsulatum; Fever, headache, weakness, chest pain, lesions on lungs; Chest radiograph, culture, direct fluorescence antibody staining, complement fixation assay, histoplasmin sensitivity test Amphotericin B, ketoconazole, itraconazole. Mucormycosis; Rhizopus arrhizus, other Rhizopus spp., Mucor spp.; Headache, fever, facial swelling, congestion, black lesions in oral cavity, cough, chest pain, shortness of breath; often fatal; Microscopic examination of tissue biopsy specimens; Amphotericin B. Pneumocystis pneumonia (PCP); Pneumocystis jirovecii Fever, cough, shortness of breath; can be fatal if untreated Microscopic examination of lung tissue and fluid, PCR; Trimethoprim-sulfamethoxazole.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_22_04_DisProfTabl.jpg"/>
+</media>
+</figure>
+</note>
+</section>
+<section id="fs-id1167663740504" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1167661485741">
+<problem id="fs-id1167663966137">
+<para id="fs-id1167661368637">Which of these infections is also referred to as Valley fever?</para>
+<list id="fs-id1167661736256" list-type="enumerated" number-style="upper-alpha">
+<item>histoplasmosis</item>
+<item>coccidioidomycosis</item>
+<item>blastomycosis</item>
+<item>aspergillosis</item>
+</list>
+</problem>
+<solution id="fs-id1167661251012">
+<para id="fs-id1167661251014">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167663634394">
+<problem id="fs-id1167661742433">
+<para id="fs-id1167661742435">Which of the following is not caused by a dimorphic fungus?</para>
+<list id="fs-id1167663985791" list-type="enumerated" number-style="upper-alpha">
+<item>histoplasmosis</item>
+<item>coccidioidomycosis</item>
+<item>blastomycosis</item>
+<item>aspergillosis</item>
+</list>
+</problem>
+<solution id="fs-id1167661353207">
+<para id="fs-id1167661484823">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167661323560">
+<problem id="fs-id1167661323562">
+<para id="fs-id1167663641583">Which of the following is caused by infections by bread molds?</para>
+<list id="fs-id1167663632939" list-type="enumerated" number-style="upper-alpha">
+<item>mucormycosis</item>
+<item>coccidioidomycosis</item>
+<item>cryptococcosis</item>
+<item><emphasis effect="italics">Pneumocystis</emphasis> pneumonia</item>
+</list>
+</problem>
+<solution id="fs-id1167663616270">
+<para id="fs-id1167663616272">A</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167663955713">
+<problem id="fs-id1167663955715">
+<para id="fs-id1167661290040">In the United States, most histoplasmosis cases occur</para>
+<list id="fs-id1167661290043" list-type="enumerated" number-style="upper-alpha">
+<item>in the Pacific northwest.</item>
+<item>in the desert southwest.</item>
+<item>in the Mississippi river valley.</item>
+<item>in Colorado river valley.</item>
+</list>
+</problem>
+<solution id="fs-id1167663994420">
+<para id="fs-id1167663994422">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167663991434">
+<problem id="fs-id1167663991436">
+<para id="fs-id1167663730822">Which of the following infections can be diagnosed using a skin test similar to the tuberculin test?</para>
+<list id="fs-id1167663730826" list-type="enumerated" number-style="upper-alpha">
+<item>histoplasmosis</item>
+<item>cryptococcosis</item>
+<item>blastomycosis</item>
+<item>aspergillosis</item>
+</list>
+</problem>
+<solution id="fs-id1167661364632">
+<para id="fs-id1167661364634">D</para>
+</solution>
+</exercise>
+</section>
+</content>
+
+</document>

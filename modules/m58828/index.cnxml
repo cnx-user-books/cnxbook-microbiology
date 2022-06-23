@@ -10,7 +10,7 @@
 
 <content>
 <section id="fs-id1172099514920" class="learning-objectives">
-<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<title>Learning Objectives</title>
 <list id="fs-id1172101984195">
 <item>Define the generation time for growth based on binary fission</item>
 <item>Identify and describe the activities of microorganisms undergoing typical phases of binary fission (simple cell division) in a growth curve</item>
@@ -21,7 +21,7 @@
 <item>Describe quorum sensing and its role in cell-to-cell communication and coordination of cellular activities</item>
 </list>
 </section>
-<note id="fs-id1172099378549" class="microbiology clinical-focus">
+<note id="fs-id1172099378549" class="microbiology clinical-focus-opener">
 <title>Part 1</title>
 <para id="fs-id1172099476565">Jeni, a 24-year-old pregnant woman in her second trimester, visits a clinic with complaints of high fever, 38.9 °C (102 °F), fatigue, and muscle aches—typical flu-like signs and symptoms. Jeni exercises regularly and follows a nutritious diet with emphasis on organic foods, including raw milk that she purchases from a local farmer’s market. All of her immunizations are up to date. However, the health-care provider who sees Jeni is concerned and orders a blood sample to be sent for testing by the microbiology laboratory.</para>
 <list id="fs-id1172101659434" list-type="bulleted" bullet-style="bullet">
@@ -144,7 +144,7 @@
 <media id="fs-id1172099665312" alt="A micrograph of many glowing green cells and some glowing red cells.">
 <image mime-type="image/jpeg" src="../../media/OSC_Microbio_09_01_livedead.jpg"/>
 </media>
-<caption>Fluorescence staining can be used to differentiate between viable and dead bacterial cells in a sample for purposes of counting. Viable cells are stained green, whereas dead cells are stained red. (credit: modification of work by Emerson J, Adams R, Bentancourt Román C, Brooks B, Coil D, Dahlhousen K, Ganz H, et al.)</caption>
+<caption>Fluorescence staining can be used to differentiate between viable and dead bacterial cells in a sample for purposes of counting. Viable cells are stained green, whereas dead cells are stained red. (credit: modification of work by Panseri S, Cunha C, D’Alessandro T, Sandri M, Giavaresi G, Maracci M, Hung CT, Tampieri A)</caption>
 </figure>
 <para id="fs-id1172101715971">Another technique uses an <term class="no-emphasis">electronic cell counting device</term> (<term class="no-emphasis">Coulter counter</term>) to detect and count the changes in electrical resistance in a saline solution. A glass tube with a small opening is immersed in an electrolyte solution. A first electrode is suspended in the glass tube. A second electrode is located outside of the tube. As cells are drawn through the small aperture in the glass tube, they briefly change the resistance measured between the two electrodes and the change is recorded by an electronic sensor (<link target-id="OSC_Microbio_09_01_coulter"/>); each resistance change represents a cell. The method is rapid and accurate within a range of concentrations; however, if the culture is too concentrated, more than one cell may pass through the aperture at any given time and skew the results. This method also does not differentiate between live and dead cells.</para>
 <para id="fs-id1172099800074">Direct counts provide an estimate of the total number of cells in a sample. However, in many situations, it is important to know the number of live, or <term>viable</term>, cells. Counts of live cells are needed when assessing the extent of an infection, the effectiveness of antimicrobial compounds and medication, or contamination of food and water.</para>
@@ -198,7 +198,7 @@
 <section id="fs-id1172099701627">
 <title>The Most Probable Number</title>
 <para id="fs-id1172101855604">The number of microorganisms in dilute samples is usually too low to be detected by the plate count methods described thus far. For these specimens, microbiologists routinely use the <term>most probable number (MPN) method</term>, a statistical procedure for estimating of the number of viable microorganisms in a sample. Often used for water and food samples, the MPN method evaluates detectable growth by observing changes in turbidity or color due to metabolic activity.</para>
-<para id="fs-id1172099882531">A typical application of MPN method is the estimation of the number of coliforms in a sample of pond water. Coliforms are gram-negative rod bacteria that ferment lactose. The presence of <term class="no-emphasis">coliforms</term> in water is considered a sign of contamination by fecal matter. For the method illustrated in <link target-id="OSC_Microbio_09_01_MPNtubes"/>, a series of three dilutions of the water sample is tested by inoculating five lactose broth tubes with 10 mL of sample, five lactose broth tubes with 1 mL of sample, and five lactose broth tubes with 0.1 mL of sample. The lactose broth tubes contain a pH indicator that changes color from red to yellow when the lactose is fermented. After inoculation and incubation, the tubes are examined for an indication of coliform growth by a color change in media from red to yellow. The first set of tubes (10-mL sample) showed growth in all the tubes; the second set of tubes (1 mL) showed growth in two tubes out of five; in the third set of tubes, no growth is observed in any of the tubes (0.1-mL dilution). The numbers 5, 2, and 0 are compared with <link target-id="OSC_Microbio_00_EE_MPN" document="m58947">Figure B1</link> in <link document="m58947">Appendix B</link>, which has been constructed using a probability model of the sampling procedure. From our reading of the table, we conclude that 49 is the most probable number of bacteria per 100 mL of pond water.no lo</para><figure id="OSC_Microbio_09_01_MPNtubes">
+<para id="fs-id1172099882531">A typical application of MPN method is the estimation of the number of coliforms in a sample of pond water. Coliforms are gram-negative rod bacteria that ferment lactose. The presence of <term class="no-emphasis">coliforms</term> in water is considered a sign of contamination by fecal matter. For the method illustrated in <link target-id="OSC_Microbio_09_01_MPNtubes"/>, a series of three dilutions of the water sample is tested by inoculating five lactose broth tubes with 10 mL of sample, five lactose broth tubes with 1 mL of sample, and five lactose broth tubes with 0.1 mL of sample. The lactose broth tubes contain a pH indicator that changes color from red to yellow when the lactose is fermented. After inoculation and incubation, the tubes are examined for an indication of coliform growth by a color change in media from red to yellow. The first set of tubes (10-mL sample) showed growth in all the tubes; the second set of tubes (1 mL) showed growth in two tubes out of five; in the third set of tubes, no growth is observed in any of the tubes (0.1-mL dilution). The numbers 5, 2, and 0 are compared with <link target-id="OSC_Microbio_00_EE_MPN" document="m58947">Figure B1</link> in <link class="target-chapter" document="m58947">Appendix B</link>, which has been constructed using a probability model of the sampling procedure. From our reading of the table, we conclude that 49 is the most probable number of bacteria per 100 mL of pond water.no lo</para><figure id="OSC_Microbio_09_01_MPNtubes">
 <media id="fs-id1172097532809" alt="A diagram where the original sample of pond water is diluted into tubes containing lactose broth (a pink broth). 10 mL of the sample is placed into each of 5 lactose broth tubes. Another 5 tubes get 1 mL each of the sample. Another 5 tubes get 0.1 mL of sample. After 24 hours of incubation at 37°C some tubes have a color change. All of the 5 tubes containing 10 mL of the sample turned yellow and show gas in the smaller inner tube. 2 of the 5 tubes that got 1 mL of the original sample turned yellow and show gas; 3 of these tubes remain pink. All of the tubes that got 0.1 mL of the original sample remain pink.">
 <image mime-type="image/jpeg" src="../../media/OSC_Microbio_09_01_MPNtubes.jpg"/>
 </media>
@@ -565,7 +565,7 @@
 </exercise>
 <exercise id="fs-id1172099494587">
 <problem id="fs-id1172101887423">
-<para id="fs-id1172101881920">Refer to <link target-id="OSC_Microbio_00_EE_MPN" document="m58947">Figure B1</link> in <link document="m58947">Appendix B</link>. If the results from a pond water sample were recorded as 3, 2, 1, what would be the MPN of bacteria in 100 mL of pond water?</para></problem>
+<para id="fs-id1172101881920">Refer to <link target-id="OSC_Microbio_00_EE_MPN" document="m58947">Figure B1</link> in <link class="target-chapter" document="m58947">Appendix B</link>. If the results from a pond water sample were recorded as 3, 2, 1, what would be the MPN of bacteria in 100 mL of pond water?</para></problem>
 </exercise>
 <exercise id="fs-id1172101611081">
 <problem id="fs-id1172102137981">
@@ -573,5 +573,5 @@
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 </document>

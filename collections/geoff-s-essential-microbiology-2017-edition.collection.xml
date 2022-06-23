@@ -1,0 +1,1238 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <md:content-id>col12243</md:content-id>
+  <md:title>Geoff's Essential Microbiology 2019 edition</md:title>
+  
+  
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <md:language>en</md:language>
+
+  
+
+  
+  
+  
+  
+  
+
+  <md:uuid>4a971850-c169-4c26-816d-9fee3613c698</md:uuid>
+<md:slug>geoff-s-essential-microbiology-2017-edition</md:slug>
+</metadata>
+
+  <col:content>
+    
+      <col:module document="m63247"/>
+        
+      
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>History and overview of microbiology</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m58780"/>
+        
+      
+    
+    
+      <col:module document="m58781"/>
+        
+      
+    
+    
+      <col:module document="m64669"/>
+        
+      
+    
+    
+      <col:module document="m64811"/>
+        
+      
+    
+    
+      <col:module document="m58783"/>
+        
+      
+    
+    
+      <col:module document="m58782"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Basic Microbiology Concepts and Survey; Bacterial Structure</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m58789"/>
+        
+      
+    
+    
+      <col:module document="m58792"/>
+        
+      
+    
+    
+      <col:module document="m58800"/>
+        
+      
+    
+    
+      <col:module document="m64892"/>
+        
+      
+    
+    
+      <col:module document="m58817"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Microbial Macromolecules-optional review</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m58812"/>
+        
+      
+    
+    
+      <col:module document="m58813"/>
+        
+      
+    
+    
+      <col:module document="m58814"/>
+        
+      
+    
+    
+      <col:module document="m58815"/>
+        
+      
+    
+    
+      <col:module document="m58816"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Microbial Growth and Nutrition</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m58828"/>
+        
+      
+    
+    
+      <col:module document="m58829"/>
+        
+      
+    
+    
+      <col:module document="m58830"/>
+        
+      
+    
+    
+      <col:module document="m58831"/>
+        
+      
+    
+    
+      <col:module document="m58832"/>
+        
+      
+    
+    
+      <col:module document="m58833"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Microbial Metabolism</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m58818"/>
+        
+      
+    
+    
+      <col:module document="m58819"/>
+        
+      
+    
+    
+      <col:module document="m58820"/>
+        
+      
+    
+    
+      <col:module document="m58821"/>
+        
+      
+    
+    
+      <col:module document="m58822"/>
+        
+      
+    
+    
+      <col:module document="m58823"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>DNA, RNA and Genome Structure-optional review</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m58834"/>
+        
+      
+    
+    
+      <col:module document="m58836"/>
+        
+      
+    
+    
+      <col:module document="m58837"/>
+        
+      
+    
+    
+      <col:module document="m58838"/>
+        
+      
+    
+    
+      <col:module document="m58841"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Mechanisms of Bacterial Genetics: Protein Expression</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m58839"/>
+        
+      
+    
+    
+      <col:module document="m58842"/>
+        
+      
+    
+    
+      <col:module document="m58843"/>
+        
+      
+    
+    
+      <col:module document="m64872"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Mechanisms of Bacterial Genetics: Mutation and Recombination</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m58844"/>
+        
+      
+    
+    
+      <col:module document="m58845"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Biotechnology</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m58847"/>
+        
+      
+    
+    
+      <col:module document="m58848"/>
+        
+      
+    
+    
+      <col:module document="m58849"/>
+        
+      
+    
+    
+      <col:module document="m64757"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Disease and Infection</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m58870"/>
+        
+      
+    
+    
+      <col:module document="m64871"/>
+        
+      
+    
+    
+      <col:module document="m58871"/>
+        
+      
+    
+    
+      <col:module document="m58873"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Microbial Mechanisms of Pathogenicity</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m58865"/>
+        
+      
+    
+    
+      <col:module document="m58866"/>
+        
+      
+    
+    
+      <col:module document="m58867"/>
+        
+      
+    
+    
+      <col:module document="m58868"/>
+        
+      
+    
+    
+      <col:module document="m64812"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Innate Host Defenses</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m58876"/>
+        
+      
+    
+    
+      <col:module document="m58877"/>
+        
+      
+    
+    
+      <col:module document="m58878"/>
+        
+      
+    
+    
+      <col:module document="m58879"/>
+        
+      
+    
+    
+      <col:module document="m58880"/>
+        
+      
+    
+    
+      <col:module document="m58881"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Specific Immunity</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m58883"/>
+        
+      
+    
+    
+      <col:module document="m58884"/>
+        
+      
+    
+    
+      <col:module document="m58885"/>
+        
+      
+    
+    
+      <col:module document="m58886"/>
+        
+      
+    
+    
+      <col:module document="m58887"/>
+        
+      
+    
+    
+      <col:module document="m58888"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Serology (Laboratory Analysis of the Immune Response)</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m58899"/>
+        
+      
+    
+    
+      <col:module document="m58900"/>
+        
+      
+    
+    
+      <col:module document="m58901"/>
+        
+      
+    
+    
+      <col:module document="m58902"/>
+        
+      
+    
+    
+      <col:module document="m58903"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Immune System Disorders: Allergies</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m58891"/>
+        
+      
+    
+    
+      <col:module document="m58892"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Physical and Chemical Control of Microbial Growth</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m58852"/>
+        
+      
+    
+    
+      <col:module document="m58853"/>
+        
+      
+    
+    
+      <col:module document="m58854"/>
+        
+      
+    
+    
+      <col:module document="m58855"/>
+        
+      
+    
+    
+      <col:module document="m58856"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Antibiotics</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m58857"/>
+        
+      
+    
+    
+      <col:module document="m58858"/>
+        
+      
+    
+    
+      <col:module document="m58859"/>
+        
+      
+    
+    
+      <col:module document="m58864"/>
+        
+      
+    
+    
+      <col:module document="m58860"/>
+        
+      
+    
+    
+      <col:module document="m58862"/>
+        
+      
+    
+    
+      <col:module document="m63248"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Bacterial Respiratory System Infections</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m58911"/>
+        
+      
+    
+    
+      <col:module document="m58912"/>
+        
+      
+    
+    
+      <col:module document="m64819"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Bacterial Digestive System Infections</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m58923"/>
+        
+      
+    
+    
+      <col:module document="m58924"/>
+        
+      
+    
+    
+      <col:module document="m64830"/>
+        
+      
+    
+    
+      <col:module document="m64824"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Bacterial Skin and Nerve Infections</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m58905"/>
+        
+      
+    
+    
+      <col:module document="m58906"/>
+        
+      
+    
+    
+      <col:module document="m64843"/>
+        
+      
+    
+    
+      <col:module document="m64844"/>
+        
+      
+    
+    
+      <col:module document="m64840"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Vector-borne Bacterial Infections</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m64845"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Bacterial Infections of the Mouth</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m64825"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Bacterial Urogenital System Infections</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m58916"/>
+        
+      
+    
+    
+      <col:module document="m58917"/>
+        
+      
+    
+    
+      <col:module document="m64823"/>
+        
+      
+    
+    
+      <col:module document="m64822"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Viruses</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m58807"/>
+        
+      
+    
+    
+      <col:module document="m58808"/>
+        
+      
+    
+    
+      <col:module document="m58809"/>
+        
+      
+    
+    
+      <col:module document="m58810"/>
+        
+      
+    
+    
+      <col:module document="m64724"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Viral Infections of the Respiratory Tract</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m64850"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Viral Infections of the Skin</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m64857"/>
+        
+      
+    
+    
+      <col:module document="m64856"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Viral Infections of the Gastrointestinal Tract</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m58930"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Viscerotropic Viral Infections</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m64858"/>
+        
+      
+    
+    
+      <col:module document="m64859"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Fungi</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m58801"/>
+        
+      
+    
+    
+      <col:module document="m58804"/>
+        
+      
+    
+    
+      <col:module document="m64723"/>
+        
+      
+    
+    
+      <col:module document="m64809"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Fungal Diseases</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m64862"/>
+        
+      
+    
+    
+      <col:module document="m64897"/>
+        
+      
+    
+    
+      <col:module document="m64864"/>
+        
+      
+    
+    
+      <col:module document="m64861"/>
+        
+      
+    
+    
+      <col:module document="m64860"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Protozoans</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m64866"/>
+        
+      
+    
+    
+      <col:module document="m64726"/>
+        
+      
+    
+    
+      <col:module document="m64808"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Protozoan Diseases</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m64867"/>
+        
+      
+    
+    
+      <col:module document="m64868"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Industrial Microbiology</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m64901"/>
+        
+      
+    
+    
+      <col:module document="m64902"/>
+        
+      
+    
+    
+      <col:module document="m64900"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Prokaryotic Diversity/ Taxonomy-Optional Extra</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m58949"/>
+        
+      
+    
+    
+      <col:module document="m58796"/>
+        
+      
+    
+    
+      <col:module document="m58797"/>
+        
+      
+    
+    
+      <col:module document="m58798"/>
+        
+      
+    
+    
+      <col:module document="m58799"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Math, Metabolism and Chemistry-Optional Extra</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m58946"/>
+        
+      
+    
+    
+      <col:module document="m58947"/>
+        
+      
+    
+    
+      <col:module document="m58948"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Microscopy Lab reading</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m58786"/>
+        
+      
+    
+    
+      <col:module document="m58787"/>
+        
+      
+    
+    
+      <col:module document="m58788"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      <col:module document="m58950"/>
+        
+      
+    
+  </col:content>
+</col:collection>

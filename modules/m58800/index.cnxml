@@ -10,14 +10,14 @@
 
 <content>
 <section id="fs-id1172101765861" class="learning-objectives">
-<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<title>Learning Objectives</title>
 <list id="fs-id1172099730215">
 <item>Describe the unique features of each category of Archaea</item>
 <item>Explain why archaea might not be associated with human microbiomes or pathology</item>
 <item>Give common examples of archaea commonly associated with unique environmental habitats</item>
 </list>
 </section>
-<para id="fs-id1172099750458">Like organisms in the domain Bacteria, organisms of the domain <term>Archaea</term> are all unicellular organisms. However, archaea differ structurally from bacteria in several significant ways, as discussed in <link document="m58792">Unique Characteristics of Prokaryotic Cells</link>. To summarize:</para>
+<para id="fs-id1172099750458">Like organisms in the domain Bacteria, organisms of the domain <term>Archaea</term> are all unicellular organisms. However, archaea differ structurally from bacteria in several significant ways, as discussed in <link class="target-chapter" document="m58792">Unique Characteristics of Prokaryotic Cells</link>. To summarize:</para>
 <list id="fs-id1172099486220" list-type="bulleted" bullet-style="bullet">
 <item>The archaeal cell membrane is composed of <term class="no-emphasis">ether linkages</term> with branched <term class="no-emphasis">isoprene chains</term> (as opposed to the bacterial cell membrane, which has ester linkages with unbranched fatty acids).</item>
 <item>Archaeal cell walls lack peptidoglycan, but some contain a structurally similar substance called <term class="no-emphasis">pseudopeptidoglycan</term> or <term class="no-emphasis">pseudomurein</term>.</item>
@@ -45,7 +45,8 @@
 </section>
 <section id="fs-id1172101837595">
 <title>Euryarchaeota</title>
-<para id="fs-id1172099753469">The phylum Euryarchaeota includes several distinct classes. Species in the classes Methanobacteria, Methanococci, and Methanomicrobia represent Archaea that can be generally described as methanogens. Methanogens are unique in that they can reduce carbon dioxide in the presence of hydrogen, producing methane. They can live in the most extreme environments and can reproduce at temperatures varying from below freezing to boiling. Methanogens have been found in hot springs as well as deep under ice in Greenland. Methanogens also produce gases in ruminants and humans. Some scientists have even hypothesized that <term>methanogen</term><emphasis effect="bold">s</emphasis> may inhabit the planet Mars because the mixture of gases produced by methanogens resembles the makeup of the Martian atmosphere.<footnote id="fs-id1172102100793">R.R. Britt “Crater Critters: Where Mars Microbes Might Lurk.” http://www.space.com/1880-crater-critters-mars-microbes-lurk.html. Accessed April 7, 2015.</footnote></para>
+<para id="fs-id1172099753469">The phylum Euryarchaeota includes several distinct classes. Species in the classes Methanobacteria, Methanococci, and Methanomicrobia represent Archaea that can be generally described as methanogens. Methanogens are unique in that they can reduce carbon dioxide in the presence of hydrogen, producing methane. They can live in the most extreme environments and can reproduce at temperatures varying from below freezing to boiling. Methanogens have been found in hot springs as well as deep under ice in Greenland. Some scientists have even hypothesized that <term>methanogen</term><emphasis effect="bold">s</emphasis> may inhabit the planet Mars because the mixture of gases produced by methanogens resembles the makeup of the Martian atmosphere.<footnote id="fs-id1172102100793">R.R. Britt “Crater Critters: Where Mars Microbes Might Lurk.” http://www.space.com/1880-crater-critters-mars-microbes-lurk.html. Accessed April 7, 2015.</footnote></para>
+<para id="fs-id1172099477015">Methanogens are thought to contribute to the formation of anoxic sediments by producing hydrogen sulfide, making “marsh gas.” They also produce gases in ruminants and humans. Some genera of methanogens, notably <term class="no-emphasis"><emphasis effect="italics">Methanosarcina</emphasis></term>, can grow and produce methane in the presence of oxygen, although the vast majority are strict anaerobes.</para>
 <para id="fs-id1172102044657">The class <term class="no-emphasis">Halobacteria</term> (which was named before scientists recognized the distinction between Archaea and Bacteria) includes halophilic (“salt-loving”) archaea. Halobacteria require a very high concentrations of sodium chloride in their aquatic environment. The required concentration is close to saturation, at 36%; such environments include the Dead Sea as well as some salty lakes in Antarctica and south-central Asia. One remarkable feature of these organisms is that they perform <term class="no-emphasis">photosynthesis</term> using the protein <term class="no-emphasis">bacteriorhodopsin</term>, which gives them, and the bodies of water they inhabit, a beautiful purple color (<link target-id="OSC_Microbio_04_06_Halobact"/>).</para>
 <figure id="OSC_Microbio_04_06_Halobact">
 <media id="fs-id1172099498834" alt="A photograph of red, white and pink fields.">
@@ -154,5 +155,5 @@
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 </document>

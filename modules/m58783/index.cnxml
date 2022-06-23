@@ -9,7 +9,7 @@
 
 <content>
 <section id="fs-id1171360528008" class="learning-objectives">
-<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<title>Learning Objectives</title>
 <list id="fs-id1171360520117">
 <item>List the various types of microorganisms and describe their defining characteristics</item>
 <item>Give examples of different types of cellular and viral microorganisms and infectious agents</item>
@@ -109,7 +109,7 @@
 <para id="fs-id1171360246272">The domain Eukarya contains all eukaryotes, including uni- or multicellular eukaryotes such as protists, fungi, plants, and animals. The major defining characteristic of eukaryotes is that their cells contain a nucleus.</para>
 <section id="fs-id1171359027514">
 <title>Protists</title>
-<para id="fs-id1171360232747"><term>Protist</term><emphasis effect="bold">s</emphasis> are an informal grouping of eukaryotes that are not plants, animals, or fungi. Some algae are protists and others are bacteria; all protozoa are examples of protists.</para><para id="fs-id1171359011343"><term>Algae</term> (singular: alga) are  mostly made up of protists that can be either unicellular or multicellular and vary widely in size, appearance, and habitat (<link target-id="OSC_Microbio_01_03_algae"/>). Algal protists are surrounded by cell walls made of cellulose, a type of carbohydrate. Algae are photosynthetic organisms that extract energy from the sun and release oxygen and carbohydrates into their environment. Cyanobacteria, a type of bacteria, is also considered an algae, but these organisms are bacterial prokaryotes and therefore have a peptidoglycan-based cell wall, unlike the cellulose-based cell wall of the algal protists. Because other organisms can use the waste products of all algae for energy, algae are important parts of many ecosystems. Many consumer products contain ingredients derived from algae, such as carrageenan or alginic acid, which are found in some brands of ice cream, salad dressing, beverages, lipstick, and toothpaste. A derivative of algae also plays a prominent role in the microbiology laboratory. Agar, a gel derived from algae, can be mixed with various nutrients and used to grow microorganisms in a Petri dish. Algae are also being developed as a possible source for biofuels.</para><figure id="OSC_Microbio_01_03_algae">
+<para id="fs-id1171360232747"><term>Protist</term><emphasis effect="bold">s</emphasis> are an informal grouping of eukaryotes that are not plants, animals, or fungi. Algae and protozoa are examples of protists.</para><para id="fs-id1171359011343"><term>Algae</term> (singular: alga) are protists that can be either unicellular or multicellular and vary widely in size, appearance, and habitat (<link target-id="OSC_Microbio_01_03_algae"/>). Their cells are surrounded by cell walls made of cellulose, a type of carbohydrate. Algae are photosynthetic organisms that extract energy from the sun and release oxygen and carbohydrates into their environment. Because other organisms can use their waste products for energy, algae are important parts of many ecosystems. Many consumer products contain ingredients derived from algae, such as carrageenan or alginic acid, which are found in some brands of ice cream, salad dressing, beverages, lipstick, and toothpaste. A derivative of algae also plays a prominent role in the microbiology laboratory. Agar, a gel derived from algae, can be mixed with various nutrients and used to grow microorganisms in a Petri dish. Algae are also being developed as a possible source for biofuels.</para><figure id="OSC_Microbio_01_03_algae">
 <media id="fs-id1171360290899" alt="A light micrograph with a black background and glowing cells. The cells have many different shapes ranging from circular to stacks of rectangles to almond shaped. A scale bar indicates how much space 100 microns takes up in this figure.">
 <image mime-type="image/jpeg" src="../../media/OSC_Microbio_01_03_algae.jpg"/>
 </media>
@@ -180,10 +180,10 @@
 <para id="fs-id1171360227018"><term>Microbiology</term> is a broad term that encompasses the study of all different types of microorganisms. But in practice, microbiologists tend to specialize in one of several subfields. For example, <term>bacteriology</term> is the study of bacteria; <term>mycology</term> is the study of fungi; <term>protozoology</term> is the study of protozoa; <term>parasitology</term> is the study of helminths and other parasites; and <term>virology</term> is the study of viruses (<link target-id="OSC_Microbio_01_03_atwork"/>). <term>Immunology</term>, the study of the immune system, is often included in the study of microbiology because host–pathogen interactions are central to our understanding of infectious disease processes. Microbiologists can also specialize in certain areas of microbiology, such as clinical microbiology, environmental microbiology, applied microbiology, or food microbiology.</para>
 <para id="fs-id1171359172344">In this textbook, we are primarily concerned with clinical applications of microbiology, but since the various subfields of microbiology are highly interrelated, we will often discuss applications that are not strictly clinical.</para>
 <figure id="OSC_Microbio_01_03_atwork">
-<media id="fs-id1171360439856" alt="(a) A person in a field measuring an egg. (b) A person prepares an assay with a centerfuge. ">
-<image mime-type="image/png" src="../../media/OSC_Microbio_01_03_atwork.png"/>
+<media id="fs-id1171360439856" alt="A person in a field measuring an egg.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_01_03_atwork.jpg"/>
 </media>
-<caption>(a) A virologist samples eggs from this nest to be tested for the influenza A virus, which causes avian flu in birds. (b) A biologist performs a procedure to identify an organism that causes ulcerations in humans (credit a: U.S. Fish and Wildlife Service; credit b: James Gathany / CDC; Public Domain)</caption>
+<caption>A virologist samples eggs from this nest to be tested for the influenza A virus, which causes avian flu in birds. (credit: U.S. Fish and Wildlife Service)</caption>
 </figure>
 <note id="fs-id1171360084353" class="microbiology eye-on-ethics">
 <title>Bioethics in Microbiology</title>
@@ -356,5 +356,5 @@
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 </document>
