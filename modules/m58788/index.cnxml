@@ -9,7 +9,7 @@
 
 <content>
 <section id="fs-id1171361205225" class="learning-objectives">
-<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<title>Learning Objectives</title>
 <list id="fs-id1171357883300">
 <item>Differentiate between simple and differential stains</item>
 <item>Describe the unique features of commonly used stains</item>
@@ -24,7 +24,7 @@
 <para id="fs-id1167793451885">The second method of preparing specimens for light microscopy is <term>fixation</term>. The “fixing” of a sample refers to the process of attaching cells to a slide. Fixation is often achieved either by heating (<term class="no-emphasis">heat fixing</term>) or chemically treating the specimen. In addition to attaching the specimen to the slide, fixation also kills microorganisms in the specimen, stopping their movement and metabolism while preserving the integrity of their cellular components for observation.</para>
 <para id="fs-id1167793418664">To heat-fix a sample, a thin layer of the specimen is spread on the slide (called a <term>smear</term>), and the slide is then briefly heated over a heat source (<link target-id="OSC_Microbio_02_04_Fixation"/>). <term class="no-emphasis">Chemical fixatives</term> are often preferable to heat for tissue specimens. Chemical agents such as acetic acid, ethanol, methanol, formaldehyde (formalin), and glutaraldehyde can denature proteins, stop biochemical reactions, and stabilize cell structures in tissue samples (<link target-id="OSC_Microbio_02_04_Fixation"/>).</para>
 <figure id="OSC_Microbio_02_04_Fixation">
-<media id="fs-id1167794206254" alt="Photograph a shows a slide sitting on a flat heating surface. Photograph b shows a person holding a slide in front of a heated metal cylinder. Photograph c shows a bit of tissue in a container of clear liquid. Caption reads Fixing tissue: fixation to preserve tissue and maintain life-like structure; place into fixative (eg 10% formalin).">
+<media id="fs-id1167794206254" alt="Photograph a shows a slide sitting on a flat heating surface. Photograph b shows a person holding a slide against a heated metal cylinder. Photograph c shows a bit of tissue in a container of clear liquid. Caption reads Fixing tissue: fixation to preserve tissue and maintain life-like structure; place into fixative (eg 10% formalin).">
 <image mime-type="image/jpeg" src="../../media/OSC_Microbio_02_04_Fixation.jpg"/>
 </media>
 <caption>(a) A specimen can be heat-fixed by using a slide warmer like this one. (b) Another method for heat-fixing a specimen is to hold a slide with a smear over a microincinerator. (c) This tissue sample is being fixed in a solution of formalin (also known as formaldehyde). Chemical fixation kills microorganisms in the specimen, stopping degradation of the tissues and preserving their structure so that they can be examined later under the microscope. (credit a: modification of work by Nina Parker; credit b: modification of work by Nina Parker; credit c: modification of work by “University of Bristol”/YouTube)</caption>
@@ -217,7 +217,9 @@
 </list>
 </note>
 <note id="fs-id1167794035620" class="microbiology link-to-learning">
-
+<media id="fs-id1167793590040" alt="Link to learning graphic">
+<image mime-type="image/jpeg" src="../../media/CNX_Interactive_200DPI.png"/>
+</media>
 <para id="fs-id1167793612592">Cornell University’s <link url="https://www.openstax.org/l/22cornellstud">Case Studies in Microscopy</link> offers a series of clinical problems based on real-life events. Each case study walks you through a clinical problem using appropriate techniques in microscopy at each step.</para>
 </note>
 <note id="fs-id1167794065094" class="microbiology clinical-focus">
@@ -309,6 +311,6 @@
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 
 </document>
