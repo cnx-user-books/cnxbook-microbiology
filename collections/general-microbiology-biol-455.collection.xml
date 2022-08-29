@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="OpenStax College Microbiology">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col23867</md:content-id>
     <md:title>General Microbiology BIOL 455</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
     <md:uuid>93177c46-149c-4cbe-8e4a-e533a8f161f4</md:uuid>
-<md:slug>general-microbiology-biol-455</md:slug>
-</metadata>
+    <md:slug>general-microbiology-biol-455</md:slug>
+  </metadata>
   <col:content>
     <col:subcollection>
       <md:title>An Invisible World</md:title>
