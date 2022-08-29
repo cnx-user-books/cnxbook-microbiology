@@ -1,537 +1,142 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="OpenStax College Microbiology">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col29329</md:content-id>
-  <md:title>Microbiology for the EMS Student</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>7b6fb567-b32f-4101-b00f-245adb40cb59</md:uuid>
-<md:slug>microbiology-for-the-ems-student</md:slug>
-</metadata>
-
+    <md:content-id>col29329</md:content-id>
+    <md:title>Microbiology for the EMS Student</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>7b6fb567-b32f-4101-b00f-245adb40cb59</md:uuid>
+    <md:slug>microbiology-for-the-ems-student</md:slug>
+  </metadata>
   <col:content>
-    
-      
-        
-      <col:subcollection>
-        <md:title>Control of Microbial Growth</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m58852"/>
-        
-      
-    
-    
-      <col:module document="m58853"/>
-        
-      
-    
-    
-      <col:module document="m58854"/>
-        
-      
-    
-    
-      <col:module document="m58855"/>
-        
-      
-    
-    
-      <col:module document="m58856"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Antimicrobial Drugs</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m58857"/>
-        
-      
-    
-    
-      <col:module document="m58859"/>
-        
-      
-    
-    
-      <col:module document="m58860"/>
-        
-      
-    
-    
-      <col:module document="m58861"/>
-        
-      
-    
-    
-      <col:module document="m58862"/>
-        
-      
-    
-    
-      <col:module document="m63248"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Disease and Epidemiology</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m58870"/>
-        
-      
-    
-    
-      <col:module document="m58871"/>
-        
-      
-    
-    
-      <col:module document="m58872"/>
-        
-      
-    
-    
-      <col:module document="m58873"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Innate Nonspecific Host Defenses</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m58876"/>
-        
-      
-    
-    
-      <col:module document="m58877"/>
-        
-      
-    
-    
-      <col:module document="m58878"/>
-        
-      
-    
-    
-      <col:module document="m58879"/>
-        
-      
-    
-    
-      <col:module document="m58880"/>
-        
-      
-    
-    
-      <col:module document="m58881"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Adaptive Specific Host Defenses</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m58883"/>
-        
-      
-    
-    
-      <col:module document="m58884"/>
-        
-      
-    
-    
-      <col:module document="m58885"/>
-        
-      
-    
-    
-      <col:module document="m58886"/>
-        
-      
-    
-    
-      <col:module document="m58887"/>
-        
-      
-    
-    
-      <col:module document="m58888"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Diseases of the Immune System</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m58891"/>
-        
-      
-    
-    
-      <col:module document="m58892"/>
-        
-      
-    
-    
-      <col:module document="m58893"/>
-        
-      
-    
-    
-      <col:module document="m58894"/>
-        
-      
-    
-    
-      <col:module document="m58895"/>
-        
-      
-    
-    
-      <col:module document="m58896"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Skin and Eye Infections</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m58905"/>
-        
-      
-    
-    
-      <col:module document="m58906"/>
-        
-      
-    
-    
-      <col:module document="m58907"/>
-        
-      
-    
-    
-      <col:module document="m58908"/>
-        
-      
-    
-    
-      <col:module document="m58909"/>
-        
-      
-    
-    
-      <col:module document="m58910"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Respiratory System Infections</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m58911"/>
-        
-      
-    
-    
-      <col:module document="m58912"/>
-        
-      
-    
-    
-      <col:module document="m58913"/>
-        
-      
-    
-    
-      <col:module document="m58914"/>
-        
-      
-    
-    
-      <col:module document="m58915"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Urogenital System Infections</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m58916"/>
-        
-      
-    
-    
-      <col:module document="m58917"/>
-        
-      
-    
-    
-      <col:module document="m58918"/>
-        
-      
-    
-    
-      <col:module document="m58919"/>
-        
-      
-    
-    
-      <col:module document="m58920"/>
-        
-      
-    
-    
-      <col:module document="m58921"/>
-        
-      
-    
-    
-      <col:module document="m58922"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Digestive System Infections</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m58923"/>
-        
-      
-    
-    
-      <col:module document="m58924"/>
-        
-      
-    
-    
-      <col:module document="m58925"/>
-        
-      
-    
-    
-      <col:module document="m58933"/>
-        
-      
-    
-    
-      <col:module document="m58930"/>
-        
-      
-    
-    
-      <col:module document="m58931"/>
-        
-      
-    
-    
-      <col:module document="m58932"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Circulatory and Lymphatic System Infections</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m58934"/>
-        
-      
-    
-    
-      <col:module document="m58945"/>
-        
-      
-    
-    
-      <col:module document="m58936"/>
-        
-      
-    
-    
-      <col:module document="m58937"/>
-        
-      
-    
-    
-      <col:module document="m58938"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Nervous System Infections</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m58939"/>
-        
-      
-    
-    
-      <col:module document="m58940"/>
-        
-      
-    
-    
-      <col:module document="m58941"/>
-        
-      
-    
-    
-      <col:module document="m58942"/>
-        
-      
-    
-    
-      <col:module document="m58943"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      <col:module document="m58950"/>
-        
-      
-    
+    <col:subcollection>
+      <md:title>Control of Microbial Growth</md:title>
+      <col:content>
+        <col:module document="m58852"/>
+        <col:module document="m58853"/>
+        <col:module document="m58854"/>
+        <col:module document="m58855"/>
+        <col:module document="m58856"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Antimicrobial Drugs</md:title>
+      <col:content>
+        <col:module document="m58857"/>
+        <col:module document="m58859"/>
+        <col:module document="m58860"/>
+        <col:module document="m58861"/>
+        <col:module document="m58862"/>
+        <col:module document="m63248"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Disease and Epidemiology</md:title>
+      <col:content>
+        <col:module document="m58870"/>
+        <col:module document="m58871"/>
+        <col:module document="m58872"/>
+        <col:module document="m58873"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Innate Nonspecific Host Defenses</md:title>
+      <col:content>
+        <col:module document="m58876"/>
+        <col:module document="m58877"/>
+        <col:module document="m58878"/>
+        <col:module document="m58879"/>
+        <col:module document="m58880"/>
+        <col:module document="m58881"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Adaptive Specific Host Defenses</md:title>
+      <col:content>
+        <col:module document="m58883"/>
+        <col:module document="m58884"/>
+        <col:module document="m58885"/>
+        <col:module document="m58886"/>
+        <col:module document="m58887"/>
+        <col:module document="m58888"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Diseases of the Immune System</md:title>
+      <col:content>
+        <col:module document="m58891"/>
+        <col:module document="m58892"/>
+        <col:module document="m58893"/>
+        <col:module document="m58894"/>
+        <col:module document="m58895"/>
+        <col:module document="m58896"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Skin and Eye Infections</md:title>
+      <col:content>
+        <col:module document="m58905"/>
+        <col:module document="m58906"/>
+        <col:module document="m58907"/>
+        <col:module document="m58908"/>
+        <col:module document="m58909"/>
+        <col:module document="m58910"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Respiratory System Infections</md:title>
+      <col:content>
+        <col:module document="m58911"/>
+        <col:module document="m58912"/>
+        <col:module document="m58913"/>
+        <col:module document="m58914"/>
+        <col:module document="m58915"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Urogenital System Infections</md:title>
+      <col:content>
+        <col:module document="m58916"/>
+        <col:module document="m58917"/>
+        <col:module document="m58918"/>
+        <col:module document="m58919"/>
+        <col:module document="m58920"/>
+        <col:module document="m58921"/>
+        <col:module document="m58922"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Digestive System Infections</md:title>
+      <col:content>
+        <col:module document="m58923"/>
+        <col:module document="m58924"/>
+        <col:module document="m58925"/>
+        <col:module document="m58933"/>
+        <col:module document="m58930"/>
+        <col:module document="m58931"/>
+        <col:module document="m58932"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Circulatory and Lymphatic System Infections</md:title>
+      <col:content>
+        <col:module document="m58934"/>
+        <col:module document="m58945"/>
+        <col:module document="m58936"/>
+        <col:module document="m58937"/>
+        <col:module document="m58938"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Nervous System Infections</md:title>
+      <col:content>
+        <col:module document="m58939"/>
+        <col:module document="m58940"/>
+        <col:module document="m58941"/>
+        <col:module document="m58942"/>
+        <col:module document="m58943"/>
+      </col:content>
+    </col:subcollection>
+    <col:module document="m58950"/>
   </col:content>
 </col:collection>
